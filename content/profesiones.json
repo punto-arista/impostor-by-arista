@@ -1,0 +1,257 @@
+{
+  "slug": "profesiones",
+  "name": "profesiones",
+  "sort_order": 5,
+  "words": [
+    {
+      "text": "Bombero",
+      "difficulty": 2,
+      "hints": ["Rescate", "Manguera", "Casco", "Fuego", "Camión rojo"]
+    },
+    {
+      "text": "Dentista",
+      "difficulty": 2,
+      "hints": ["Salud", "Sonrisa", "Muelas", "Consultorio", "Taladro"]
+    },
+    {
+      "text": "Piloto",
+      "difficulty": 2,
+      "hints": ["Uniforme", "Cabina", "Despegue", "Vuelo", "Capitán"]
+    },
+    {
+      "text": "Cocinero",
+      "difficulty": 2,
+      "hints": ["Receta", "Delantal", "Sazón", "Fuego", "Restaurante"]
+    },
+    {
+      "text": "Detective",
+      "difficulty": 2,
+      "hints": ["Enigma", "Pistas", "Lupa", "Caso", "Misterio"]
+    },
+    {
+      "text": "Arquitecto",
+      "difficulty": 2,
+      "hints": ["Plano", "Edificios", "Diseño", "Obra", "Maqueta"]
+    },
+    {
+      "text": "Payaso",
+      "difficulty": 2,
+      "hints": ["Diversión", "Nariz roja", "Risa", "Fiesta", "Circo"]
+    },
+    {
+      "text": "Astronauta",
+      "difficulty": 2,
+      "hints": ["Misión", "Espacio", "Traje", "Cohete", "Gravedad"]
+    },
+    {
+      "text": "Periodista",
+      "difficulty": 2,
+      "hints": ["Información", "Noticias", "Entrevista", "Micrófono", "Reportaje"]
+    },
+    {
+      "text": "Buzo",
+      "difficulty": 2,
+      "hints": ["Profundidad", "Tanque", "Mar", "Aletas", "Oxígeno"]
+    },
+    {
+      "text": "Notario",
+      "difficulty": 2,
+      "hints": ["Firma", "Documentos", "Sello", "Escritura", "Legal"]
+    },
+    {
+      "text": "Sastre",
+      "difficulty": 2,
+      "hints": ["Medida", "Aguja", "Telas", "Traje", "Costura"]
+    },
+    {
+      "text": "Enfermero",
+      "difficulty": 2,
+      "hints": ["Cuidado", "Hospital", "Inyección", "Guardia", "Pacientes"]
+    },
+    {
+      "text": "Abogado",
+      "difficulty": 2,
+      "hints": ["Justicia", "Juicio", "Leyes", "Defensa", "Traje"]
+    },
+    {
+      "text": "Maestro",
+      "difficulty": 2,
+      "hints": ["Enseñar", "Pizarrón", "Clase", "Alumnos", "Tarea"]
+    },
+    {
+      "text": "Ingeniero",
+      "difficulty": 2,
+      "hints": ["Solución", "Cálculo", "Proyectos", "Casco", "Planos"]
+    },
+    {
+      "text": "Veterinario",
+      "difficulty": 2,
+      "hints": ["Mascota", "Vacunas", "Clínica", "Correa", "Cirugía"]
+    },
+    {
+      "text": "Fotógrafo",
+      "difficulty": 2,
+      "hints": ["Momento", "Lente", "Flash", "Sesión", "Retrato"]
+    },
+    {
+      "text": "Electricista",
+      "difficulty": 2,
+      "hints": ["Corriente", "Cables", "Voltaje", "Poste", "Instalar"]
+    },
+    {
+      "text": "Plomero",
+      "difficulty": 2,
+      "hints": ["Fuga", "Tubería", "Llave inglesa", "Baño", "Coladera"]
+    },
+    {
+      "text": "Doctor",
+      "difficulty": 2,
+      "hints": ["Bata", "Consulta", "Receta", "Estetoscopio", "Diagnóstico"]
+    },
+    {
+      "text": "Cartero",
+      "difficulty": 2,
+      "hints": ["Cartas", "Buzón", "Sobres", "Ruta", "Timbre"]
+    },
+    {
+      "text": "Policía",
+      "difficulty": 2,
+      "hints": ["Patrulla", "Placa", "Orden", "Sirena", "Vigilar"]
+    },
+    {
+      "text": "Taxista",
+      "difficulty": 2,
+      "hints": ["Ruta", "Volante", "Tarifa", "Pasajero", "Calles"]
+    },
+    {
+      "text": "Carpintero",
+      "difficulty": 2,
+      "hints": ["Madera", "Serrucho", "Mueble", "Aserrín", "Lija"]
+    },
+    {
+      "text": "Albañil",
+      "difficulty": 2,
+      "hints": ["Ladrillos", "Cemento", "Obra", "Pared", "Andamio"]
+    },
+    {
+      "text": "Mecánico",
+      "difficulty": 2,
+      "hints": ["Taller", "Motor", "Aceite", "Llaves", "Refacciones"]
+    },
+    {
+      "text": "Peluquero",
+      "difficulty": 2,
+      "hints": ["Tijeras", "Cortes", "Silla", "Espejo", "Secadora"]
+    },
+    {
+      "text": "Panadero",
+      "difficulty": 2,
+      "hints": ["Madrugada", "Harina", "Horno", "Masa", "Bolillo"]
+    },
+    {
+      "text": "Pescador",
+      "difficulty": 2,
+      "hints": ["Caña", "Red", "Barca", "Anzuelo", "Madrugar"]
+    },
+    {
+      "text": "Cantante",
+      "difficulty": 2,
+      "hints": ["Voz", "Escenario", "Micrófono", "Gira", "Letras"]
+    },
+    {
+      "text": "Actor",
+      "difficulty": 2,
+      "hints": ["Papel", "Guion", "Cámara", "Escenario", "Personaje"]
+    },
+    {
+      "text": "Escritor",
+      "difficulty": 2,
+      "hints": ["Palabras", "Novela", "Pluma", "Inspiración", "Páginas"]
+    },
+    {
+      "text": "Pintor",
+      "difficulty": 2,
+      "hints": ["Lienzo", "Pincel", "Colores", "Paleta", "Óleo"]
+    },
+    {
+      "text": "Científico",
+      "difficulty": 2,
+      "hints": ["Experimento", "Laboratorio", "Hipótesis", "Bata", "Descubrir"]
+    },
+    {
+      "text": "Programador",
+      "difficulty": 2,
+      "hints": ["Código", "Pantalla", "Errores", "Teclado", "Café"]
+    },
+    {
+      "text": "Contador",
+      "difficulty": 2,
+      "hints": ["Cuentas", "Impuestos", "Números", "Facturas", "Declaración"]
+    },
+    {
+      "text": "Mesero",
+      "difficulty": 2,
+      "hints": ["Charola", "Propina", "Mesas", "Menú", "Servir"]
+    },
+    {
+      "text": "Repartidor",
+      "difficulty": 2,
+      "hints": ["Entrega", "Moto", "Mochila", "Propina", "Dirección"]
+    },
+    {
+      "text": "Jardinero",
+      "difficulty": 2,
+      "hints": ["Plantas", "Podar", "Pasto", "Manguera", "Tierra"]
+    },
+    {
+      "text": "Salvavidas",
+      "difficulty": 2,
+      "hints": ["Alberca", "Silbato", "Rescate", "Torre", "Flotador"]
+    },
+    {
+      "text": "Soldado",
+      "difficulty": 2,
+      "hints": ["Uniforme", "Disciplina", "Cuartel", "Marchar", "Rango"]
+    },
+    {
+      "text": "Juez",
+      "difficulty": 2,
+      "hints": ["Sentencia", "Mazo", "Tribunal", "Veredicto", "Toga"]
+    },
+    {
+      "text": "Bailarín",
+      "difficulty": 2,
+      "hints": ["Ritmo", "Escenario", "Coreografía", "Puntas", "Movimientos"]
+    },
+    {
+      "text": "Barista",
+      "difficulty": 2,
+      "hints": ["Café", "Espuma", "Máquina", "Mostrador", "Tazas"]
+    },
+    {
+      "text": "Traductor",
+      "difficulty": 2,
+      "hints": ["Idiomas", "Textos", "Diccionario", "Significado", "Conferencia"]
+    },
+    {
+      "text": "Psicólogo",
+      "difficulty": 2,
+      "hints": ["Mente", "Terapia", "Escuchar", "Diván", "Consulta"]
+    },
+    {
+      "text": "Cirujano",
+      "difficulty": 2,
+      "hints": ["Quirófano", "Bisturí", "Operación", "Guantes", "Precisión"]
+    },
+    {
+      "text": "Bibliotecario",
+      "difficulty": 2,
+      "hints": ["Silencio", "Libros", "Préstamo", "Estantes", "Sellar"]
+    },
+    {
+      "text": "Guardia",
+      "difficulty": 2,
+      "hints": ["Vigilar", "Entrada", "Turno", "Uniforme", "Radio"]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "slug": "frutas",
+  "name": "frutas y verduras",
+  "sort_order": 20,
+  "words": [
+    {
+      "text": "Manzana",
+      "difficulty": 2,
+      "hints": ["Roja", "Árbol", "Mordisco", "Doctor", "Crujiente"]
+    },
+    {
+      "text": "Plátano",
+      "difficulty": 2,
+      "hints": ["Amarillo", "Cáscara", "Resbalón", "Mono", "Racimo"]
+    },
+    {
+      "text": "Naranja",
+      "difficulty": 2,
+      "hints": ["Cítrico", "Jugo", "Gajos", "Vitamina C", "Redonda"]
+    },
+    {
+      "text": "Fresa",
+      "difficulty": 2,
+      "hints": ["Roja", "Crema", "Semillas", "Pequeña", "Postre"]
+    },
+    {
+      "text": "Uva",
+      "difficulty": 2,
+      "hints": ["Racimo", "Vino", "Pasas", "Viñedo", "Año Nuevo"]
+    },
+    {
+      "text": "Sandía",
+      "difficulty": 2,
+      "hints": ["Verano", "Semillas", "Rayas", "Verde por fuera", "Rebanada"]
+    },
+    {
+      "text": "Melón",
+      "difficulty": 2,
+      "hints": ["Dulce", "Cantalupo", "Cáscara rugosa", "Verano", "Cuadritos"]
+    },
+    {
+      "text": "Piña",
+      "difficulty": 2,
+      "hints": ["Tropical", "Corona", "Espinosa", "Tepache", "Amarilla"]
+    },
+    {
+      "text": "Mango",
+      "difficulty": 2,
+      "hints": ["Dulce", "Tropical", "Hueso", "Chile", "Palito"]
+    },
+    {
+      "text": "Papaya",
+      "difficulty": 2,
+      "hints": ["Anaranjada", "Semillas negras", "Tropical", "Desayuno", "Digestión"]
+    },
+    {
+      "text": "Limón",
+      "difficulty": 2,
+      "hints": ["Ácido", "Verde", "Exprimir", "Sal", "Cítrico"]
+    },
+    {
+      "text": "Durazno",
+      "difficulty": 2,
+      "hints": ["Peludo", "Hueso", "Jugoso", "Verano", "Almíbar"]
+    },
+    {
+      "text": "Pera",
+      "difficulty": 2,
+      "hints": ["Forma", "Dulce", "Jugosa", "Verde", "Árbol"]
+    },
+    {
+      "text": "Cereza",
+      "difficulty": 2,
+      "hints": ["Rabito", "Pastel", "Roja", "Pequeña", "Hueso"]
+    },
+    {
+      "text": "Kiwi",
+      "difficulty": 2,
+      "hints": ["Peludo", "Verde", "Semillas", "Cortar", "Ácido"]
+    },
+    {
+      "text": "Aguacate",
+      "difficulty": 2,
+      "hints": ["Verde", "Hueso", "Cremoso", "Tostada", "Grasa buena"]
+    },
+    {
+      "text": "Coco",
+      "difficulty": 2,
+      "hints": ["Cáscara", "Agua", "Rallado", "Tropical", "Palmera"]
+    },
+    {
+      "text": "Tamarindo",
+      "difficulty": 2,
+      "hints": ["Ácido", "Vaina", "Dulce", "Chile", "Café"]
+    },
+    {
+      "text": "Guayaba",
+      "difficulty": 2,
+      "hints": ["Ponche", "Semillas", "Aroma", "Rosada", "Verde"]
+    },
+    {
+      "text": "Granada",
+      "difficulty": 2,
+      "hints": ["Granos", "Roja", "Semillas", "Jugosa", "Navidad"]
+    },
+    {
+      "text": "Jitomate",
+      "difficulty": 2,
+      "hints": ["Salsa", "Rojo", "Ensalada", "Jugoso", "Redondo"]
+    },
+    {
+      "text": "Cebolla",
+      "difficulty": 2,
+      "hints": ["Lágrimas", "Capas", "Picar", "Sabor", "Blanca"]
+    },
+    {
+      "text": "Zanahoria",
+      "difficulty": 2,
+      "hints": ["Naranja", "Conejo", "Raíz", "Vitamina A", "Crujiente"]
+    },
+    {
+      "text": "Papa",
+      "difficulty": 2,
+      "hints": ["Tubérculo", "Puré", "Freír", "Tierra", "Hervida"]
+    },
+    {
+      "text": "Lechuga",
+      "difficulty": 2,
+      "hints": ["Hojas", "Ensalada", "Verde", "Hamburguesa", "Fresca"]
+    },
+    {
+      "text": "Pepino",
+      "difficulty": 2,
+      "hints": ["Fresco", "Rodajas", "Verde", "Ensalada", "Agua"]
+    },
+    {
+      "text": "Calabaza",
+      "difficulty": 2,
+      "hints": ["Naranja", "Halloween", "Semillas", "Dulce", "Otoño"]
+    },
+    {
+      "text": "Chile",
+      "difficulty": 2,
+      "hints": ["Picante", "Verde", "Salsa", "Lágrimas", "Mexicano"]
+    },
+    {
+      "text": "Ajo",
+      "difficulty": 2,
+      "hints": ["Dientes", "Olor fuerte", "Vampiros", "Cocina", "Cabeza"]
+    },
+    {
+      "text": "Brócoli",
+      "difficulty": 2,
+      "hints": ["Arbolito", "Verde", "Saludable", "Niños", "Vapor"]
+    },
+    {
+      "text": "Espinaca",
+      "difficulty": 2,
+      "hints": ["Hojas", "Fuerza", "Marinero", "Verde", "Hierro"]
+    },
+    {
+      "text": "Betabel",
+      "difficulty": 2,
+      "hints": ["Morado", "Raíz", "Tierra", "Jugo", "Manchas"]
+    },
+    {
+      "text": "Chayote",
+      "difficulty": 2,
+      "hints": ["Espinoso", "Verde", "Sopa", "Hervido", "Suave"]
+    },
+    {
+      "text": "Nopal",
+      "difficulty": 2,
+      "hints": ["Espinas", "Cactus", "Verde", "Desayuno", "Bandera"]
+    },
+    {
+      "text": "Pimiento",
+      "difficulty": 2,
+      "hints": ["Colores", "Rojo", "Hueco", "Relleno", "Dulce"]
+    },
+    {
+      "text": "Champiñón",
+      "difficulty": 2,
+      "hints": ["Sombrero", "Hongo", "Blanco", "Salteado", "Pizza"]
+    },
+    {
+      "text": "Camote",
+      "difficulty": 2,
+      "hints": ["Dulce", "Tubérculo", "Horno", "Calle", "Morado"]
+    },
+    {
+      "text": "Jícama",
+      "difficulty": 2,
+      "hints": ["Crujiente", "Botana", "Limón y chile", "Raíz", "Blanca"]
+    },
+    {
+      "text": "Col",
+      "difficulty": 2,
+      "hints": ["Hojas", "Repollo", "Capas", "Ensalada", "Tacos"]
+    },
+    {
+      "text": "Berenjena",
+      "difficulty": 2,
+      "hints": ["Morada", "Alargada", "Brillante", "Parmesana", "Asada"]
+    }
+  ]
+}

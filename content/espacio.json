@@ -1,0 +1,207 @@
+{
+  "slug": "espacio",
+  "name": "espacio y ciencia",
+  "sort_order": 24,
+  "words": [
+    {
+      "text": "Planeta",
+      "difficulty": 2,
+      "hints": ["Órbita", "Esfera", "Sol", "Sistema", "Satélites"]
+    },
+    {
+      "text": "Galaxia",
+      "difficulty": 2,
+      "hints": ["Estrellas", "Espiral", "Millones", "Lejana", "Universo"]
+    },
+    {
+      "text": "Órbita",
+      "difficulty": 2,
+      "hints": ["Giro", "Alrededor", "Trayectoria", "Satélite", "Elíptica"]
+    },
+    {
+      "text": "Telescopio",
+      "difficulty": 2,
+      "hints": ["Lente", "Estrellas", "Observatorio", "Mirar lejos", "Trípode"]
+    },
+    {
+      "text": "Meteorito",
+      "difficulty": 2,
+      "hints": ["Impacto", "Roca", "Cráter", "Cielo", "Caída"]
+    },
+    {
+      "text": "Asteroide",
+      "difficulty": 2,
+      "hints": ["Roca", "Cinturón", "Colisión", "Espacio", "Dinosaurios"]
+    },
+    {
+      "text": "Agujero negro",
+      "difficulty": 2,
+      "hints": ["Absorbe", "Luz", "Gravedad", "Misterio", "Oscuro"]
+    },
+    {
+      "text": "Constelación",
+      "difficulty": 2,
+      "hints": ["Estrellas", "Figuras", "Noche", "Dibujo", "Zodiaco"]
+    },
+    {
+      "text": "Vía Láctea",
+      "difficulty": 2,
+      "hints": ["Nuestra casa", "Estrellas", "Espiral", "Cielo", "Leche"]
+    },
+    {
+      "text": "Marte",
+      "difficulty": 2,
+      "hints": ["Rojo", "Rover", "Colonia", "Vecino", "Polvo"]
+    },
+    {
+      "text": "Júpiter",
+      "difficulty": 2,
+      "hints": ["Gigante", "Mancha", "Gas", "Tormenta", "Lunas"]
+    },
+    {
+      "text": "Saturno",
+      "difficulty": 2,
+      "hints": ["Anillos", "Gaseoso", "Amarillento", "Lunas", "Lejano"]
+    },
+    {
+      "text": "Venus",
+      "difficulty": 2,
+      "hints": ["Calor", "Brillante", "Vecino", "Nubes", "Amanecer"]
+    },
+    {
+      "text": "Mercurio",
+      "difficulty": 2,
+      "hints": ["Cercano", "Pequeño", "Rápido", "Calor", "Sol"]
+    },
+    {
+      "text": "Neptuno",
+      "difficulty": 2,
+      "hints": ["Azul", "Lejano", "Frío", "Viento", "Último"]
+    },
+    {
+      "text": "Plutón",
+      "difficulty": 2,
+      "hints": ["Enano", "Frío", "Lejano", "Pequeño", "Debate"]
+    },
+    {
+      "text": "Supernova",
+      "difficulty": 2,
+      "hints": ["Explosión", "Estrella", "Brillo", "Final", "Muerte"]
+    },
+    {
+      "text": "Nebulosa",
+      "difficulty": 2,
+      "hints": ["Nube", "Gas", "Colores", "Polvo", "Nacimiento"]
+    },
+    {
+      "text": "Gravedad",
+      "difficulty": 2,
+      "hints": ["Caer", "Atraer", "Peso", "Manzana", "Fuerza"]
+    },
+    {
+      "text": "Estación espacial",
+      "difficulty": 2,
+      "hints": ["Órbita", "Laboratorio", "Astronautas", "Módulos", "Flotar"]
+    },
+    {
+      "text": "Traje espacial",
+      "difficulty": 2,
+      "hints": ["Casco", "Oxígeno", "Blanco", "Guantes", "Flotar"]
+    },
+    {
+      "text": "Big Bang",
+      "difficulty": 2,
+      "hints": ["Origen", "Explosión", "Universo", "Comienzo", "Expansión"]
+    },
+    {
+      "text": "Átomo",
+      "difficulty": 2,
+      "hints": ["Pequeñísimo", "Núcleo", "Electrones", "Materia", "Partículas"]
+    },
+    {
+      "text": "Molécula",
+      "difficulty": 2,
+      "hints": ["Átomos", "Unión", "Agua", "Enlace", "Química"]
+    },
+    {
+      "text": "ADN",
+      "difficulty": 2,
+      "hints": ["Hélice", "Genes", "Herencia", "Código", "Células"]
+    },
+    {
+      "text": "Microscopio",
+      "difficulty": 2,
+      "hints": ["Lente", "Pequeño", "Laboratorio", "Células", "Aumento"]
+    },
+    {
+      "text": "Imán",
+      "difficulty": 2,
+      "hints": ["Atraer", "Polos", "Hierro", "Refrigerador", "Campo"]
+    },
+    {
+      "text": "Electricidad",
+      "difficulty": 2,
+      "hints": ["Corriente", "Rayo", "Cables", "Voltaje", "Luz"]
+    },
+    {
+      "text": "Evolución",
+      "difficulty": 2,
+      "hints": ["Cambio", "Especies", "Darwin", "Tiempo", "Adaptación"]
+    },
+    {
+      "text": "Dinosaurio",
+      "difficulty": 2,
+      "hints": ["Extinto", "Jurásico", "Huesos", "Gigante", "Meteorito"]
+    },
+    {
+      "text": "Vacuna",
+      "difficulty": 2,
+      "hints": ["Aguja", "Protección", "Brazo", "Enfermedad", "Dosis"]
+    },
+    {
+      "text": "Bacteria",
+      "difficulty": 2,
+      "hints": ["Microscópica", "Infección", "Células", "Antibióticos", "Yogurt"]
+    },
+    {
+      "text": "Virus",
+      "difficulty": 2,
+      "hints": ["Contagio", "Microscópico", "Gripe", "Mutar", "Enfermedad"]
+    },
+    {
+      "text": "Termómetro",
+      "difficulty": 2,
+      "hints": ["Fiebre", "Grados", "Temperatura", "Mercurio", "Medir"]
+    },
+    {
+      "text": "Probeta",
+      "difficulty": 2,
+      "hints": ["Laboratorio", "Líquidos", "Tubo", "Medir", "Vidrio"]
+    },
+    {
+      "text": "Tabla periódica",
+      "difficulty": 2,
+      "hints": ["Elementos", "Química", "Cuadros", "Símbolos", "Mendeléyev"]
+    },
+    {
+      "text": "Experimento",
+      "difficulty": 2,
+      "hints": ["Hipótesis", "Laboratorio", "Prueba", "Resultados", "Ciencia"]
+    },
+    {
+      "text": "Fórmula",
+      "difficulty": 2,
+      "hints": ["Ecuación", "Química", "Números", "Pizarrón", "Resultado"]
+    },
+    {
+      "text": "Brújula",
+      "difficulty": 2,
+      "hints": ["Norte", "Aguja", "Dirección", "Explorar", "Imán"]
+    },
+    {
+      "text": "Relatividad",
+      "difficulty": 2,
+      "hints": ["Einstein", "Tiempo", "Luz", "Famosa", "Espacio"]
+    }
+  ]
+}

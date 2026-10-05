@@ -1,0 +1,11 @@
+/* Las fuentes se cargan localmente con @fontsource (src/main.tsx) para que
+   funcionen sin conexión; aquí solo van los tokens. */
+:root{
+--font-display:'Space Grotesk','Space Grotesk Fallback',sans-serif;
+--font-sans:'DM Sans','DM Sans Fallback',sans-serif;
+--font-mono:'Space Mono','Space Mono Fallback',monospace;
+--text-xs:0.75rem;--text-sm:0.875rem;--text-base:1rem;--text-lg:1.125rem;
+--text-3xl:1.875rem;--text-4xl:2.25rem;--text-5xl:3rem;--text-6xl:3.75rem;--text-7xl:4.5rem;--text-8xl:6rem;
+--tracking-tight:-0.02em;--tracking-widest:0.15em;
+--leading-tight:1.1;--leading-relaxed:1.65;
+}

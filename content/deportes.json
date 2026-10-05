@@ -1,0 +1,257 @@
+{
+  "slug": "deportes",
+  "name": "deportes",
+  "sort_order": 7,
+  "words": [
+    {
+      "text": "Fútbol",
+      "difficulty": 2,
+      "hints": ["Equipo", "Gol", "Balón", "Mundial", "Árbitro"]
+    },
+    {
+      "text": "Tenis",
+      "difficulty": 2,
+      "hints": ["Precisión", "Raqueta", "Red", "Set", "Pelota amarilla"]
+    },
+    {
+      "text": "Boxeo",
+      "difficulty": 2,
+      "hints": ["Combate", "Guantes", "Ring", "Golpes", "Round"]
+    },
+    {
+      "text": "Surf",
+      "difficulty": 2,
+      "hints": ["Equilibrio", "Olas", "Tabla", "Mar", "Neopreno"]
+    },
+    {
+      "text": "Esgrima",
+      "difficulty": 2,
+      "hints": ["Duelo", "Espada", "Máscara", "Estocada", "Blanco"]
+    },
+    {
+      "text": "Rugby",
+      "difficulty": 2,
+      "hints": ["Contacto", "Ovalada", "Empujar", "Scrum", "Ensayo"]
+    },
+    {
+      "text": "Ciclismo",
+      "difficulty": 2,
+      "hints": ["Resistencia", "Pedalear", "Ruta", "Casco", "Montaña"]
+    },
+    {
+      "text": "Natación",
+      "difficulty": 2,
+      "hints": ["Agua", "Brazadas", "Carril", "Gorro", "Alberca"]
+    },
+    {
+      "text": "Ajedrez",
+      "difficulty": 2,
+      "hints": ["Estrategia", "Tablero", "Jaque", "Reina", "Piezas"]
+    },
+    {
+      "text": "Golf",
+      "difficulty": 2,
+      "hints": ["Paciencia", "Hoyo", "Palo", "Césped", "Bandera"]
+    },
+    {
+      "text": "Yoga",
+      "difficulty": 2,
+      "hints": ["Calma", "Postura", "Respiración", "Tapete", "Flexibilidad"]
+    },
+    {
+      "text": "Escalada",
+      "difficulty": 2,
+      "hints": ["Altura", "Cuerda", "Pared", "Arnés", "Agarre"]
+    },
+    {
+      "text": "Voleibol",
+      "difficulty": 2,
+      "hints": ["Rebote", "Red", "Saque", "Remate", "Arena"]
+    },
+    {
+      "text": "Béisbol",
+      "difficulty": 2,
+      "hints": ["Temporada", "Bate", "Guante", "Entradas", "Jonrón"]
+    },
+    {
+      "text": "Baloncesto",
+      "difficulty": 2,
+      "hints": ["Cancha", "Aro", "Encestar", "Triple", "Drible"]
+    },
+    {
+      "text": "Atletismo",
+      "difficulty": 2,
+      "hints": ["Meta", "Pista", "Carrera", "Salto", "Relevos"]
+    },
+    {
+      "text": "Patinaje",
+      "difficulty": 2,
+      "hints": ["Hielo", "Ruedas", "Giros", "Pista", "Deslizar"]
+    },
+    {
+      "text": "Remo",
+      "difficulty": 2,
+      "hints": ["Ritmo", "Bote", "Palas", "Río", "Equipo"]
+    },
+    {
+      "text": "Karate",
+      "difficulty": 2,
+      "hints": ["Disciplina", "Cinturón", "Kimono", "Golpe", "Dojo"]
+    },
+    {
+      "text": "Bádminton",
+      "difficulty": 2,
+      "hints": ["Ligero", "Raqueta", "Volante", "Red", "Pluma"]
+    },
+    {
+      "text": "Lucha libre",
+      "difficulty": 2,
+      "hints": ["Máscara", "Ring", "Llaves", "Espectáculo", "Técnicos"]
+    },
+    {
+      "text": "Hockey",
+      "difficulty": 2,
+      "hints": ["Disco", "Palo", "Portero", "Patines", "Pista"]
+    },
+    {
+      "text": "Billar",
+      "difficulty": 2,
+      "hints": ["Mesa verde", "Taco", "Bolas", "Tronera", "Tiza"]
+    },
+    {
+      "text": "Boliche",
+      "difficulty": 2,
+      "hints": ["Pista", "Pinos", "Strike", "Zapatos", "Bola pesada"]
+    },
+    {
+      "text": "Tiro con arco",
+      "difficulty": 2,
+      "hints": ["Flecha", "Diana", "Puntería", "Cuerda", "Concentración"]
+    },
+    {
+      "text": "Gimnasia",
+      "difficulty": 2,
+      "hints": ["Flexibilidad", "Barras", "Piruetas", "Colchoneta", "Rutina"]
+    },
+    {
+      "text": "Maratón",
+      "difficulty": 2,
+      "hints": ["Resistencia", "Calles", "Kilómetros", "Meta", "Agua"]
+    },
+    {
+      "text": "Skate",
+      "difficulty": 2,
+      "hints": ["Tabla", "Trucos", "Rampa", "Ruedas", "Calle"]
+    },
+    {
+      "text": "Esquí",
+      "difficulty": 2,
+      "hints": ["Nieve", "Pendiente", "Bastones", "Montaña", "Invierno"]
+    },
+    {
+      "text": "Snowboard",
+      "difficulty": 2,
+      "hints": ["Nieve", "Tabla", "Pendiente", "Equilibrio", "Invierno"]
+    },
+    {
+      "text": "Buceo",
+      "difficulty": 2,
+      "hints": ["Profundidad", "Tanque", "Aletas", "Mar", "Oxígeno"]
+    },
+    {
+      "text": "Pesca",
+      "difficulty": 2,
+      "hints": ["Caña", "Paciencia", "Anzuelo", "Lago", "Carnada"]
+    },
+    {
+      "text": "Equitación",
+      "difficulty": 2,
+      "hints": ["Montura", "Riendas", "Salto", "Doma", "Jinete"]
+    },
+    {
+      "text": "Charrería",
+      "difficulty": 2,
+      "hints": ["Lazo", "Sombrero", "Jinete", "Tradición", "Suerte"]
+    },
+    {
+      "text": "Waterpolo",
+      "difficulty": 2,
+      "hints": ["Alberca", "Portería", "Gorros", "Pelota", "Equipo"]
+    },
+    {
+      "text": "Pádel",
+      "difficulty": 2,
+      "hints": ["Paredes", "Raqueta", "Parejas", "Red", "Pala"]
+    },
+    {
+      "text": "Pimpón",
+      "difficulty": 2,
+      "hints": ["Mesa", "Pelota blanca", "Paleta", "Rápido", "Saque"]
+    },
+    {
+      "text": "Dardos",
+      "difficulty": 2,
+      "hints": ["Diana", "Puntería", "Bar", "Lanzar", "Puntos"]
+    },
+    {
+      "text": "Halterofilia",
+      "difficulty": 2,
+      "hints": ["Pesas", "Barra", "Fuerza", "Levantar", "Discos"]
+    },
+    {
+      "text": "Judo",
+      "difficulty": 2,
+      "hints": ["Kimono", "Llave", "Tatami", "Cinturón", "Proyección"]
+    },
+    {
+      "text": "Taekwondo",
+      "difficulty": 2,
+      "hints": ["Patadas", "Cinturón", "Peto", "Combate", "Disciplina"]
+    },
+    {
+      "text": "Sóftbol",
+      "difficulty": 2,
+      "hints": ["Bate", "Guante", "Entradas", "Diamante", "Lanzadora"]
+    },
+    {
+      "text": "Frisbee",
+      "difficulty": 2,
+      "hints": ["Disco volador", "Parque", "Lanzar", "Atrapar", "Perros"]
+    },
+    {
+      "text": "Parkour",
+      "difficulty": 2,
+      "hints": ["Saltos", "Ciudad", "Obstáculos", "Muros", "Agilidad"]
+    },
+    {
+      "text": "Fútbol americano",
+      "difficulty": 2,
+      "hints": ["Casco", "Touchdown", "Mariscal", "Hombreras", "Domingo"]
+    },
+    {
+      "text": "Polo",
+      "difficulty": 2,
+      "hints": ["Caballos", "Mazo", "Campo", "Elegante", "Equipos"]
+    },
+    {
+      "text": "Críquet",
+      "difficulty": 2,
+      "hints": ["Bate", "Wicket", "Lanzador", "Pelota dura", "Jornadas"]
+    },
+    {
+      "text": "Handball",
+      "difficulty": 2,
+      "hints": ["Balón", "Portería", "Manos", "Equipo", "Cancha"]
+    },
+    {
+      "text": "Triatlón",
+      "difficulty": 2,
+      "hints": ["Resistencia", "Tres pruebas", "Transición", "Bicicleta", "Carrera"]
+    },
+    {
+      "text": "Senderismo",
+      "difficulty": 2,
+      "hints": ["Caminata", "Montaña", "Mochila", "Ruta", "Naturaleza"]
+    }
+  ]
+}

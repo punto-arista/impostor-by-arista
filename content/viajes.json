@@ -1,0 +1,207 @@
+{
+  "slug": "viajes",
+  "name": "viajes y turismo",
+  "sort_order": 25,
+  "words": [
+    {
+      "text": "Pasaporte",
+      "difficulty": 2,
+      "hints": ["Sello", "Foto", "Identificación", "Frontera", "Libreta"]
+    },
+    {
+      "text": "Visa",
+      "difficulty": 2,
+      "hints": ["Permiso", "Embajada", "Entrevista", "Frontera", "Sello"]
+    },
+    {
+      "text": "Equipaje",
+      "difficulty": 2,
+      "hints": ["Maleta", "Peso", "Faja", "Bodega", "Aeropuerto"]
+    },
+    {
+      "text": "Turista",
+      "difficulty": 2,
+      "hints": ["Cámara", "Gorra", "Mapa", "Fotos", "Visitante"]
+    },
+    {
+      "text": "Guía turístico",
+      "difficulty": 2,
+      "hints": ["Paraguas", "Explica", "Grupo", "Historia", "Recorrido"]
+    },
+    {
+      "text": "Itinerario",
+      "difficulty": 2,
+      "hints": ["Plan", "Días", "Horarios", "Ruta", "Agenda"]
+    },
+    {
+      "text": "Boleto de avión",
+      "difficulty": 2,
+      "hints": ["Asiento", "Fecha", "Aerolínea", "Reservar", "Ventana"]
+    },
+    {
+      "text": "Escala",
+      "difficulty": 2,
+      "hints": ["Conexión", "Espera", "Terminal", "Cambio", "Vuelo"]
+    },
+    {
+      "text": "Aduana",
+      "difficulty": 2,
+      "hints": ["Revisión", "Frontera", "Declarar", "Fila", "Maletas"]
+    },
+    {
+      "text": "Check-in",
+      "difficulty": 2,
+      "hints": ["Mostrador", "Documentos", "Asiento", "Hotel", "Llegada"]
+    },
+    {
+      "text": "Mochilero",
+      "difficulty": 2,
+      "hints": ["Barato", "Aventura", "Hostal", "Caminar", "Libre"]
+    },
+    {
+      "text": "Souvenir",
+      "difficulty": 2,
+      "hints": ["Recuerdo", "Imán", "Tienda", "Regalo", "Llavero"]
+    },
+    {
+      "text": "Postal",
+      "difficulty": 2,
+      "hints": ["Cartero", "Foto", "Saludos", "Sello", "Escribir"]
+    },
+    {
+      "text": "Excursión",
+      "difficulty": 2,
+      "hints": ["Grupo", "Guía", "Día", "Naturaleza", "Autobús"]
+    },
+    {
+      "text": "Safari",
+      "difficulty": 2,
+      "hints": ["África", "Jeep", "Animales", "Cámara", "Sabana"]
+    },
+    {
+      "text": "Jet lag",
+      "difficulty": 2,
+      "hints": ["Sueño", "Zona horaria", "Cansancio", "Reloj", "Vuelo largo"]
+    },
+    {
+      "text": "Hostal",
+      "difficulty": 2,
+      "hints": ["Literas", "Barato", "Compartido", "Mochileros", "Cuarto"]
+    },
+    {
+      "text": "Todo incluido",
+      "difficulty": 2,
+      "hints": ["Pulsera", "Buffet", "Resort", "Barra libre", "Playa"]
+    },
+    {
+      "text": "Reservación",
+      "difficulty": 2,
+      "hints": ["Apartar", "Nombre", "Fecha", "Mesa", "Confirmar"]
+    },
+    {
+      "text": "Tarjeta de embarque",
+      "difficulty": 2,
+      "hints": ["Puerta", "Asiento", "Escáner", "Código", "Vuelo"]
+    },
+    {
+      "text": "Torre Eiffel",
+      "difficulty": 2,
+      "hints": ["Hierro", "Enamorados", "Luces", "Capital", "Altura"]
+    },
+    {
+      "text": "Estatua de la Libertad",
+      "difficulty": 2,
+      "hints": ["Antorcha", "Isla", "Verde", "Regalo", "Puerto"]
+    },
+    {
+      "text": "Muralla China",
+      "difficulty": 2,
+      "hints": ["Larga", "Piedra", "Imperio", "Se ve desde el espacio", "Defensa"]
+    },
+    {
+      "text": "Coliseo romano",
+      "difficulty": 2,
+      "hints": ["Gladiadores", "Ruinas", "Arena", "Antigua", "Anfiteatro"]
+    },
+    {
+      "text": "Machu Picchu",
+      "difficulty": 2,
+      "hints": ["Montaña", "Inca", "Ruinas", "Nubes", "Llamas"]
+    },
+    {
+      "text": "Cristo Redentor",
+      "difficulty": 2,
+      "hints": ["Brazos abiertos", "Cerro", "Estatua", "Montaña", "Ciudad"]
+    },
+    {
+      "text": "Taj Mahal",
+      "difficulty": 2,
+      "hints": ["Mármol", "Amor", "Mausoleo", "Blanco", "Cúpula"]
+    },
+    {
+      "text": "Big Ben",
+      "difficulty": 2,
+      "hints": ["Reloj", "Torre", "Campana", "Río", "Gigante"]
+    },
+    {
+      "text": "Gran Cañón",
+      "difficulty": 2,
+      "hints": ["Colorado", "Río", "Profundo", "Rocas", "Mirador"]
+    },
+    {
+      "text": "Cataratas del Niágara",
+      "difficulty": 2,
+      "hints": ["Agua", "Frontera", "Rugido", "Barco", "Turistas"]
+    },
+    {
+      "text": "Disneylandia",
+      "difficulty": 2,
+      "hints": ["Ratón", "Castillo", "Fantasía", "Filas", "Niños"]
+    },
+    {
+      "text": "Las Vegas",
+      "difficulty": 2,
+      "hints": ["Luces", "Casinos", "Desierto", "Apuestas", "Espectáculos"]
+    },
+    {
+      "text": "París",
+      "difficulty": 2,
+      "hints": ["Luz", "Baguette", "Moda", "Romance", "Río"]
+    },
+    {
+      "text": "Nueva York",
+      "difficulty": 2,
+      "hints": ["Rascacielos", "Taxis", "Metro", "Parque", "Ciudad"]
+    },
+    {
+      "text": "Tokio",
+      "difficulty": 2,
+      "hints": ["Neón", "Tren bala", "Sushi", "Ciudad", "Oriente"]
+    },
+    {
+      "text": "Roma",
+      "difficulty": 2,
+      "hints": ["Ruinas", "Pasta", "Fuentes", "Capital", "Antigua"]
+    },
+    {
+      "text": "Londres",
+      "difficulty": 2,
+      "hints": ["Niebla", "Té", "Río", "Reina", "Capital"]
+    },
+    {
+      "text": "Pirámides de Egipto",
+      "difficulty": 2,
+      "hints": ["Faraones", "Desierto", "Antiguas", "Esfinge", "Enormes"]
+    },
+    {
+      "text": "Sagrada Familia",
+      "difficulty": 2,
+      "hints": ["Gaudí", "Obra eterna", "Torres", "Iglesia", "Fachada"]
+    },
+    {
+      "text": "Santorini",
+      "difficulty": 2,
+      "hints": ["Isla", "Blanco y azul", "Atardecer", "Mar", "Vistas"]
+    }
+  ]
+}

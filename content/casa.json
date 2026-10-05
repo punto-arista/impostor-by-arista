@@ -1,0 +1,207 @@
+{
+  "slug": "casa",
+  "name": "casa y hogar",
+  "sort_order": 18,
+  "words": [
+    {
+      "text": "Cocina",
+      "difficulty": 2,
+      "hints": ["Estufa", "Comida", "Recetas", "Trastes", "Aroma"]
+    },
+    {
+      "text": "Sala",
+      "difficulty": 2,
+      "hints": ["Sofá", "Visitas", "Televisión", "Centro", "Descanso"]
+    },
+    {
+      "text": "Baño",
+      "difficulty": 2,
+      "hints": ["Regadera", "Inodoro", "Toallas", "Jabón", "Espejo"]
+    },
+    {
+      "text": "Recámara",
+      "difficulty": 2,
+      "hints": ["Cama", "Dormir", "Clóset", "Privada", "Descanso"]
+    },
+    {
+      "text": "Comedor",
+      "difficulty": 2,
+      "hints": ["Mesa", "Sillas", "Familia", "Domingo", "Platos"]
+    },
+    {
+      "text": "Cochera",
+      "difficulty": 2,
+      "hints": ["Auto", "Portón", "Entrada", "Herramientas", "Cortina metálica"]
+    },
+    {
+      "text": "Jardín",
+      "difficulty": 2,
+      "hints": ["Plantas", "Pasto", "Flores", "Regar", "Fuera"]
+    },
+    {
+      "text": "Patio",
+      "difficulty": 2,
+      "hints": ["Lavadero", "Ropa tendida", "Mascotas", "Fuera", "Plantas"]
+    },
+    {
+      "text": "Ventana",
+      "difficulty": 2,
+      "hints": ["Vidrio", "Luz", "Cortinas", "Vista", "Abrir"]
+    },
+    {
+      "text": "Puerta",
+      "difficulty": 2,
+      "hints": ["Entrada", "Perilla", "Cerradura", "Timbre", "Abrir"]
+    },
+    {
+      "text": "Techo",
+      "difficulty": 2,
+      "hints": ["Tejas", "Lluvia", "Arriba", "Goteras", "Protección"]
+    },
+    {
+      "text": "Escalera",
+      "difficulty": 2,
+      "hints": ["Peldaños", "Barandal", "Subir", "Pisos", "Pasamanos"]
+    },
+    {
+      "text": "Pared",
+      "difficulty": 2,
+      "hints": ["Pintura", "Cuadros", "Ladrillo", "Cuarto", "Clavo"]
+    },
+    {
+      "text": "Chimenea",
+      "difficulty": 2,
+      "hints": ["Leña", "Invierno", "Humo", "Calor", "Sala"]
+    },
+    {
+      "text": "Sofá",
+      "difficulty": 2,
+      "hints": ["Sentarse", "Cojines", "Siesta", "Televisión", "Cómodo"]
+    },
+    {
+      "text": "Estufa",
+      "difficulty": 2,
+      "hints": ["Hornillas", "Gas", "Cocinar", "Flama", "Olla"]
+    },
+    {
+      "text": "Lavadora",
+      "difficulty": 2,
+      "hints": ["Ropa", "Jabón", "Ciclo", "Tambor", "Agua"]
+    },
+    {
+      "text": "Aspiradora",
+      "difficulty": 2,
+      "hints": ["Polvo", "Ruido", "Succión", "Limpieza", "Alfombra"]
+    },
+    {
+      "text": "Plancha",
+      "difficulty": 2,
+      "hints": ["Arrugas", "Calor", "Camisas", "Vapor", "Tabla"]
+    },
+    {
+      "text": "Licuadora",
+      "difficulty": 2,
+      "hints": ["Vaso", "Aspas", "Triturar", "Tapa", "Ruido"]
+    },
+    {
+      "text": "Tostadora",
+      "difficulty": 2,
+      "hints": ["Pan", "Resortes", "Desayuno", "Dorar", "Rebanadas"]
+    },
+    {
+      "text": "Cafetera",
+      "difficulty": 2,
+      "hints": ["Café", "Jarra", "Filtro", "Mañana", "Goteo"]
+    },
+    {
+      "text": "Ventilador",
+      "difficulty": 2,
+      "hints": ["Aire", "Aspas", "Calor", "Verano", "Girar"]
+    },
+    {
+      "text": "Cortina",
+      "difficulty": 2,
+      "hints": ["Ventana", "Tela", "Cerrar", "Luz", "Riel"]
+    },
+    {
+      "text": "Alfombra",
+      "difficulty": 2,
+      "hints": ["Piso", "Suave", "Pelusa", "Sala", "Tejida"]
+    },
+    {
+      "text": "Foco",
+      "difficulty": 2,
+      "hints": ["Luz", "Rosca", "Fundido", "Interruptor", "Brillo"]
+    },
+    {
+      "text": "Enchufe",
+      "difficulty": 2,
+      "hints": ["Corriente", "Pared", "Cable", "Clavija", "Contacto"]
+    },
+    {
+      "text": "Timbre",
+      "difficulty": 2,
+      "hints": ["Entrada", "Visitas", "Sonar", "Botón", "Puerta"]
+    },
+    {
+      "text": "Buzón",
+      "difficulty": 2,
+      "hints": ["Cartas", "Entrada", "Correo", "Ranura", "Metálico"]
+    },
+    {
+      "text": "Tinaco",
+      "difficulty": 2,
+      "hints": ["Azotea", "Agua", "Tanque", "Nivel", "Flotador"]
+    },
+    {
+      "text": "Tendedero",
+      "difficulty": 2,
+      "hints": ["Ropa", "Sol", "Pinzas", "Cuerda", "Secar"]
+    },
+    {
+      "text": "Escritorio",
+      "difficulty": 2,
+      "hints": ["Estudio", "Computadora", "Cajones", "Tarea", "Trabajo"]
+    },
+    {
+      "text": "Clóset",
+      "difficulty": 2,
+      "hints": ["Ropa", "Ganchos", "Puertas", "Zapatos", "Orden"]
+    },
+    {
+      "text": "Librero",
+      "difficulty": 2,
+      "hints": ["Libros", "Repisas", "Madera", "Adornos", "Pared"]
+    },
+    {
+      "text": "Colchón",
+      "difficulty": 2,
+      "hints": ["Cama", "Resortes", "Suave", "Dormir", "Espalda"]
+    },
+    {
+      "text": "Maceta",
+      "difficulty": 2,
+      "hints": ["Planta", "Tierra", "Barro", "Riego", "Terraza"]
+    },
+    {
+      "text": "Barandal",
+      "difficulty": 2,
+      "hints": ["Escalera", "Seguridad", "Metal", "Balcón", "Sostener"]
+    },
+    {
+      "text": "Persiana",
+      "difficulty": 2,
+      "hints": ["Ventana", "Lamas", "Luz", "Cuerda", "Subir"]
+    },
+    {
+      "text": "Lavabo",
+      "difficulty": 2,
+      "hints": ["Baño", "Grifo", "Agua", "Cepillarse", "Espejo"]
+    },
+    {
+      "text": "Portón",
+      "difficulty": 2,
+      "hints": ["Cochera", "Metálico", "Entrada", "Control", "Corredizo"]
+    }
+  ]
+}

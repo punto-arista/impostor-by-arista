@@ -1,0 +1,257 @@
+{
+  "slug": "lugares",
+  "name": "lugares",
+  "sort_order": 3,
+  "words": [
+    {
+      "text": "Playa",
+      "difficulty": 2,
+      "hints": ["Verano", "Arena", "Olas", "Sombrilla", "Bronceador"]
+    },
+    {
+      "text": "Aeropuerto",
+      "difficulty": 2,
+      "hints": ["Viaje", "Maletas", "Despegue", "Terminal", "Pasaporte"]
+    },
+    {
+      "text": "Biblioteca",
+      "difficulty": 2,
+      "hints": ["Tranquilo", "Libros", "Silencio", "Estantes", "Préstamo"]
+    },
+    {
+      "text": "Cementerio",
+      "difficulty": 2,
+      "hints": ["Sombrío", "Tumbas", "Flores", "Lápidas", "Noche"]
+    },
+    {
+      "text": "Casino",
+      "difficulty": 2,
+      "hints": ["Suerte", "Fichas", "Apuesta", "Ruleta", "Luces"]
+    },
+    {
+      "text": "Volcán",
+      "difficulty": 2,
+      "hints": ["Caliente", "Lava", "Cráter", "Erupción", "Montaña"]
+    },
+    {
+      "text": "Desierto",
+      "difficulty": 2,
+      "hints": ["Seco", "Dunas", "Camello", "Sed", "Cactus"]
+    },
+    {
+      "text": "Estadio",
+      "difficulty": 2,
+      "hints": ["Multitud", "Gradas", "Partido", "Gritos", "Césped"]
+    },
+    {
+      "text": "Castillo",
+      "difficulty": 2,
+      "hints": ["Antiguo", "Torres", "Rey", "Muralla", "Foso"]
+    },
+    {
+      "text": "Mercado",
+      "difficulty": 2,
+      "hints": ["Bullicio", "Puestos", "Regateo", "Frutas", "Fin de semana"]
+    },
+    {
+      "text": "Isla",
+      "difficulty": 2,
+      "hints": ["Remoto", "Rodeada", "Náufrago", "Palmeras", "Barco"]
+    },
+    {
+      "text": "Metro",
+      "difficulty": 2,
+      "hints": ["Ciudad", "Vagón", "Hora pico", "Andén", "Subterráneo"]
+    },
+    {
+      "text": "Hospital",
+      "difficulty": 2,
+      "hints": ["Cuidado", "Doctores", "Camillas", "Urgencias", "Blanco"]
+    },
+    {
+      "text": "Iglesia",
+      "difficulty": 2,
+      "hints": ["Sagrado", "Campanas", "Misa", "Torre", "Bancas"]
+    },
+    {
+      "text": "Universidad",
+      "difficulty": 2,
+      "hints": ["Conocimiento", "Carrera", "Campus", "Examen", "Título"]
+    },
+    {
+      "text": "Puerto",
+      "difficulty": 2,
+      "hints": ["Costa", "Muelle", "Barcos", "Contenedores", "Grúas"]
+    },
+    {
+      "text": "Montaña",
+      "difficulty": 2,
+      "hints": ["Altura", "Cima", "Nieve", "Escalar", "Senderos"]
+    },
+    {
+      "text": "Zoológico",
+      "difficulty": 2,
+      "hints": ["Jaula", "Boleto", "Excursión", "Exhibición", "Domingo"]
+    },
+    {
+      "text": "Parque",
+      "difficulty": 2,
+      "hints": ["Recreo", "Bancas", "Columpios", "Picnic", "Árboles"]
+    },
+    {
+      "text": "Cine",
+      "difficulty": 2,
+      "hints": ["Oscuridad", "Butacas", "Pantalla", "Boletos", "Estreno"]
+    },
+    {
+      "text": "Panadería",
+      "difficulty": 2,
+      "hints": ["Pan", "Madrugada", "Charola", "Horno", "Aroma"]
+    },
+    {
+      "text": "Gasolinera",
+      "difficulty": 2,
+      "hints": ["Bomba", "Combustible", "Carro", "Despachador", "Tienda"]
+    },
+    {
+      "text": "Supermercado",
+      "difficulty": 2,
+      "hints": ["Carrito", "Pasillos", "Caja", "Ofertas", "Despensa"]
+    },
+    {
+      "text": "Escuela",
+      "difficulty": 2,
+      "hints": ["Aula", "Recreo", "Uniforme", "Tarea", "Campana"]
+    },
+    {
+      "text": "Banco",
+      "difficulty": 2,
+      "hints": ["Dinero", "Fila", "Ventanilla", "Cajero", "Cuentas"]
+    },
+    {
+      "text": "Gimnasio",
+      "difficulty": 2,
+      "hints": ["Pesas", "Sudor", "Rutina", "Espejos", "Membresía"]
+    },
+    {
+      "text": "Restaurante",
+      "difficulty": 2,
+      "hints": ["Menú", "Mesero", "Propina", "Reservación", "Cocina"]
+    },
+    {
+      "text": "Hotel",
+      "difficulty": 2,
+      "hints": ["Habitación", "Recepción", "Huéspedes", "Llave", "Noche"]
+    },
+    {
+      "text": "Farmacia",
+      "difficulty": 2,
+      "hints": ["Medicinas", "Receta", "Mostrador", "Pastillas", "Jarabe"]
+    },
+    {
+      "text": "Museo",
+      "difficulty": 2,
+      "hints": ["Obras", "Silencio", "Exposición", "Guía", "Historia"]
+    },
+    {
+      "text": "Teatro",
+      "difficulty": 2,
+      "hints": ["Telón", "Butacas", "Escenario", "Actores", "Aplausos"]
+    },
+    {
+      "text": "Circo",
+      "difficulty": 2,
+      "hints": ["Carpa", "Payasos", "Acróbatas", "Función", "Domador"]
+    },
+    {
+      "text": "Faro",
+      "difficulty": 2,
+      "hints": ["Luz", "Costa", "Torre", "Barcos", "Noche"]
+    },
+    {
+      "text": "Cueva",
+      "difficulty": 2,
+      "hints": ["Oscuridad", "Estalactitas", "Eco", "Antorcha", "Refugio"]
+    },
+    {
+      "text": "Selva",
+      "difficulty": 2,
+      "hints": ["Humedad", "Lianas", "Espesa", "Tropical", "Machete"]
+    },
+    {
+      "text": "Granja",
+      "difficulty": 2,
+      "hints": ["Establo", "Tractor", "Cosecha", "Corral", "Campo"]
+    },
+    {
+      "text": "Cárcel",
+      "difficulty": 2,
+      "hints": ["Barrotes", "Celda", "Condena", "Guardias", "Rejas"]
+    },
+    {
+      "text": "Plaza",
+      "difficulty": 2,
+      "hints": ["Kiosco", "Palomas", "Paseo", "Fuente", "Centro"]
+    },
+    {
+      "text": "Fábrica",
+      "difficulty": 2,
+      "hints": ["Producción", "Maquinaria", "Turnos", "Chimenea", "Obreros"]
+    },
+    {
+      "text": "Azotea",
+      "difficulty": 2,
+      "hints": ["Antena", "Tinaco", "Vista", "Lavadero", "Techo"]
+    },
+    {
+      "text": "Sótano",
+      "difficulty": 2,
+      "hints": ["Bajo tierra", "Oscuro", "Bodega", "Escaleras", "Humedad"]
+    },
+    {
+      "text": "Centro comercial",
+      "difficulty": 2,
+      "hints": ["Tiendas", "Escaleras eléctricas", "Estacionamiento", "Plaza de comida", "Rebajas"]
+    },
+    {
+      "text": "Campamento",
+      "difficulty": 2,
+      "hints": ["Fogata", "Tienda", "Noche", "Bosque", "Mosquitos"]
+    },
+    {
+      "text": "Estación de tren",
+      "difficulty": 2,
+      "hints": ["Andén", "Boletos", "Vías", "Espera", "Anuncios"]
+    },
+    {
+      "text": "Spa",
+      "difficulty": 2,
+      "hints": ["Relajación", "Masaje", "Vapor", "Toallas", "Calma"]
+    },
+    {
+      "text": "Bar",
+      "difficulty": 2,
+      "hints": ["Barra", "Tragos", "Banquillo", "Música", "Noche"]
+    },
+    {
+      "text": "Lavandería",
+      "difficulty": 2,
+      "hints": ["Ropa", "Jabón", "Monedas", "Secadora", "Espera"]
+    },
+    {
+      "text": "Barbería",
+      "difficulty": 2,
+      "hints": ["Navaja", "Corte", "Espejo", "Silla", "Plática"]
+    },
+    {
+      "text": "Alberca",
+      "difficulty": 2,
+      "hints": ["Agua", "Cloro", "Clavado", "Salvavidas", "Verano"]
+    },
+    {
+      "text": "Pirámide",
+      "difficulty": 2,
+      "hints": ["Antigua", "Escalones", "Triángulo", "Misterio", "Turistas"]
+    }
+  ]
+}

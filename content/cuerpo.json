@@ -1,0 +1,257 @@
+{
+  "slug": "cuerpo",
+  "name": "cuerpo humano",
+  "sort_order": 16,
+  "words": [
+    {
+      "text": "Ojo",
+      "difficulty": 2,
+      "hints": ["Ver", "Pestañas", "Pupila", "Párpado", "Color"]
+    },
+    {
+      "text": "Nariz",
+      "difficulty": 2,
+      "hints": ["Oler", "Aroma", "Fosas", "Estornudo", "Cara"]
+    },
+    {
+      "text": "Boca",
+      "difficulty": 2,
+      "hints": ["Hablar", "Labios", "Lengua", "Comer", "Sonrisa"]
+    },
+    {
+      "text": "Oreja",
+      "difficulty": 2,
+      "hints": ["Escuchar", "Lóbulo", "Aretes", "Sonido", "Cabeza"]
+    },
+    {
+      "text": "Mano",
+      "difficulty": 2,
+      "hints": ["Tocar", "Dedos", "Palma", "Saludar", "Aplaudir"]
+    },
+    {
+      "text": "Pie",
+      "difficulty": 2,
+      "hints": ["Caminar", "Talón", "Zapato", "Planta", "Dedos"]
+    },
+    {
+      "text": "Corazón",
+      "difficulty": 2,
+      "hints": ["Amor", "Latido", "Sangre", "Pecho", "Pulso"]
+    },
+    {
+      "text": "Cerebro",
+      "difficulty": 2,
+      "hints": ["Pensar", "Memoria", "Neuronas", "Cráneo", "Ideas"]
+    },
+    {
+      "text": "Pulmón",
+      "difficulty": 2,
+      "hints": ["Respirar", "Aire", "Pecho", "Oxígeno", "Fumar"]
+    },
+    {
+      "text": "Estómago",
+      "difficulty": 2,
+      "hints": ["Digerir", "Hambre", "Ácido", "Comida", "Panza"]
+    },
+    {
+      "text": "Rodilla",
+      "difficulty": 2,
+      "hints": ["Doblar", "Rótula", "Caída", "Pierna", "Articulación"]
+    },
+    {
+      "text": "Codo",
+      "difficulty": 2,
+      "hints": ["Ángulo", "Brazo", "Doblar", "Raspón", "Hueso"]
+    },
+    {
+      "text": "Hombro",
+      "difficulty": 2,
+      "hints": ["Cargar", "Brazo", "Articulación", "Mochila", "Encoger"]
+    },
+    {
+      "text": "Espalda",
+      "difficulty": 2,
+      "hints": ["Soporte", "Columna", "Dolor", "Postura", "Cargar"]
+    },
+    {
+      "text": "Cuello",
+      "difficulty": 2,
+      "hints": ["Girar", "Cabeza", "Collar", "Bufanda", "Torcer"]
+    },
+    {
+      "text": "Dedo",
+      "difficulty": 2,
+      "hints": ["Señalar", "Mano", "Anillo", "Huella", "Uña"]
+    },
+    {
+      "text": "Cabello",
+      "difficulty": 2,
+      "hints": ["Crecer", "Peine", "Teñir", "Champú", "Cortar"]
+    },
+    {
+      "text": "Uña",
+      "difficulty": 2,
+      "hints": ["Cortar", "Esmalte", "Dedo", "Roer", "Crecer"]
+    },
+    {
+      "text": "Diente",
+      "difficulty": 2,
+      "hints": ["Morder", "Cepillo", "Dentista", "Esmalte", "Caries"]
+    },
+    {
+      "text": "Piel",
+      "difficulty": 2,
+      "hints": ["Sentir", "Cubre", "Sol", "Crema", "Cicatriz"]
+    },
+    {
+      "text": "Brazo",
+      "difficulty": 2,
+      "hints": ["Codo", "Fuerza", "Abrazar", "Manga", "Bíceps"]
+    },
+    {
+      "text": "Pierna",
+      "difficulty": 2,
+      "hints": ["Caminar", "Rodilla", "Pantalón", "Muslo", "Correr"]
+    },
+    {
+      "text": "Cabeza",
+      "difficulty": 2,
+      "hints": ["Cerebro", "Sombrero", "Pensar", "Cabello", "Arriba"]
+    },
+    {
+      "text": "Cara",
+      "difficulty": 2,
+      "hints": ["Expresión", "Facciones", "Espejo", "Maquillaje", "Identidad"]
+    },
+    {
+      "text": "Frente",
+      "difficulty": 2,
+      "hints": ["Arrugas", "Sudor", "Fiebre", "Cabello", "Termómetro"]
+    },
+    {
+      "text": "Ceja",
+      "difficulty": 2,
+      "hints": ["Arco", "Pelo", "Fruncir", "Depilar", "Expresión"]
+    },
+    {
+      "text": "Mejilla",
+      "difficulty": 2,
+      "hints": ["Sonrojo", "Beso", "Hoyuelo", "Cara", "Pellizco"]
+    },
+    {
+      "text": "Lengua",
+      "difficulty": 2,
+      "hints": ["Sabor", "Idioma", "Saliva", "Sacar", "Boca"]
+    },
+    {
+      "text": "Garganta",
+      "difficulty": 2,
+      "hints": ["Dolor", "Tragar", "Voz", "Cuerdas vocales", "Pastilla"]
+    },
+    {
+      "text": "Pecho",
+      "difficulty": 2,
+      "hints": ["Corazón", "Tórax", "Respiración", "Orgullo", "Latido"]
+    },
+    {
+      "text": "Ombligo",
+      "difficulty": 2,
+      "hints": ["Centro", "Cordón", "Panza", "Bebé", "Nacimiento"]
+    },
+    {
+      "text": "Cintura",
+      "difficulty": 2,
+      "hints": ["Medida", "Cinturón", "Delgada", "Bailar", "Centro"]
+    },
+    {
+      "text": "Cadera",
+      "difficulty": 2,
+      "hints": ["Bailar", "Movimiento", "Hueso", "Articulación", "Pantalón"]
+    },
+    {
+      "text": "Tobillo",
+      "difficulty": 2,
+      "hints": ["Torcedura", "Pie", "Pulsera", "Articulación", "Esguince"]
+    },
+    {
+      "text": "Talón",
+      "difficulty": 2,
+      "hints": ["Pie", "Aquiles", "Zapato", "Atrás", "Piel dura"]
+    },
+    {
+      "text": "Muñeca",
+      "difficulty": 2,
+      "hints": ["Reloj", "Pulsera", "Pulso", "Mano", "Torcer"]
+    },
+    {
+      "text": "Pulgar",
+      "difficulty": 2,
+      "hints": ["Gordo", "Arriba", "Autostop", "Aprobar", "Mano"]
+    },
+    {
+      "text": "Hueso",
+      "difficulty": 2,
+      "hints": ["Esqueleto", "Perro", "Fractura", "Duro", "Calcio"]
+    },
+    {
+      "text": "Músculo",
+      "difficulty": 2,
+      "hints": ["Fuerza", "Gimnasio", "Contracción", "Bíceps", "Proteína"]
+    },
+    {
+      "text": "Sangre",
+      "difficulty": 2,
+      "hints": ["Roja", "Venas", "Donar", "Herida", "Transfusión"]
+    },
+    {
+      "text": "Vena",
+      "difficulty": 2,
+      "hints": ["Azul", "Sangre", "Inyección", "Brazo", "Conducto"]
+    },
+    {
+      "text": "Riñón",
+      "difficulty": 2,
+      "hints": ["Filtrar", "Órgano", "Orina", "Par", "Diálisis"]
+    },
+    {
+      "text": "Hígado",
+      "difficulty": 2,
+      "hints": ["Órgano", "Filtrar", "Bilis", "Grande", "Toxinas"]
+    },
+    {
+      "text": "Columna",
+      "difficulty": 2,
+      "hints": ["Vertebras", "Postura", "Espalda", "Soporte", "Dolor"]
+    },
+    {
+      "text": "Cráneo",
+      "difficulty": 2,
+      "hints": ["Cerebro", "Protección", "Calavera", "Cabeza", "Hueso"]
+    },
+    {
+      "text": "Costilla",
+      "difficulty": 2,
+      "hints": ["Jaula", "Pecho", "Barbacoa", "Hueso", "Curvas"]
+    },
+    {
+      "text": "Nuca",
+      "difficulty": 2,
+      "hints": ["Atrás", "Cuello", "Cabello", "Cachetada", "Pelo corto"]
+    },
+    {
+      "text": "Axila",
+      "difficulty": 2,
+      "hints": ["Desodorante", "Brazo", "Sudor", "Vello", "Levantar"]
+    },
+    {
+      "text": "Labios",
+      "difficulty": 2,
+      "hints": ["Beso", "Boca", "Labial", "Rojos", "Hablar"]
+    },
+    {
+      "text": "Barba",
+      "difficulty": 2,
+      "hints": ["Cara", "Afeitar", "Hombres", "Vello", "Rasurar"]
+    }
+  ]
+}

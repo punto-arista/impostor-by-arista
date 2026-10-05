@@ -1,0 +1,207 @@
+{
+  "slug": "juegos",
+  "name": "juegos",
+  "sort_order": 22,
+  "words": [
+    {
+      "text": "Dominó",
+      "difficulty": 2,
+      "hints": ["Fichas", "Puntos", "Mesa", "Doble seis", "Abuelos"]
+    },
+    {
+      "text": "Damas",
+      "difficulty": 2,
+      "hints": ["Tablero", "Fichas", "Saltar", "Coronar", "Cuadros"]
+    },
+    {
+      "text": "Parchís",
+      "difficulty": 2,
+      "hints": ["Fichas", "Dados", "Casa", "Comer", "Colores"]
+    },
+    {
+      "text": "Serpientes y escaleras",
+      "difficulty": 2,
+      "hints": ["Dados", "Tablero", "Subir", "Bajar", "Meta"]
+    },
+    {
+      "text": "Baraja",
+      "difficulty": 2,
+      "hints": ["Naipes", "Mezclar", "Reyes", "Pintas", "Mazo"]
+    },
+    {
+      "text": "Póker",
+      "difficulty": 2,
+      "hints": ["Apuesta", "Cartas", "Farol", "Fichas", "Mano"]
+    },
+    {
+      "text": "Dados",
+      "difficulty": 2,
+      "hints": ["Lanzar", "Azar", "Puntos", "Cubos", "Suerte"]
+    },
+    {
+      "text": "Rompecabezas",
+      "difficulty": 2,
+      "hints": ["Piezas", "Armar", "Imagen", "Paciencia", "Caja"]
+    },
+    {
+      "text": "Escondidas",
+      "difficulty": 2,
+      "hints": ["Contar", "Esconderse", "Niños", "Buscar", "Casa"]
+    },
+    {
+      "text": "Avioncito",
+      "difficulty": 2,
+      "hints": ["Gis", "Casillas", "Saltar", "Piedra", "Pie"]
+    },
+    {
+      "text": "Canicas",
+      "difficulty": 2,
+      "hints": ["Vidrio", "Redondas", "Tiro", "Colores", "Hoyo"]
+    },
+    {
+      "text": "Trompo",
+      "difficulty": 2,
+      "hints": ["Girar", "Cuerda", "Punta", "Madera", "Lanzar"]
+    },
+    {
+      "text": "Balero",
+      "difficulty": 2,
+      "hints": ["Palo", "Bola", "Cuerda", "Atrapar", "Madera"]
+    },
+    {
+      "text": "Yoyo",
+      "difficulty": 2,
+      "hints": ["Cuerda", "Subir y bajar", "Truco", "Girar", "Dedo"]
+    },
+    {
+      "text": "Saltar la cuerda",
+      "difficulty": 2,
+      "hints": ["Ritmo", "Cuerda", "Brincos", "Recreo", "Cardio"]
+    },
+    {
+      "text": "Policías y ladrones",
+      "difficulty": 2,
+      "hints": ["Perseguir", "Niños", "Capturar", "Equipos", "Correr"]
+    },
+    {
+      "text": "Bingo",
+      "difficulty": 2,
+      "hints": ["Números", "Cartón", "Premio", "Cantar", "Fichas"]
+    },
+    {
+      "text": "Sudoku",
+      "difficulty": 2,
+      "hints": ["Números", "Cuadrícula", "Lógica", "Casillas", "Periódico"]
+    },
+    {
+      "text": "Crucigrama",
+      "difficulty": 2,
+      "hints": ["Palabras", "Pistas", "Casillas", "Lápiz", "Periódico"]
+    },
+    {
+      "text": "Tetris",
+      "difficulty": 2,
+      "hints": ["Bloques", "Caer", "Líneas", "Piezas", "Ruso"]
+    },
+    {
+      "text": "Pac-Man",
+      "difficulty": 2,
+      "hints": ["Laberinto", "Fantasmas", "Puntos", "Amarillo", "Comer"]
+    },
+    {
+      "text": "Mario Bros",
+      "difficulty": 2,
+      "hints": ["Bigote", "Hongos", "Fontanero", "Princesa", "Saltos"]
+    },
+    {
+      "text": "Minecraft",
+      "difficulty": 2,
+      "hints": ["Cubos", "Construir", "Picar", "Mundo", "Creeper"]
+    },
+    {
+      "text": "Pokémon",
+      "difficulty": 2,
+      "hints": ["Capturar", "Entrenador", "Bolas", "Amarillo", "Evolucionar"]
+    },
+    {
+      "text": "Pong",
+      "difficulty": 2,
+      "hints": ["Raquetas", "Pelota", "Pantalla", "Clásico", "Dos jugadores"]
+    },
+    {
+      "text": "Zelda",
+      "difficulty": 2,
+      "hints": ["Espada", "Princesa", "Héroe verde", "Triángulos", "Aventura"]
+    },
+    {
+      "text": "Sonic",
+      "difficulty": 2,
+      "hints": ["Velocidad", "Erizo azul", "Anillos", "Rápido", "Mascota"]
+    },
+    {
+      "text": "Arcade",
+      "difficulty": 2,
+      "hints": ["Monedas", "Fichas", "Máquina", "Récord", "Centro comercial"]
+    },
+    {
+      "text": "Consola",
+      "difficulty": 2,
+      "hints": ["Control", "Televisión", "Cartuchos", "Salón", "Juegos"]
+    },
+    {
+      "text": "Jefe final",
+      "difficulty": 2,
+      "hints": ["Último nivel", "Enemigo", "Difícil", "Vida", "Batalla"]
+    },
+    {
+      "text": "Sapo",
+      "difficulty": 2,
+      "hints": ["Argollas", "Boca", "Fiesta", "Puntos", "Cantina"]
+    },
+    {
+      "text": "Basta",
+      "difficulty": 2,
+      "hints": ["Letras", "Categorías", "Papel", "Rápido", "Ciudad"]
+    },
+    {
+      "text": "Memoria",
+      "difficulty": 2,
+      "hints": ["Parejas", "Cartas", "Voltear", "Recordar", "Niños"]
+    },
+    {
+      "text": "Adivina quién",
+      "difficulty": 2,
+      "hints": ["Preguntas", "Rostros", "Tablero", "Descartar", "Dos"]
+    },
+    {
+      "text": "Charadas",
+      "difficulty": 2,
+      "hints": ["Mímica", "Equipos", "Adivinar", "Gestos", "Sin hablar"]
+    },
+    {
+      "text": "Piedra papel o tijera",
+      "difficulty": 2,
+      "hints": ["Manos", "Tres", "Elegir", "Contar", "Decidir"]
+    },
+    {
+      "text": "Veo veo",
+      "difficulty": 2,
+      "hints": ["Color", "Pista", "Adivinar", "Niños", "Viaje"]
+    },
+    {
+      "text": "Carrera de costales",
+      "difficulty": 2,
+      "hints": ["Costales", "Saltar", "Meta", "Kermés", "Niños"]
+    },
+    {
+      "text": "Jenga",
+      "difficulty": 2,
+      "hints": ["Torre", "Bloques", "Madera", "Caer", "Pulso"]
+    },
+    {
+      "text": "Trivia",
+      "difficulty": 2,
+      "hints": ["Preguntas", "Respuestas", "Conocimiento", "Equipos", "Quesitos"]
+    }
+  ]
+}

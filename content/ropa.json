@@ -1,0 +1,257 @@
+{
+  "slug": "ropa",
+  "name": "ropa",
+  "sort_order": 15,
+  "words": [
+    {
+      "text": "Camisa",
+      "difficulty": 2,
+      "hints": ["Botones", "Cuello", "Mangas", "Oficina", "Planchar"]
+    },
+    {
+      "text": "Pantalón",
+      "difficulty": 2,
+      "hints": ["Piernas", "Bolsillos", "Cinturón", "Bota", "Largo"]
+    },
+    {
+      "text": "Vestido",
+      "difficulty": 2,
+      "hints": ["Elegante", "Fiesta", "Entero", "Tirantes", "Quinceañera"]
+    },
+    {
+      "text": "Falda",
+      "difficulty": 2,
+      "hints": ["Verano", "Cintura", "Rodillas", "Vuelo", "Uniforme"]
+    },
+    {
+      "text": "Chaqueta",
+      "difficulty": 2,
+      "hints": ["Frío", "Cierre", "Forro", "Mangas", "Ligera"]
+    },
+    {
+      "text": "Abrigo",
+      "difficulty": 2,
+      "hints": ["Invierno", "Largo", "Pesado", "Capa", "Frío"]
+    },
+    {
+      "text": "Sombrero",
+      "difficulty": 2,
+      "hints": ["Sol", "Ala", "Cabeza", "Charro", "Playa"]
+    },
+    {
+      "text": "Bufanda",
+      "difficulty": 2,
+      "hints": ["Cuello", "Lana", "Invierno", "Enrollar", "Tejida"]
+    },
+    {
+      "text": "Guantes",
+      "difficulty": 2,
+      "hints": ["Manos", "Dedos", "Frío", "Par", "Boxeo"]
+    },
+    {
+      "text": "Calcetines",
+      "difficulty": 2,
+      "hints": ["Pies", "Par", "Perdido", "Zapatos", "Lavandería"]
+    },
+    {
+      "text": "Zapatos",
+      "difficulty": 2,
+      "hints": ["Caminar", "Suela", "Agujetas", "Par", "Talla"]
+    },
+    {
+      "text": "Botas",
+      "difficulty": 2,
+      "hints": ["Lluvia", "Lodo", "Altas", "Vaquero", "Montaña"]
+    },
+    {
+      "text": "Sandalias",
+      "difficulty": 2,
+      "hints": ["Descalzo", "Verano", "Correas", "Playa", "Dedos"]
+    },
+    {
+      "text": "Traje",
+      "difficulty": 2,
+      "hints": ["Formal", "Saco", "Corbata", "Boda", "Oficina"]
+    },
+    {
+      "text": "Pijama",
+      "difficulty": 2,
+      "hints": ["Dormir", "Noche", "Cómoda", "Cama", "Camiseta"]
+    },
+    {
+      "text": "Bikini",
+      "difficulty": 2,
+      "hints": ["Piscina", "Verano", "Dos piezas", "Playa", "Bronceado"]
+    },
+    {
+      "text": "Corbata",
+      "difficulty": 2,
+      "hints": ["Nudo", "Cuello", "Formal", "Oficina", "Seda"]
+    },
+    {
+      "text": "Gorra",
+      "difficulty": 2,
+      "hints": ["Cabeza", "Visera", "Sol", "Béisbol", "Logo"]
+    },
+    {
+      "text": "Suéter",
+      "difficulty": 2,
+      "hints": ["Lana", "Tejido", "Frío", "Cuello redondo", "Navidad"]
+    },
+    {
+      "text": "Impermeable",
+      "difficulty": 2,
+      "hints": ["Protección", "Lluvia", "Capucha", "Plástico", "Amarillo"]
+    },
+    {
+      "text": "Playera",
+      "difficulty": 2,
+      "hints": ["Algodón", "Cuello redondo", "Estampado", "Verano", "Manga corta"]
+    },
+    {
+      "text": "Sudadera",
+      "difficulty": 2,
+      "hints": ["Capucha", "Cómoda", "Frío", "Gimnasio", "Algodón"]
+    },
+    {
+      "text": "Shorts",
+      "difficulty": 2,
+      "hints": ["Calor", "Piernas", "Verano", "Cortos", "Playa"]
+    },
+    {
+      "text": "Jeans",
+      "difficulty": 2,
+      "hints": ["Mezclilla", "Azul", "Bolsillos", "Desgastado", "Casual"]
+    },
+    {
+      "text": "Bata",
+      "difficulty": 2,
+      "hints": ["Laboratorio", "Blanca", "Doctor", "Spa", "Casa"]
+    },
+    {
+      "text": "Delantal",
+      "difficulty": 2,
+      "hints": ["Cocina", "Manchas", "Proteger", "Cintura", "Lazo"]
+    },
+    {
+      "text": "Chaleco",
+      "difficulty": 2,
+      "hints": ["Sin mangas", "Pecho", "Traje", "Seguridad", "Abrigo"]
+    },
+    {
+      "text": "Overol",
+      "difficulty": 2,
+      "hints": ["Trabajo", "Una pieza", "Mezclilla", "Mecánico", "Tirantes"]
+    },
+    {
+      "text": "Leggings",
+      "difficulty": 2,
+      "hints": ["Ajustados", "Ejercicio", "Elásticos", "Piernas", "Cómodos"]
+    },
+    {
+      "text": "Tenis",
+      "difficulty": 2,
+      "hints": ["Deporte", "Agujetas", "Suela", "Correr", "Cómodos"]
+    },
+    {
+      "text": "Tacones",
+      "difficulty": 2,
+      "hints": ["Altura", "Fiesta", "Elegantes", "Ampollas", "Ruido"]
+    },
+    {
+      "text": "Pantuflas",
+      "difficulty": 2,
+      "hints": ["Casa", "Suaves", "Mañana", "Cómodas", "Descalzo"]
+    },
+    {
+      "text": "Chanclas",
+      "difficulty": 2,
+      "hints": ["Playa", "Ligeras", "Dedos", "Baño", "Albercas"]
+    },
+    {
+      "text": "Huaraches",
+      "difficulty": 2,
+      "hints": ["Cuero", "Trenzado", "Verano", "Tradición", "Artesanal"]
+    },
+    {
+      "text": "Rebozo",
+      "difficulty": 2,
+      "hints": ["Tejido", "Tradición", "Mujeres", "Bebé", "Hombros"]
+    },
+    {
+      "text": "Poncho",
+      "difficulty": 2,
+      "hints": ["Frío", "Cuadrado", "Cabeza", "Lana", "Colores"]
+    },
+    {
+      "text": "Sarape",
+      "difficulty": 2,
+      "hints": ["Colores", "Rayas", "Manta", "Tradición", "Hombros"]
+    },
+    {
+      "text": "Capa",
+      "difficulty": 2,
+      "hints": ["Héroe", "Hombros", "Vuelo", "Mago", "Rojo"]
+    },
+    {
+      "text": "Disfraz",
+      "difficulty": 2,
+      "hints": ["Fiesta", "Personaje", "Máscara", "Halloween", "Pretender"]
+    },
+    {
+      "text": "Uniforme",
+      "difficulty": 2,
+      "hints": ["Escuela", "Igual", "Trabajo", "Equipo", "Reglas"]
+    },
+    {
+      "text": "Traje de baño",
+      "difficulty": 2,
+      "hints": ["Alberca", "Mojado", "Playa", "Nadar", "Verano"]
+    },
+    {
+      "text": "Blusa",
+      "difficulty": 2,
+      "hints": ["Mujer", "Botones", "Elegante", "Manga", "Ligera"]
+    },
+    {
+      "text": "Esmoquin",
+      "difficulty": 2,
+      "hints": ["Gala", "Negro", "Moño", "Premios", "Etiqueta"]
+    },
+    {
+      "text": "Gabardina",
+      "difficulty": 2,
+      "hints": ["Detective", "Lluvia", "Beige", "Larga", "Cinturón"]
+    },
+    {
+      "text": "Boina",
+      "difficulty": 2,
+      "hints": ["Pintor", "Redonda", "Cabeza", "Fieltro", "Ladeada"]
+    },
+    {
+      "text": "Pasamontañas",
+      "difficulty": 2,
+      "hints": ["Frío", "Cara", "Ladrón", "Ojos", "Lana"]
+    },
+    {
+      "text": "Mascada",
+      "difficulty": 2,
+      "hints": ["Cuello", "Seda", "Estampada", "Elegante", "Atar"]
+    },
+    {
+      "text": "Tirantes",
+      "difficulty": 2,
+      "hints": ["Hombros", "Pantalón", "Elásticos", "Sujetar", "Clip"]
+    },
+    {
+      "text": "Vestido de novia",
+      "difficulty": 2,
+      "hints": ["Blanco", "Boda", "Velo", "Cola", "Iglesia"]
+    },
+    {
+      "text": "Camisón",
+      "difficulty": 2,
+      "hints": ["Dormir", "Noche", "Largo", "Suave", "Cama"]
+    }
+  ]
+}

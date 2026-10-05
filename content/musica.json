@@ -1,0 +1,257 @@
+{
+  "slug": "musica",
+  "name": "música",
+  "sort_order": 8,
+  "words": [
+    {
+      "text": "Guitarra",
+      "difficulty": 2,
+      "hints": ["Cuerdas", "Trastes", "Acordes", "Serenata", "Púa"]
+    },
+    {
+      "text": "Trompeta",
+      "difficulty": 2,
+      "hints": ["Viento", "Metal", "Pistones", "Fanfarria", "Mariachi"]
+    },
+    {
+      "text": "Concierto",
+      "difficulty": 2,
+      "hints": ["Escenario", "Boletos", "Público", "Gira", "Artista"]
+    },
+    {
+      "text": "Karaoke",
+      "difficulty": 2,
+      "hints": ["Amateur", "Pantalla", "Letra", "Desafinar", "Fiesta"]
+    },
+    {
+      "text": "Batería",
+      "difficulty": 2,
+      "hints": ["Ritmo", "Baquetas", "Platillos", "Bombo", "Golpear"]
+    },
+    {
+      "text": "Orquesta",
+      "difficulty": 2,
+      "hints": ["Conjunto", "Director", "Sinfonía", "Instrumentos", "Teatro"]
+    },
+    {
+      "text": "Reggaetón",
+      "difficulty": 2,
+      "hints": ["Baile", "Perreo", "Beat", "Latino", "Fiesta"]
+    },
+    {
+      "text": "Ópera",
+      "difficulty": 2,
+      "hints": ["Drama", "Soprano", "Teatro", "Aria", "Agudos"]
+    },
+    {
+      "text": "Micrófono",
+      "difficulty": 2,
+      "hints": ["Voz", "Escenario", "Cable", "Hablar", "Amplificar"]
+    },
+    {
+      "text": "Vinilo",
+      "difficulty": 2,
+      "hints": ["Retro", "Disco", "Tornamesa", "Aguja", "Coleccionar"]
+    },
+    {
+      "text": "Coro",
+      "difficulty": 2,
+      "hints": ["Armonía", "Voces", "Iglesia", "Grupo", "Afinación"]
+    },
+    {
+      "text": "Acordeón",
+      "difficulty": 2,
+      "hints": ["Fiesta", "Fuelle", "Norteño", "Teclas", "Botones"]
+    },
+    {
+      "text": "Piano",
+      "difficulty": 2,
+      "hints": ["Teclas", "Pedal", "Negro y blanco", "Cola", "Recital"]
+    },
+    {
+      "text": "Violín",
+      "difficulty": 2,
+      "hints": ["Clásico", "Arco", "Cuerdas", "Solista", "Afinar"]
+    },
+    {
+      "text": "Saxofón",
+      "difficulty": 2,
+      "hints": ["Curvo", "Boquilla", "Dorado", "Soplar", "Solo"]
+    },
+    {
+      "text": "Flauta",
+      "difficulty": 2,
+      "hints": ["Suave", "Soplar", "Orificios", "Dulce", "Escuela"]
+    },
+    {
+      "text": "DJ",
+      "difficulty": 2,
+      "hints": ["Mezcla", "Tornamesas", "Fiesta", "Audífonos", "Cabina"]
+    },
+    {
+      "text": "Rap",
+      "difficulty": 2,
+      "hints": ["Rima", "Barrio", "Letras", "Beat", "Improvisar"]
+    },
+    {
+      "text": "Salsa",
+      "difficulty": 2,
+      "hints": ["Caribe", "Pareja", "Clave", "Giros", "Baile"]
+    },
+    {
+      "text": "Jazz",
+      "difficulty": 2,
+      "hints": ["Improvisación", "Nocturno", "Swing", "Solo", "Clubes"]
+    },
+    {
+      "text": "Mariachi",
+      "difficulty": 2,
+      "hints": ["Charro", "Trompetas", "Serenata", "Violines", "Jalisco"]
+    },
+    {
+      "text": "Banda",
+      "difficulty": 2,
+      "hints": ["Metales", "Tambora", "Fiesta", "Sinaloa", "Tuba"]
+    },
+    {
+      "text": "Cumbia",
+      "difficulty": 2,
+      "hints": ["Baile", "Güiro", "Sonidera", "Fiesta", "Pasito"]
+    },
+    {
+      "text": "Rock",
+      "difficulty": 2,
+      "hints": ["Guitarra eléctrica", "Distorsión", "Concierto", "Melena", "Banda"]
+    },
+    {
+      "text": "Pop",
+      "difficulty": 2,
+      "hints": ["Radio", "Pegajoso", "Éxito", "Coreografía", "Listas"]
+    },
+    {
+      "text": "Bolero",
+      "difficulty": 2,
+      "hints": ["Romántico", "Trío", "Despecho", "Guitarra", "Antiguo"]
+    },
+    {
+      "text": "Corrido",
+      "difficulty": 2,
+      "hints": ["Historia", "Norteño", "Sombrero", "Narrar", "Héroe"]
+    },
+    {
+      "text": "Ranchera",
+      "difficulty": 2,
+      "hints": ["Grito", "Tequila", "Charro", "Dolor", "Cantina"]
+    },
+    {
+      "text": "Bajo",
+      "difficulty": 2,
+      "hints": ["Graves", "Cuatro cuerdas", "Ritmo", "Banda", "Eléctrico"]
+    },
+    {
+      "text": "Arpa",
+      "difficulty": 2,
+      "hints": ["Cuerdas", "Ángel", "Celestial", "Veracruz", "Dedos"]
+    },
+    {
+      "text": "Tambor",
+      "difficulty": 2,
+      "hints": ["Golpear", "Parche", "Marcha", "Baquetas", "Redoble"]
+    },
+    {
+      "text": "Maracas",
+      "difficulty": 2,
+      "hints": ["Agitar", "Caribe", "Ritmo", "Pareja", "Sonaja"]
+    },
+    {
+      "text": "Xilófono",
+      "difficulty": 2,
+      "hints": ["Láminas", "Colores", "Mazos", "Escuela", "Percusión"]
+    },
+    {
+      "text": "Clarinete",
+      "difficulty": 2,
+      "hints": ["Madera", "Caña", "Soplar", "Orquesta", "Negro"]
+    },
+    {
+      "text": "Trombón",
+      "difficulty": 2,
+      "hints": ["Vara", "Deslizar", "Metal", "Grave", "Banda"]
+    },
+    {
+      "text": "Ukulele",
+      "difficulty": 2,
+      "hints": ["Pequeño", "Cuatro cuerdas", "Playa", "Alegre", "Rasgueo"]
+    },
+    {
+      "text": "Armónica",
+      "difficulty": 2,
+      "hints": ["Boca", "Soplar", "Vaquero", "Bolsillo", "Blues"]
+    },
+    {
+      "text": "Marimba",
+      "difficulty": 2,
+      "hints": ["Madera", "Teclas", "Mazos", "Chiapas", "Percusión"]
+    },
+    {
+      "text": "Himno",
+      "difficulty": 2,
+      "hints": ["Patriótico", "Estadio", "Letra", "Pecho", "Nacional"]
+    },
+    {
+      "text": "Villancico",
+      "difficulty": 2,
+      "hints": ["Navidad", "Coro", "Posada", "Niños", "Pastorela"]
+    },
+    {
+      "text": "Serenata",
+      "difficulty": 2,
+      "hints": ["Ventana", "Enamorar", "Noche", "Guitarra", "Madrugada"]
+    },
+    {
+      "text": "Playlist",
+      "difficulty": 2,
+      "hints": ["Lista", "Canciones", "Reproducir", "Aleatorio", "Viaje"]
+    },
+    {
+      "text": "Audífonos",
+      "difficulty": 2,
+      "hints": ["Oídos", "Cable", "Música", "Cancelación", "Bolsillo"]
+    },
+    {
+      "text": "Bocina",
+      "difficulty": 2,
+      "hints": ["Volumen", "Bluetooth", "Fiesta", "Sonido", "Graves"]
+    },
+    {
+      "text": "Estudio de grabación",
+      "difficulty": 2,
+      "hints": ["Cabina", "Productor", "Cristal", "Mezcla", "Silencio"]
+    },
+    {
+      "text": "Festival",
+      "difficulty": 2,
+      "hints": ["Escenarios", "Tres días", "Boletos", "Pulsera", "Campo"]
+    },
+    {
+      "text": "Vals",
+      "difficulty": 2,
+      "hints": ["Tres tiempos", "Salón", "Quince años", "Parejas", "Giro"]
+    },
+    {
+      "text": "Mañanitas",
+      "difficulty": 2,
+      "hints": ["Cumpleaños", "Madrugada", "Pastel", "Canto", "Tradición"]
+    },
+    {
+      "text": "Banda sonora",
+      "difficulty": 2,
+      "hints": ["Película", "Compositor", "Escenas", "Orquesta", "Tema"]
+    },
+    {
+      "text": "Metal",
+      "difficulty": 2,
+      "hints": ["Pesado", "Melena", "Guitarras", "Negro", "Estruendo"]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# Configuración de Netlify para impostor. by arista
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # VITE_SUPABASE_URL y VITE_SUPABASE_PUBLISHABLE_KEY son públicas por diseño: terminan dentro del JS
+  # que descarga el navegador (la seguridad la dan las políticas RLS). Sin esto, el escaneo de secretos
+  # de Netlify podría confundirlas con secretos y hacer fallar el build.
+  SECRETS_SCAN_OMIT_KEYS = "VITE_SUPABASE_URL,VITE_SUPABASE_PUBLISHABLE_KEY"
+
+# App de una sola página: cualquier ruta sirve index.html. Los archivos que sí existen
+# (sw.js, manifest, assets, íconos) se sirven tal cual, antes de aplicar esta regla.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# El service worker NUNCA debe quedar en caché: así los dispositivos detectan versiones nuevas.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Archivos con hash en el nombre: se pueden cachear para siempre.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"

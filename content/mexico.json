@@ -1,0 +1,207 @@
+{
+  "slug": "mexico",
+  "name": "cultura mexicana",
+  "sort_order": 21,
+  "words": [
+    {
+      "text": "Lotería",
+      "difficulty": 2,
+      "hints": ["Cartas", "Frijoles", "Fichas", "El Gallo", "Fiesta"]
+    },
+    {
+      "text": "Alebrije",
+      "difficulty": 2,
+      "hints": ["Colores", "Madera", "Fantástico", "Artesanía", "Criatura"]
+    },
+    {
+      "text": "Papel picado",
+      "difficulty": 2,
+      "hints": ["Banderitas", "Fiesta", "Colores", "Calar", "Tradición"]
+    },
+    {
+      "text": "Charro",
+      "difficulty": 2,
+      "hints": ["Sombrero", "Caballo", "Traje", "Lazo", "Jalisco"]
+    },
+    {
+      "text": "Tianguis",
+      "difficulty": 2,
+      "hints": ["Puestos", "Fin de semana", "Regateo", "Lonas", "Mercado sobre ruedas"]
+    },
+    {
+      "text": "Cantina",
+      "difficulty": 2,
+      "hints": ["Botanas", "Puertas batientes", "Dominó", "Cerveza", "Amigos"]
+    },
+    {
+      "text": "Talavera",
+      "difficulty": 2,
+      "hints": ["Cerámica", "Azul y blanco", "Puebla", "Platos", "Pintada"]
+    },
+    {
+      "text": "Molcajete",
+      "difficulty": 2,
+      "hints": ["Piedra", "Salsa", "Triturar", "Tejolote", "Cocina"]
+    },
+    {
+      "text": "Comal",
+      "difficulty": 2,
+      "hints": ["Tortillas", "Plano", "Calentar", "Barro", "Lumbre"]
+    },
+    {
+      "text": "Zócalo",
+      "difficulty": 2,
+      "hints": ["Plaza", "Bandera", "Centro", "Catedral", "Marchas"]
+    },
+    {
+      "text": "Catedral",
+      "difficulty": 2,
+      "hints": ["Campanas", "Torres", "Centro", "Fe", "Plaza"]
+    },
+    {
+      "text": "Cenote",
+      "difficulty": 2,
+      "hints": ["Agua cristalina", "Cueva", "Nadar", "Maya", "Península"]
+    },
+    {
+      "text": "Chichén Itzá",
+      "difficulty": 2,
+      "hints": ["Pirámide", "Maya", "Serpiente", "Equinoccio", "Turistas"]
+    },
+    {
+      "text": "Teotihuacán",
+      "difficulty": 2,
+      "hints": ["Pirámides", "Sol y Luna", "Calzada", "Antigua", "Escalones"]
+    },
+    {
+      "text": "Guadalajara",
+      "difficulty": 2,
+      "hints": ["Perla", "Tapatíos", "Jalisco", "Mariachi", "Ciudad"]
+    },
+    {
+      "text": "Tlaquepaque",
+      "difficulty": 2,
+      "hints": ["Artesanías", "Pueblo", "Plazas", "Cerámica", "Jalisco"]
+    },
+    {
+      "text": "Cancún",
+      "difficulty": 2,
+      "hints": ["Playa", "Caribe", "Turistas", "Hoteles", "Zona hotelera"]
+    },
+    {
+      "text": "Acapulco",
+      "difficulty": 2,
+      "hints": ["Bahía", "Playa", "Clavadistas", "Pacífico", "Vacaciones"]
+    },
+    {
+      "text": "Oaxaca",
+      "difficulty": 2,
+      "hints": ["Mole", "Mezcal", "Tlayudas", "Guelaguetza", "Sur"]
+    },
+    {
+      "text": "Monterrey",
+      "difficulty": 2,
+      "hints": ["Cerro", "Norte", "Cabrito", "Industria", "Fundidora"]
+    },
+    {
+      "text": "Ciudad de México",
+      "difficulty": 2,
+      "hints": ["Capital", "Metro", "Tráfico", "Millones", "Altura"]
+    },
+    {
+      "text": "Quetzalcóatl",
+      "difficulty": 2,
+      "hints": ["Serpiente", "Plumas", "Dios", "Prehispánico", "Mito"]
+    },
+    {
+      "text": "Tenochtitlan",
+      "difficulty": 2,
+      "hints": ["Lago", "Aztecas", "Templo", "Ciudad antigua", "Isla"]
+    },
+    {
+      "text": "Cempasúchil",
+      "difficulty": 2,
+      "hints": ["Naranja", "Flor", "Camino", "Altar", "Noviembre"]
+    },
+    {
+      "text": "Catrina",
+      "difficulty": 2,
+      "hints": ["Elegante", "Sombrero", "Esqueleto", "Calavera", "Posada"]
+    },
+    {
+      "text": "Xoloitzcuintle",
+      "difficulty": 2,
+      "hints": ["Sin pelo", "Perro", "Prehispánico", "Guía", "Antiguo"]
+    },
+    {
+      "text": "Ajolote",
+      "difficulty": 2,
+      "hints": ["Branquias", "Sonrisa", "Lago", "Rosado", "Regenerar"]
+    },
+    {
+      "text": "Telenovela",
+      "difficulty": 2,
+      "hints": ["Drama", "Villana", "Capítulos", "Lágrimas", "Final"]
+    },
+    {
+      "text": "Albur",
+      "difficulty": 2,
+      "hints": ["Doble sentido", "Juego de palabras", "Humor", "Picardía", "Plática"]
+    },
+    {
+      "text": "Tapatío",
+      "difficulty": 2,
+      "hints": ["Gentilicio", "Orgullo", "Perla", "Charro", "Cerveza"]
+    },
+    {
+      "text": "Voladores de Papantla",
+      "difficulty": 2,
+      "hints": ["Palo", "Cuerdas", "Giros", "Danza", "Altura"]
+    },
+    {
+      "text": "Guelaguetza",
+      "difficulty": 2,
+      "hints": ["Danza", "Julio", "Cerro", "Trajes", "Fiesta"]
+    },
+    {
+      "text": "Torta ahogada",
+      "difficulty": 2,
+      "hints": ["Salsa picante", "Bolillo", "Carnitas", "Mojada", "Jalisco"]
+    },
+    {
+      "text": "Birria",
+      "difficulty": 2,
+      "hints": ["Consomé", "Chivo", "Rojo", "Tacos", "Domingo"]
+    },
+    {
+      "text": "Cajeta",
+      "difficulty": 2,
+      "hints": ["Dulce", "Cabra", "Caramelo", "Untar", "Espesa"]
+    },
+    {
+      "text": "Chamoy",
+      "difficulty": 2,
+      "hints": ["Picante", "Fruta", "Salsa", "Rojo", "Dulce"]
+    },
+    {
+      "text": "Tamalero",
+      "difficulty": 2,
+      "hints": ["Calle", "Grito", "Vaporera", "Madrugada", "Mañana"]
+    },
+    {
+      "text": "Piedra del Sol",
+      "difficulty": 2,
+      "hints": ["Calendario", "Azteca", "Redonda", "Museo", "Antiguo"]
+    },
+    {
+      "text": "Virgen de Guadalupe",
+      "difficulty": 2,
+      "hints": ["Tepeyac", "Rosas", "Manto", "Basílica", "Diciembre"]
+    },
+    {
+      "text": "Pan de muerto",
+      "difficulty": 2,
+      "hints": ["Noviembre", "Huesitos", "Azúcar", "Ofrenda", "Naranja"]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "slug": "peliculas",
+  "name": "cine y series",
+  "sort_order": 6,
+  "words": [
+    {
+      "text": "Titanic",
+      "difficulty": 2,
+      "hints": ["Trágico", "Barco", "Hielo", "Romance", "Collar"]
+    },
+    {
+      "text": "Matrix",
+      "difficulty": 2,
+      "hints": ["Ilusión", "Píldora", "Hackers", "Simulación", "Negro"]
+    },
+    {
+      "text": "Coco",
+      "difficulty": 2,
+      "hints": ["Familia", "Música", "Ofrenda", "Calavera", "Guitarra"]
+    },
+    {
+      "text": "Shrek",
+      "difficulty": 2,
+      "hints": ["Fantasía", "Pantano", "Burro", "Cuento", "Humor"]
+    },
+    {
+      "text": "Avatar",
+      "difficulty": 2,
+      "hints": ["Naturaleza", "Azul", "Planeta", "Cola", "Selva"]
+    },
+    {
+      "text": "Jaws",
+      "difficulty": 2,
+      "hints": ["Miedo", "Playa", "Aleta", "Mar", "Música"]
+    },
+    {
+      "text": "Frozen",
+      "difficulty": 2,
+      "hints": ["Hermanas", "Nieve", "Hielo", "Canción", "Reina"]
+    },
+    {
+      "text": "Joker",
+      "difficulty": 2,
+      "hints": ["Caos", "Risa", "Payaso", "Escaleras", "Ciudad"]
+    },
+    {
+      "text": "Dune",
+      "difficulty": 2,
+      "hints": ["Épico", "Desierto", "Especia", "Gusano", "Planeta"]
+    },
+    {
+      "text": "Rocky",
+      "difficulty": 2,
+      "hints": ["Esfuerzo", "Boxeo", "Escaleras", "Entrenar", "Campeón"]
+    },
+    {
+      "text": "Up",
+      "difficulty": 2,
+      "hints": ["Aventura", "Globos", "Casa", "Anciano", "Perro"]
+    },
+    {
+      "text": "Elite",
+      "difficulty": 2,
+      "hints": ["Secretos", "Colegio", "Misterio", "Jóvenes", "Asesinato"]
+    },
+    {
+      "text": "Cars",
+      "difficulty": 2,
+      "hints": ["Velocidad", "Carreras", "Rayo", "Pista", "Animación"]
+    },
+    {
+      "text": "Rio",
+      "difficulty": 2,
+      "hints": ["Colorido", "Aves", "Carnaval", "Guacamayo", "Animación"]
+    },
+    {
+      "text": "Encanto",
+      "difficulty": 2,
+      "hints": ["Magia", "Familia", "Casa", "Dones", "Vela"]
+    },
+    {
+      "text": "Barbie",
+      "difficulty": 2,
+      "hints": ["Rosa", "Muñeca", "Mundo", "Plástico", "Vestuario"]
+    },
+    {
+      "text": "Grease",
+      "difficulty": 2,
+      "hints": ["Nostalgia", "Musical", "Cuero", "Años 50", "Carros"]
+    },
+    {
+      "text": "Aladdin",
+      "difficulty": 2,
+      "hints": ["Deseo", "Lámpara", "Alfombra", "Mono", "Desierto"]
+    },
+    {
+      "text": "Moana",
+      "difficulty": 2,
+      "hints": ["Viaje", "Océano", "Isla", "Canción", "Aventura"]
+    },
+    {
+      "text": "Interstellar",
+      "difficulty": 2,
+      "hints": ["Tiempo", "Espacio", "Agujero negro", "Padre", "Granja"]
+    },
+    {
+      "text": "Toy Story",
+      "difficulty": 2,
+      "hints": ["Juguetes", "Vaquero", "Cumpleaños", "Habitación", "Animación"]
+    },
+    {
+      "text": "El Rey León",
+      "difficulty": 2,
+      "hints": ["Sabana", "Cachorro", "Tío", "Canciones", "Animación"]
+    },
+    {
+      "text": "Buscando a Nemo",
+      "difficulty": 2,
+      "hints": ["Pez", "Padre", "Océano", "Naranja", "Perdido"]
+    },
+    {
+      "text": "Jurassic Park",
+      "difficulty": 2,
+      "hints": ["Dinosaurios", "Isla", "ADN", "Ámbar", "Científicos"]
+    },
+    {
+      "text": "Star Wars",
+      "difficulty": 2,
+      "hints": ["Galaxia", "Sable de luz", "Fuerza", "Naves", "Saga"]
+    },
+    {
+      "text": "El Señor de los Anillos",
+      "difficulty": 2,
+      "hints": ["Tierra Media", "Mordor", "Hobbits", "Mago", "Trilogía"]
+    },
+    {
+      "text": "Los Vengadores",
+      "difficulty": 2,
+      "hints": ["Superhéroes", "Equipo", "Alienígenas", "Ciudad", "Escudo"]
+    },
+    {
+      "text": "Piratas del Caribe",
+      "difficulty": 2,
+      "hints": ["Capitán", "Barco", "Ron", "Tesoro", "Maldición"]
+    },
+    {
+      "text": "Volver al Futuro",
+      "difficulty": 2,
+      "hints": ["Auto", "Tiempo", "Reloj", "Década", "Científico"]
+    },
+    {
+      "text": "Forrest Gump",
+      "difficulty": 2,
+      "hints": ["Corre", "Banco", "Chocolates", "Historia", "Camarón"]
+    },
+    {
+      "text": "El Padrino",
+      "difficulty": 2,
+      "hints": ["Mafia", "Familia", "Oferta", "Don", "Italiano"]
+    },
+    {
+      "text": "Inception",
+      "difficulty": 2,
+      "hints": ["Sueños", "Trompo", "Capas", "Mente", "Pasillo"]
+    },
+    {
+      "text": "Intensamente",
+      "difficulty": 2,
+      "hints": ["Emociones", "Mente", "Niña", "Colores", "Animación"]
+    },
+    {
+      "text": "Ratatouille",
+      "difficulty": 2,
+      "hints": ["Cocina", "Roedor", "Chef", "Restaurante", "Animación"]
+    },
+    {
+      "text": "Los Increíbles",
+      "difficulty": 2,
+      "hints": ["Familia", "Superpoderes", "Capa", "Traje", "Animación"]
+    },
+    {
+      "text": "Kung Fu Panda",
+      "difficulty": 2,
+      "hints": ["Artes marciales", "Fideos", "Guerrero", "Maestro", "Animación"]
+    },
+    {
+      "text": "Cazafantasmas",
+      "difficulty": 2,
+      "hints": ["Mochila de protones", "Slime", "Nueva York", "Equipo", "Auto blanco"]
+    },
+    {
+      "text": "Terminator",
+      "difficulty": 2,
+      "hints": ["Robot", "Futuro", "Volveré", "Metal", "Persecución"]
+    },
+    {
+      "text": "Stranger Things",
+      "difficulty": 2,
+      "hints": ["Años 80", "Pueblo", "Niños", "Bicicletas", "Misterio"]
+    },
+    {
+      "text": "La Casa de Papel",
+      "difficulty": 2,
+      "hints": ["Atraco", "Máscaras", "Rojo", "Profesor", "Dinero"]
+    },
+    {
+      "text": "Breaking Bad",
+      "difficulty": 2,
+      "hints": ["Profesor", "Químico", "Desierto", "Azul", "Caravana"]
+    },
+    {
+      "text": "Game of Thrones",
+      "difficulty": 2,
+      "hints": ["Dragones", "Trono", "Invierno", "Reinos", "Espadas"]
+    },
+    {
+      "text": "Friends",
+      "difficulty": 2,
+      "hints": ["Seis amigos", "Sofá", "Cafetería", "Nueva York", "Comedia"]
+    },
+    {
+      "text": "Los Simpson",
+      "difficulty": 2,
+      "hints": ["Amarillo", "Familia", "Dona", "Springfield", "Animación"]
+    },
+    {
+      "text": "El Chavo del 8",
+      "difficulty": 2,
+      "hints": ["Vecindad", "Barril", "Sándwich de jamón", "Risas", "Televisión"]
+    },
+    {
+      "text": "Mi Villano Favorito",
+      "difficulty": 2,
+      "hints": ["Minions", "Malvado", "Niñas", "Luna", "Animación"]
+    },
+    {
+      "text": "Madagascar",
+      "difficulty": 2,
+      "hints": ["Zoológico", "Isla", "Animales", "Escape", "Animación"]
+    },
+    {
+      "text": "Gladiador",
+      "difficulty": 2,
+      "hints": ["Roma", "Arena", "Venganza", "General", "Coliseo"]
+    },
+    {
+      "text": "Parásitos",
+      "difficulty": 2,
+      "hints": ["Sótano", "Familia", "Clases sociales", "Oscar", "Coreana"]
+    },
+    {
+      "text": "El Viaje de Chihiro",
+      "difficulty": 2,
+      "hints": ["Animación japonesa", "Espíritus", "Baños", "Niña", "Dragón"]
+    }
+  ]
+}

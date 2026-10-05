@@ -1,0 +1,257 @@
+{
+  "slug": "bebidas",
+  "name": "bebidas",
+  "sort_order": 13,
+  "words": [
+    {
+      "text": "Café",
+      "difficulty": 2,
+      "hints": ["Despertar", "Taza", "Energía", "Mañana", "Granos"]
+    },
+    {
+      "text": "Té",
+      "difficulty": 2,
+      "hints": ["Calma", "Hierbas", "Infusión", "Bolsita", "Caliente"]
+    },
+    {
+      "text": "Agua",
+      "difficulty": 2,
+      "hints": ["Esencial", "Sed", "Transparente", "Botella", "Vida"]
+    },
+    {
+      "text": "Jugo",
+      "difficulty": 2,
+      "hints": ["Natural", "Fruta", "Exprimir", "Vaso", "Desayuno"]
+    },
+    {
+      "text": "Refresco",
+      "difficulty": 2,
+      "hints": ["Burbujas", "Lata", "Azúcar", "Gas", "Frío"]
+    },
+    {
+      "text": "Cerveza",
+      "difficulty": 2,
+      "hints": ["Espuma", "Lúpulo", "Tarro", "Fiesta", "Fría"]
+    },
+    {
+      "text": "Vino",
+      "difficulty": 2,
+      "hints": ["Añejo", "Uvas", "Copa", "Cena", "Botella"]
+    },
+    {
+      "text": "Limonada",
+      "difficulty": 2,
+      "hints": ["Ácido", "Verano", "Hielo", "Jarra", "Cítrico"]
+    },
+    {
+      "text": "Batido",
+      "difficulty": 2,
+      "hints": ["Espeso", "Licuadora", "Leche", "Fruta", "Cremoso"]
+    },
+    {
+      "text": "Chocolate caliente",
+      "difficulty": 2,
+      "hints": ["Invierno", "Cacao", "Marshmallow", "Taza", "Dulce"]
+    },
+    {
+      "text": "Champán",
+      "difficulty": 2,
+      "hints": ["Brindis", "Burbujas", "Corcho", "Año Nuevo", "Flauta"]
+    },
+    {
+      "text": "Mate",
+      "difficulty": 2,
+      "hints": ["Amargo", "Calabaza", "Bombilla", "Hierba", "Compartir"]
+    },
+    {
+      "text": "Horchata",
+      "difficulty": 2,
+      "hints": ["Tradicional", "Arroz", "Canela", "Fresca", "Blanca"]
+    },
+    {
+      "text": "Agua de coco",
+      "difficulty": 2,
+      "hints": ["Tropical", "Playa", "Fruta", "Hidratar", "Cáscara"]
+    },
+    {
+      "text": "Cóctel",
+      "difficulty": 2,
+      "hints": ["Fiesta", "Agitar", "Barman", "Hielo", "Mezcla"]
+    },
+    {
+      "text": "Licuado",
+      "difficulty": 2,
+      "hints": ["Fruta", "Vaso", "Leche", "Desayuno", "Espeso"]
+    },
+    {
+      "text": "Ponche",
+      "difficulty": 2,
+      "hints": ["Navideño", "Frutas", "Caliente", "Posada", "Canela"]
+    },
+    {
+      "text": "Kombucha",
+      "difficulty": 2,
+      "hints": ["Fermentado", "Té", "Saludable", "Burbujas", "Ácido"]
+    },
+    {
+      "text": "Smoothie",
+      "difficulty": 2,
+      "hints": ["Saludable", "Frutas", "Congelado", "Espeso", "Licuadora"]
+    },
+    {
+      "text": "Malteada",
+      "difficulty": 2,
+      "hints": ["Dulce", "Helado", "Popote", "Leche", "Crema"]
+    },
+    {
+      "text": "Tequila",
+      "difficulty": 2,
+      "hints": ["Agave", "Jalisco", "Caballito", "Limón y sal", "Destilado"]
+    },
+    {
+      "text": "Mezcal",
+      "difficulty": 2,
+      "hints": ["Humo", "Oaxaca", "Agave", "Gusano", "Artesanal"]
+    },
+    {
+      "text": "Ron",
+      "difficulty": 2,
+      "hints": ["Caña", "Pirata", "Barril", "Coctel", "Isla"]
+    },
+    {
+      "text": "Vodka",
+      "difficulty": 2,
+      "hints": ["Transparente", "Hielo", "Destilado", "Fuerte", "Papa"]
+    },
+    {
+      "text": "Whisky",
+      "difficulty": 2,
+      "hints": ["Rocas", "Barril", "Fuerte", "Añejado", "Vaso corto"]
+    },
+    {
+      "text": "Margarita",
+      "difficulty": 2,
+      "hints": ["Sal", "Limón", "Copa", "Escarchada", "Hielo"]
+    },
+    {
+      "text": "Michelada",
+      "difficulty": 2,
+      "hints": ["Cerveza", "Limón", "Salsas", "Vaso escarchado", "Resaca"]
+    },
+    {
+      "text": "Tepache",
+      "difficulty": 2,
+      "hints": ["Piña", "Fermentado", "Cáscara", "Piloncillo", "Callejero"]
+    },
+    {
+      "text": "Atole",
+      "difficulty": 2,
+      "hints": ["Espeso", "Masa", "Tamales", "Caliente", "Mañana"]
+    },
+    {
+      "text": "Agua de jamaica",
+      "difficulty": 2,
+      "hints": ["Roja", "Flor", "Fresca", "Ácida", "Comida"]
+    },
+    {
+      "text": "Agua de tamarindo",
+      "difficulty": 2,
+      "hints": ["Café", "Dulce", "Ácida", "Comida", "Vaso grande"]
+    },
+    {
+      "text": "Leche",
+      "difficulty": 2,
+      "hints": ["Vaca", "Blanca", "Calcio", "Desayuno", "Cereal"]
+    },
+    {
+      "text": "Capuchino",
+      "difficulty": 2,
+      "hints": ["Espuma", "Canela", "Cafetería", "Taza", "Leche"]
+    },
+    {
+      "text": "Espresso",
+      "difficulty": 2,
+      "hints": ["Corto", "Fuerte", "Máquina", "Intenso", "Shot"]
+    },
+    {
+      "text": "Matcha",
+      "difficulty": 2,
+      "hints": ["Verde", "Polvo", "Batidor", "Ceremonia", "Moda"]
+    },
+    {
+      "text": "Frappé",
+      "difficulty": 2,
+      "hints": ["Frío", "Café", "Hielo", "Crema batida", "Popote"]
+    },
+    {
+      "text": "Agua mineral",
+      "difficulty": 2,
+      "hints": ["Burbujas", "Sin sabor", "Botella", "Sal", "Gas"]
+    },
+    {
+      "text": "Bebida energética",
+      "difficulty": 2,
+      "hints": ["Cafeína", "Lata", "Estudio", "Alas", "Taurina"]
+    },
+    {
+      "text": "Té helado",
+      "difficulty": 2,
+      "hints": ["Hielo", "Durazno", "Verano", "Dulce", "Botella"]
+    },
+    {
+      "text": "Tejuino",
+      "difficulty": 2,
+      "hints": ["Maíz", "Fermentado", "Jalisco", "Hielo", "Limón"]
+    },
+    {
+      "text": "Sangría",
+      "difficulty": 2,
+      "hints": ["Frutas", "Vino", "Jarra", "Verano", "Hielo"]
+    },
+    {
+      "text": "Mojito",
+      "difficulty": 2,
+      "hints": ["Hierbabuena", "Ron", "Lima", "Hielo", "Cuba"]
+    },
+    {
+      "text": "Piña colada",
+      "difficulty": 2,
+      "hints": ["Coco", "Piña", "Playa", "Sombrilla", "Frozen"]
+    },
+    {
+      "text": "Café de olla",
+      "difficulty": 2,
+      "hints": ["Barro", "Canela", "Piloncillo", "Tradición", "Mañana"]
+    },
+    {
+      "text": "Pulque",
+      "difficulty": 2,
+      "hints": ["Maguey", "Fermentado", "Espeso", "Curado", "Tradición"]
+    },
+    {
+      "text": "Tuba",
+      "difficulty": 2,
+      "hints": ["Palma", "Fermentada", "Colima", "Fresca", "Calle"]
+    },
+    {
+      "text": "Carajillo",
+      "difficulty": 2,
+      "hints": ["Café", "Licor", "Digestivo", "Postre", "Hielo"]
+    },
+    {
+      "text": "Sidral",
+      "difficulty": 2,
+      "hints": ["Manzana", "Burbujas", "Botella", "Antojitos", "Dulce"]
+    },
+    {
+      "text": "Chai",
+      "difficulty": 2,
+      "hints": ["Especias", "Té", "Leche", "Canela", "Cardamomo"]
+    },
+    {
+      "text": "Granizado",
+      "difficulty": 2,
+      "hints": ["Hielo triturado", "Jarabe", "Vaso", "Calor", "Colores"]
+    }
+  ]
+}

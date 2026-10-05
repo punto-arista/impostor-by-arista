@@ -1,0 +1,257 @@
+{
+  "slug": "tecnologia",
+  "name": "tecnología",
+  "sort_order": 10,
+  "words": [
+    {
+      "text": "Robot",
+      "difficulty": 2,
+      "hints": ["Máquina", "Metal", "Automático", "Programado", "Sensores"]
+    },
+    {
+      "text": "Dron",
+      "difficulty": 2,
+      "hints": ["Volar", "Hélices", "Control", "Fotos", "Zumbido"]
+    },
+    {
+      "text": "Wifi",
+      "difficulty": 2,
+      "hints": ["Conexión", "Señal", "Router", "Contraseña", "Invisible"]
+    },
+    {
+      "text": "Videojuego",
+      "difficulty": 2,
+      "hints": ["Diversión", "Control", "Niveles", "Consola", "Pantalla"]
+    },
+    {
+      "text": "Impresora 3D",
+      "difficulty": 2,
+      "hints": ["Diseño", "Capas", "Plástico", "Prototipo", "Filamento"]
+    },
+    {
+      "text": "Realidad virtual",
+      "difficulty": 2,
+      "hints": ["Inmersión", "Lentes", "Mundo", "Visor", "Mareo"]
+    },
+    {
+      "text": "Satélite",
+      "difficulty": 2,
+      "hints": ["Espacio", "Órbita", "Señal", "Antena", "Giro"]
+    },
+    {
+      "text": "Batería",
+      "difficulty": 2,
+      "hints": ["Energía", "Carga", "Porcentaje", "Dura", "Enchufe"]
+    },
+    {
+      "text": "Auriculares",
+      "difficulty": 2,
+      "hints": ["Sonido", "Oídos", "Cable", "Música", "Diadema"]
+    },
+    {
+      "text": "Códigos QR",
+      "difficulty": 2,
+      "hints": ["Escanear", "Cuadro", "Cámara", "Menú", "Pixeles"]
+    },
+    {
+      "text": "Chip",
+      "difficulty": 2,
+      "hints": ["Pequeño", "Silicio", "Cerebro", "Tarjeta", "Circuito"]
+    },
+    {
+      "text": "Holograma",
+      "difficulty": 2,
+      "hints": ["Futuro", "Luz", "Proyección", "Ciencia ficción", "Tridimensional"]
+    },
+    {
+      "text": "Laptop",
+      "difficulty": 2,
+      "hints": ["Trabajo", "Teclado", "Portátil", "Pantalla", "Cargador"]
+    },
+    {
+      "text": "Tablet",
+      "difficulty": 2,
+      "hints": ["Táctil", "Pantalla", "Dedo", "Lectura", "Delgada"]
+    },
+    {
+      "text": "Software",
+      "difficulty": 2,
+      "hints": ["Programa", "Código", "Actualización", "Licencia", "Instalar"]
+    },
+    {
+      "text": "Internet",
+      "difficulty": 2,
+      "hints": ["Red", "Navegar", "Mundial", "Páginas", "Buscar"]
+    },
+    {
+      "text": "Servidor",
+      "difficulty": 2,
+      "hints": ["Datos", "Nube", "Almacenar", "Cuarto frío", "Respaldo"]
+    },
+    {
+      "text": "Antena",
+      "difficulty": 2,
+      "hints": ["Torre", "Señal", "Techo", "Ondas", "Recepción"]
+    },
+    {
+      "text": "Sensor",
+      "difficulty": 2,
+      "hints": ["Detectar", "Movimiento", "Medir", "Luz", "Alarma"]
+    },
+    {
+      "text": "Algoritmo",
+      "difficulty": 2,
+      "hints": ["Lógica", "Pasos", "Cálculo", "Redes sociales", "Recomendar"]
+    },
+    {
+      "text": "Computadora",
+      "difficulty": 2,
+      "hints": ["Escritorio", "Teclado", "Archivos", "Procesador", "Oficina"]
+    },
+    {
+      "text": "Celular",
+      "difficulty": 2,
+      "hints": ["Llamadas", "Bolsillo", "Pantalla", "Apps", "Cargar"]
+    },
+    {
+      "text": "Teclado",
+      "difficulty": 2,
+      "hints": ["Letras", "Teclas", "Escribir", "Mayúsculas", "Dedos"]
+    },
+    {
+      "text": "Mouse",
+      "difficulty": 2,
+      "hints": ["Clic", "Cursor", "Rueda", "Cable", "Escritorio"]
+    },
+    {
+      "text": "Monitor",
+      "difficulty": 2,
+      "hints": ["Pantalla", "Resolución", "Escritorio", "Pulgadas", "Brillo"]
+    },
+    {
+      "text": "Bluetooth",
+      "difficulty": 2,
+      "hints": ["Inalámbrico", "Emparejar", "Corto alcance", "Bocina", "Diente azul"]
+    },
+    {
+      "text": "Nube",
+      "difficulty": 2,
+      "hints": ["Almacenar", "Respaldo", "Archivos", "Remoto", "Sincronizar"]
+    },
+    {
+      "text": "Contraseña",
+      "difficulty": 2,
+      "hints": ["Secreto", "Acceso", "Caracteres", "Olvidar", "Seguridad"]
+    },
+    {
+      "text": "Correo electrónico",
+      "difficulty": 2,
+      "hints": ["Bandeja", "Mensaje", "Adjunto", "Arroba", "Spam"]
+    },
+    {
+      "text": "Aplicación",
+      "difficulty": 2,
+      "hints": ["Tienda", "Descargar", "Icono", "Móvil", "Instalar"]
+    },
+    {
+      "text": "Redes sociales",
+      "difficulty": 2,
+      "hints": ["Publicar", "Seguidores", "Likes", "Perfil", "Scroll"]
+    },
+    {
+      "text": "Inteligencia artificial",
+      "difficulty": 2,
+      "hints": ["Aprender", "Chat", "Modelos", "Automatizar", "Futuro"]
+    },
+    {
+      "text": "Videollamada",
+      "difficulty": 2,
+      "hints": ["Cámara", "Pantalla", "Reunión", "Lejos", "Micrófono"]
+    },
+    {
+      "text": "Streaming",
+      "difficulty": 2,
+      "hints": ["Series", "Suscripción", "Directo", "Plataforma", "Maratón"]
+    },
+    {
+      "text": "Hackeo",
+      "difficulty": 2,
+      "hints": ["Acceso ilegal", "Contraseña", "Intruso", "Seguridad", "Datos"]
+    },
+    {
+      "text": "Memoria USB",
+      "difficulty": 2,
+      "hints": ["Portátil", "Archivos", "Puerto", "Llavero", "Pequeña"]
+    },
+    {
+      "text": "Disco duro",
+      "difficulty": 2,
+      "hints": ["Almacenamiento", "Gigas", "Respaldo", "Giratorio", "Datos"]
+    },
+    {
+      "text": "Smartwatch",
+      "difficulty": 2,
+      "hints": ["Muñeca", "Pasos", "Notificaciones", "Pulso", "Correa"]
+    },
+    {
+      "text": "Cajero automático",
+      "difficulty": 2,
+      "hints": ["Efectivo", "Tarjeta", "Pin", "Retiro", "Banco"]
+    },
+    {
+      "text": "Impresora",
+      "difficulty": 2,
+      "hints": ["Papel", "Tinta", "Documentos", "Hojas", "Atasco"]
+    },
+    {
+      "text": "Escáner",
+      "difficulty": 2,
+      "hints": ["Digitalizar", "Luz", "Papel", "Documento", "Copia"]
+    },
+    {
+      "text": "GPS",
+      "difficulty": 2,
+      "hints": ["Ruta", "Satélites", "Ubicación", "Mapa", "Navegación"]
+    },
+    {
+      "text": "Emoji",
+      "difficulty": 2,
+      "hints": ["Carita", "Mensaje", "Amarillo", "Expresión", "Teclado"]
+    },
+    {
+      "text": "Meme",
+      "difficulty": 2,
+      "hints": ["Gracioso", "Imagen", "Viral", "Texto", "Compartir"]
+    },
+    {
+      "text": "Podcast",
+      "difficulty": 2,
+      "hints": ["Episodios", "Audio", "Auriculares", "Conversación", "Suscribirse"]
+    },
+    {
+      "text": "Criptomoneda",
+      "difficulty": 2,
+      "hints": ["Digital", "Billetera", "Minería", "Volátil", "Descentralizada"]
+    },
+    {
+      "text": "Selfie",
+      "difficulty": 2,
+      "hints": ["Brazo", "Cámara frontal", "Foto", "Perfil", "Ángulo"]
+    },
+    {
+      "text": "Captcha",
+      "difficulty": 2,
+      "hints": ["Robot", "Semáforos", "Verificar", "Letras torcidas", "Humano"]
+    },
+    {
+      "text": "Pixel",
+      "difficulty": 2,
+      "hints": ["Punto", "Imagen", "Cuadro", "Pantalla", "Resolución"]
+    },
+    {
+      "text": "Navegador",
+      "difficulty": 2,
+      "hints": ["Pestañas", "Buscar", "Internet", "Historial", "Página"]
+    }
+  ]
+}

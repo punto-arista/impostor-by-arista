@@ -1,0 +1,257 @@
+{
+  "slug": "festividades",
+  "name": "festividades",
+  "sort_order": 12,
+  "words": [
+    {
+      "text": "Navidad",
+      "difficulty": 2,
+      "hints": ["Regalos", "Árbol", "Posada", "Diciembre", "Cena"]
+    },
+    {
+      "text": "Halloween",
+      "difficulty": 2,
+      "hints": ["Miedo", "Disfraces", "Dulces", "Calabaza", "Octubre"]
+    },
+    {
+      "text": "Carnaval",
+      "difficulty": 2,
+      "hints": ["Colores", "Máscaras", "Desfile", "Plumas", "Disfraz"]
+    },
+    {
+      "text": "Año Nuevo",
+      "difficulty": 2,
+      "hints": ["Medianoche", "Uvas", "Cuenta regresiva", "Propósitos", "Fuegos artificiales"]
+    },
+    {
+      "text": "Cumpleaños",
+      "difficulty": 2,
+      "hints": ["Sorpresa", "Pastel", "Velas", "Años", "Regalos"]
+    },
+    {
+      "text": "Boda",
+      "difficulty": 2,
+      "hints": ["Amor", "Anillos", "Vestido blanco", "Brindis", "Invitados"]
+    },
+    {
+      "text": "Graduación",
+      "difficulty": 2,
+      "hints": ["Logro", "Toga", "Birrete", "Diploma", "Familia"]
+    },
+    {
+      "text": "Día de Muertos",
+      "difficulty": 2,
+      "hints": ["Recuerdo", "Ofrenda", "Cempasúchil", "Altar", "Calaveras"]
+    },
+    {
+      "text": "San Valentín",
+      "difficulty": 2,
+      "hints": ["Corazón", "Febrero", "Rosas", "Pareja", "Chocolates"]
+    },
+    {
+      "text": "Feria",
+      "difficulty": 2,
+      "hints": ["Diversión", "Juegos", "Algodón de azúcar", "Rueda de la fortuna", "Premios"]
+    },
+    {
+      "text": "Desfile",
+      "difficulty": 2,
+      "hints": ["Multitud", "Carros alegóricos", "Banda", "Avenida", "Marchar"]
+    },
+    {
+      "text": "Quinceañera",
+      "difficulty": 2,
+      "hints": ["Vestido", "Vals", "Chambelanes", "Tiara", "Fiesta"]
+    },
+    {
+      "text": "Pascua",
+      "difficulty": 2,
+      "hints": ["Primavera", "Conejo", "Huevos", "Domingo", "Procesión"]
+    },
+    {
+      "text": "Independencia",
+      "difficulty": 2,
+      "hints": ["Patria", "Grito", "Septiembre", "Bandera", "Verde blanco y rojo"]
+    },
+    {
+      "text": "Aniversario",
+      "difficulty": 2,
+      "hints": ["Pareja", "Años juntos", "Cena", "Recuerdos", "Celebrar"]
+    },
+    {
+      "text": "Bautizo",
+      "difficulty": 2,
+      "hints": ["Familia", "Agua", "Padrinos", "Iglesia", "Bebé"]
+    },
+    {
+      "text": "Vacaciones",
+      "difficulty": 2,
+      "hints": ["Descanso", "Playa", "Maletas", "Sin trabajo", "Viaje"]
+    },
+    {
+      "text": "Retiro",
+      "difficulty": 2,
+      "hints": ["Reflexión", "Silencio", "Escape", "Naturaleza", "Meditar"]
+    },
+    {
+      "text": "Reunión",
+      "difficulty": 2,
+      "hints": ["Encuentro", "Mesa", "Familia", "Platicar", "Amigos"]
+    },
+    {
+      "text": "Despedida",
+      "difficulty": 2,
+      "hints": ["Lágrimas", "Adiós", "Soltería", "Último", "Abrazos"]
+    },
+    {
+      "text": "Día de las Madres",
+      "difficulty": 2,
+      "hints": ["Mayo", "Flores", "Mañanitas", "Mamá", "Comida"]
+    },
+    {
+      "text": "Día del Padre",
+      "difficulty": 2,
+      "hints": ["Junio", "Corbata", "Papá", "Comida", "Regalo"]
+    },
+    {
+      "text": "Día de Reyes",
+      "difficulty": 2,
+      "hints": ["Enero", "Rosca", "Muñequito", "Tamales", "Zapatos"]
+    },
+    {
+      "text": "Nochebuena",
+      "difficulty": 2,
+      "hints": ["Cena", "Familia", "Medianoche", "Pavo", "Víspera"]
+    },
+    {
+      "text": "Posada",
+      "difficulty": 2,
+      "hints": ["Piñata", "Peregrinos", "Velitas", "Diciembre", "Cantar"]
+    },
+    {
+      "text": "Piñata",
+      "difficulty": 2,
+      "hints": ["Palo", "Dulces", "Venda", "Romper", "Cumpleaños"]
+    },
+    {
+      "text": "Baby shower",
+      "difficulty": 2,
+      "hints": ["Bebé", "Regalos", "Juegos", "Futura mamá", "Pañales"]
+    },
+    {
+      "text": "Fiesta sorpresa",
+      "difficulty": 2,
+      "hints": ["Secreto", "Gritar", "Luces apagadas", "Escondidos", "Invitados"]
+    },
+    {
+      "text": "Despedida de soltera",
+      "difficulty": 2,
+      "hints": ["Amigas", "Antifaz", "Última noche", "Corona", "Retos"]
+    },
+    {
+      "text": "Semana Santa",
+      "difficulty": 2,
+      "hints": ["Abril", "Procesión", "Vacaciones", "Cuaresma", "Viacrucis"]
+    },
+    {
+      "text": "Día del Niño",
+      "difficulty": 2,
+      "hints": ["Abril", "Juegos", "Regalos", "Escuela", "Pastel"]
+    },
+    {
+      "text": "Fiesta de pueblo",
+      "difficulty": 2,
+      "hints": ["Plaza", "Cohetes", "Música", "Tradición", "Santo"]
+    },
+    {
+      "text": "Peregrinación",
+      "difficulty": 2,
+      "hints": ["Caminar", "Santuario", "Fe", "Multitud", "Octubre"]
+    },
+    {
+      "text": "Primera comunión",
+      "difficulty": 2,
+      "hints": ["Niños", "Blanco", "Iglesia", "Hostia", "Recuerdo"]
+    },
+    {
+      "text": "Pijamada",
+      "difficulty": 2,
+      "hints": ["Amigas", "Dormir", "Película", "Palomitas", "Sleeping bag"]
+    },
+    {
+      "text": "Picnic",
+      "difficulty": 2,
+      "hints": ["Manta", "Canasta", "Parque", "Almuerzo", "Aire libre"]
+    },
+    {
+      "text": "Fogata",
+      "difficulty": 2,
+      "hints": ["Noche", "Calor", "Malvaviscos", "Leña", "Campamento"]
+    },
+    {
+      "text": "Parrillada",
+      "difficulty": 2,
+      "hints": ["Carne", "Carbón", "Domingo", "Familia", "Humo"]
+    },
+    {
+      "text": "Inauguración",
+      "difficulty": 2,
+      "hints": ["Listón", "Tijeras", "Apertura", "Discurso", "Nuevo"]
+    },
+    {
+      "text": "Concurso",
+      "difficulty": 2,
+      "hints": ["Premios", "Jurado", "Competir", "Ganador", "Participantes"]
+    },
+    {
+      "text": "Fuegos artificiales",
+      "difficulty": 2,
+      "hints": ["Pólvora", "Cielo", "Colores", "Estruendo", "Noche"]
+    },
+    {
+      "text": "Baile de graduación",
+      "difficulty": 2,
+      "hints": ["Esmoquin", "Vestido", "Pareja", "Corona", "Salón"]
+    },
+    {
+      "text": "Reencuentro",
+      "difficulty": 2,
+      "hints": ["Años", "Amigos", "Abrazos", "Recuerdos", "Fotos"]
+    },
+    {
+      "text": "Estreno",
+      "difficulty": 2,
+      "hints": ["Alfombra roja", "Primera vez", "Nuevo", "Público", "Función"]
+    },
+    {
+      "text": "Torneo",
+      "difficulty": 2,
+      "hints": ["Competencia", "Equipos", "Trofeo", "Final", "Eliminatorias"]
+    },
+    {
+      "text": "Rifa",
+      "difficulty": 2,
+      "hints": ["Boletos", "Números", "Sorteo", "Premio", "Suerte"]
+    },
+    {
+      "text": "Kermés",
+      "difficulty": 2,
+      "hints": ["Escuela", "Antojitos", "Juegos", "Parroquia", "Boletos"]
+    },
+    {
+      "text": "Misa de gallo",
+      "difficulty": 2,
+      "hints": ["Medianoche", "Navidad", "Iglesia", "Nacimiento", "Tradición"]
+    },
+    {
+      "text": "Luna de miel",
+      "difficulty": 2,
+      "hints": ["Recién casados", "Viaje", "Playa", "Romántico", "Hotel"]
+    },
+    {
+      "text": "Fiesta de bienvenida",
+      "difficulty": 2,
+      "hints": ["Llegada", "Globos", "Cartel", "Recibir", "Sorpresa"]
+    }
+  ]
+}

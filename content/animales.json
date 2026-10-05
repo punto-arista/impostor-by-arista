@@ -1,0 +1,257 @@
+{
+  "slug": "animales",
+  "name": "animales",
+  "sort_order": 2,
+  "words": [
+    {
+      "text": "Elefante",
+      "difficulty": 2,
+      "hints": ["Enorme", "Trompa", "Colmillos", "Sabana", "Manada"]
+    },
+    {
+      "text": "Delfín",
+      "difficulty": 2,
+      "hints": ["Océano", "Saltar", "Inteligente", "Silbido", "Acuario"]
+    },
+    {
+      "text": "Jaguar",
+      "difficulty": 2,
+      "hints": ["Selva", "Manchas", "Felino", "Cazador", "Trópico"]
+    },
+    {
+      "text": "Pingüino",
+      "difficulty": 2,
+      "hints": ["Frío", "Hielo", "Frac", "Colonia", "Aletas"]
+    },
+    {
+      "text": "Camaleón",
+      "difficulty": 2,
+      "hints": ["Cambio", "Colores", "Lengua", "Rama", "Camuflaje"]
+    },
+    {
+      "text": "Cocodrilo",
+      "difficulty": 2,
+      "hints": ["Río", "Dientes", "Verde", "Pantano", "Reptil"]
+    },
+    {
+      "text": "Koala",
+      "difficulty": 2,
+      "hints": ["Perezoso", "Eucalipto", "Dormir", "Peludo", "Árbol"]
+    },
+    {
+      "text": "Águila",
+      "difficulty": 2,
+      "hints": ["Cielo", "Garras", "Vuelo", "Nido", "Vista"]
+    },
+    {
+      "text": "Pulpo",
+      "difficulty": 2,
+      "hints": ["Mar", "Tentáculos", "Tinta", "Ventosas", "Inteligente"]
+    },
+    {
+      "text": "Canguro",
+      "difficulty": 2,
+      "hints": ["Salto", "Bolsa", "Cola", "Cría", "Boxeo"]
+    },
+    {
+      "text": "Erizo",
+      "difficulty": 2,
+      "hints": ["Espinoso", "Bola", "Pequeño", "Nocturno", "Púas"]
+    },
+    {
+      "text": "Flamenco",
+      "difficulty": 2,
+      "hints": ["Rosa", "Una pata", "Laguna", "Plumas", "Elegante"]
+    },
+    {
+      "text": "Tigre",
+      "difficulty": 2,
+      "hints": ["Feroz", "Rayas", "Naranja", "Felino", "Cazar"]
+    },
+    {
+      "text": "León",
+      "difficulty": 2,
+      "hints": ["Rey", "Melena", "Rugido", "Sabana", "Manada"]
+    },
+    {
+      "text": "Oso",
+      "difficulty": 2,
+      "hints": ["Bosque", "Miel", "Hibernar", "Garras", "Peludo"]
+    },
+    {
+      "text": "Búho",
+      "difficulty": 2,
+      "hints": ["Nocturno", "Sabio", "Ojos grandes", "Noche", "Plumas"]
+    },
+    {
+      "text": "Serpiente",
+      "difficulty": 2,
+      "hints": ["Sigiloso", "Veneno", "Escamas", "Arrastrar", "Silbar"]
+    },
+    {
+      "text": "Tortuga",
+      "difficulty": 2,
+      "hints": ["Lento", "Caparazón", "Longevo", "Playa", "Huevos"]
+    },
+    {
+      "text": "Murciélago",
+      "difficulty": 2,
+      "hints": ["Cueva", "Alas", "Noche", "Colgar", "Radar"]
+    },
+    {
+      "text": "Zorro",
+      "difficulty": 2,
+      "hints": ["Astuto", "Cola", "Bosque", "Rojizo", "Listo"]
+    },
+    {
+      "text": "Perro",
+      "difficulty": 2,
+      "hints": ["Fiel", "Ladrar", "Correa", "Paseo", "Hueso"]
+    },
+    {
+      "text": "Gato",
+      "difficulty": 2,
+      "hints": ["Maullar", "Bigotes", "Siete vidas", "Ronronear", "Arañar"]
+    },
+    {
+      "text": "Caballo",
+      "difficulty": 2,
+      "hints": ["Galope", "Montura", "Establo", "Herradura", "Crin"]
+    },
+    {
+      "text": "Vaca",
+      "difficulty": 2,
+      "hints": ["Leche", "Campo", "Manchas", "Pasto", "Cencerro"]
+    },
+    {
+      "text": "Cerdo",
+      "difficulty": 2,
+      "hints": ["Granja", "Lodo", "Rosado", "Tocino", "Hocico"]
+    },
+    {
+      "text": "Gallina",
+      "difficulty": 2,
+      "hints": ["Huevos", "Corral", "Plumas", "Cacarear", "Pollitos"]
+    },
+    {
+      "text": "Oveja",
+      "difficulty": 2,
+      "hints": ["Lana", "Rebaño", "Balar", "Pastor", "Blanca"]
+    },
+    {
+      "text": "Conejo",
+      "difficulty": 2,
+      "hints": ["Orejas", "Zanahoria", "Saltar", "Madriguera", "Pascua"]
+    },
+    {
+      "text": "Ratón",
+      "difficulty": 2,
+      "hints": ["Queso", "Pequeño", "Trampa", "Cola", "Roer"]
+    },
+    {
+      "text": "Lobo",
+      "difficulty": 2,
+      "hints": ["Aullido", "Manada", "Luna", "Bosque", "Colmillos"]
+    },
+    {
+      "text": "Jirafa",
+      "difficulty": 2,
+      "hints": ["Cuello", "Alta", "Manchas", "Hojas", "Sabana"]
+    },
+    {
+      "text": "Cebra",
+      "difficulty": 2,
+      "hints": ["Rayas", "Blanco y negro", "Sabana", "Galopar", "Manada"]
+    },
+    {
+      "text": "Hipopótamo",
+      "difficulty": 2,
+      "hints": ["Pesado", "Río", "Barro", "Bostezo", "Agresivo"]
+    },
+    {
+      "text": "Rinoceronte",
+      "difficulty": 2,
+      "hints": ["Cuerno", "Coraza", "Pesado", "Sabana", "Embestir"]
+    },
+    {
+      "text": "Mono",
+      "difficulty": 2,
+      "hints": ["Banana", "Árbol", "Saltar", "Cola", "Imitar"]
+    },
+    {
+      "text": "Gorila",
+      "difficulty": 2,
+      "hints": ["Fuerte", "Selva", "Pecho", "Primate", "Familia"]
+    },
+    {
+      "text": "Panda",
+      "difficulty": 2,
+      "hints": ["Bambú", "Blanco y negro", "Perezoso", "Peluche", "Raro"]
+    },
+    {
+      "text": "Hormiga",
+      "difficulty": 2,
+      "hints": ["Colonia", "Pequeña", "Trabajo", "Hormiguero", "Fila"]
+    },
+    {
+      "text": "Abeja",
+      "difficulty": 2,
+      "hints": ["Miel", "Zumbido", "Colmena", "Aguijón", "Flores"]
+    },
+    {
+      "text": "Mariposa",
+      "difficulty": 2,
+      "hints": ["Alas", "Metamorfosis", "Colorida", "Flores", "Capullo"]
+    },
+    {
+      "text": "Araña",
+      "difficulty": 2,
+      "hints": ["Trampa", "Patas", "Miedo", "Tejer", "Rincón"]
+    },
+    {
+      "text": "Tiburón",
+      "difficulty": 2,
+      "hints": ["Aleta", "Dientes", "Océano", "Peligro", "Cazador"]
+    },
+    {
+      "text": "Ballena",
+      "difficulty": 2,
+      "hints": ["Gigante", "Mar", "Chorro", "Canto", "Cola"]
+    },
+    {
+      "text": "Pez",
+      "difficulty": 2,
+      "hints": ["Branquias", "Pecera", "Agua", "Escamas", "Aleta"]
+    },
+    {
+      "text": "Rana",
+      "difficulty": 2,
+      "hints": ["Salto", "Charco", "Croar", "Verde", "Lengua"]
+    },
+    {
+      "text": "Loro",
+      "difficulty": 2,
+      "hints": ["Repetir", "Plumas", "Hablar", "Colorido", "Selva"]
+    },
+    {
+      "text": "Pavo real",
+      "difficulty": 2,
+      "hints": ["Plumas", "Cola", "Abanico", "Colores", "Presumido"]
+    },
+    {
+      "text": "Cisne",
+      "difficulty": 2,
+      "hints": ["Elegante", "Lago", "Cuello", "Blanco", "Ballet"]
+    },
+    {
+      "text": "Ardilla",
+      "difficulty": 2,
+      "hints": ["Nueces", "Árbol", "Cola esponjosa", "Guardar", "Veloz"]
+    },
+    {
+      "text": "Foca",
+      "difficulty": 2,
+      "hints": ["Aplaudir", "Hielo", "Bigotes", "Pelota", "Aletas"]
+    }
+  ]
+}

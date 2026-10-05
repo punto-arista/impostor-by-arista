@@ -1,0 +1,257 @@
+{
+  "slug": "emociones",
+  "name": "emociones",
+  "sort_order": 17,
+  "words": [
+    {
+      "text": "Alegría",
+      "difficulty": 2,
+      "hints": ["Sonrisa", "Risa", "Fiesta", "Brillar", "Contagiosa"]
+    },
+    {
+      "text": "Tristeza",
+      "difficulty": 2,
+      "hints": ["Llanto", "Lágrimas", "Gris", "Lluvia", "Pecho pesado"]
+    },
+    {
+      "text": "Miedo",
+      "difficulty": 2,
+      "hints": ["Temblor", "Oscuridad", "Escalofrío", "Alerta", "Gritar"]
+    },
+    {
+      "text": "Enojo",
+      "difficulty": 2,
+      "hints": ["Ira", "Puños", "Gritos", "Rojo", "Calmarse"]
+    },
+    {
+      "text": "Sorpresa",
+      "difficulty": 2,
+      "hints": ["Inesperado", "Grito", "Fiesta", "Boca abierta", "Regalo"]
+    },
+    {
+      "text": "Amor",
+      "difficulty": 2,
+      "hints": ["Corazón", "Pareja", "Mariposas", "Besos", "Familia"]
+    },
+    {
+      "text": "Celos",
+      "difficulty": 2,
+      "hints": ["Comparar", "Verde", "Pareja", "Desconfiar", "Mirada"]
+    },
+    {
+      "text": "Vergüenza",
+      "difficulty": 2,
+      "hints": ["Sonrojo", "Esconder", "Pena", "Ridículo", "Cara roja"]
+    },
+    {
+      "text": "Nostalgia",
+      "difficulty": 2,
+      "hints": ["Recuerdo", "Infancia", "Fotos", "Pasado", "Canciones viejas"]
+    },
+    {
+      "text": "Ansiedad",
+      "difficulty": 2,
+      "hints": ["Nervios", "Sudor", "Pensamientos", "Respirar", "Futuro"]
+    },
+    {
+      "text": "Orgullo",
+      "difficulty": 2,
+      "hints": ["Logro", "Pecho", "Familia", "Medalla", "Éxito"]
+    },
+    {
+      "text": "Culpa",
+      "difficulty": 2,
+      "hints": ["Remordimiento", "Error", "Arrepentirse", "Pesar", "Conciencia"]
+    },
+    {
+      "text": "Esperanza",
+      "difficulty": 2,
+      "hints": ["Futuro", "Luz", "Mañana", "Fe", "Espera"]
+    },
+    {
+      "text": "Envidia",
+      "difficulty": 2,
+      "hints": ["Deseo", "Verde", "Comparar", "Ajeno", "Pecado"]
+    },
+    {
+      "text": "Calma",
+      "difficulty": 2,
+      "hints": ["Paz", "Respirar", "Silencio", "Quietud", "Lago"]
+    },
+    {
+      "text": "Confusión",
+      "difficulty": 2,
+      "hints": ["Dudas", "Perdido", "Preguntas", "Neblina", "Desorden"]
+    },
+    {
+      "text": "Emoción",
+      "difficulty": 2,
+      "hints": ["Intensidad", "Corazón", "Latidos", "Expectativa", "Saltar"]
+    },
+    {
+      "text": "Soledad",
+      "difficulty": 2,
+      "hints": ["Silencio", "Vacío", "Compañía", "Noche", "Aislamiento"]
+    },
+    {
+      "text": "Gratitud",
+      "difficulty": 2,
+      "hints": ["Agradecer", "Gracias", "Humildad", "Bendición", "Reconocer"]
+    },
+    {
+      "text": "Curiosidad",
+      "difficulty": 2,
+      "hints": ["Preguntas", "Explorar", "Gato", "Saber", "Descubrir"]
+    },
+    {
+      "text": "Felicidad",
+      "difficulty": 2,
+      "hints": ["Plenitud", "Sonrisa", "Disfrutar", "Contento", "Bienestar"]
+    },
+    {
+      "text": "Frustración",
+      "difficulty": 2,
+      "hints": ["Bloqueo", "Intentar", "Suspiro", "Impotencia", "Meta"]
+    },
+    {
+      "text": "Aburrimiento",
+      "difficulty": 2,
+      "hints": ["Reloj", "Bostezo", "Nada que hacer", "Lento", "Pantalla"]
+    },
+    {
+      "text": "Alivio",
+      "difficulty": 2,
+      "hints": ["Soltar", "Suspiro", "Fin", "Peso", "Respirar"]
+    },
+    {
+      "text": "Asombro",
+      "difficulty": 2,
+      "hints": ["Boca abierta", "Increíble", "Maravilla", "Ojos grandes", "Mirar"]
+    },
+    {
+      "text": "Ternura",
+      "difficulty": 2,
+      "hints": ["Bebé", "Cachorros", "Suave", "Abrazar", "Corazón"]
+    },
+    {
+      "text": "Compasión",
+      "difficulty": 2,
+      "hints": ["Ayudar", "Dolor ajeno", "Entender", "Empatía", "Bondad"]
+    },
+    {
+      "text": "Desesperación",
+      "difficulty": 2,
+      "hints": ["Sin salida", "Gritar", "Límite", "Urgencia", "Llanto"]
+    },
+    {
+      "text": "Inseguridad",
+      "difficulty": 2,
+      "hints": ["Dudar", "Espejo", "Comparar", "Mirada", "Miedo"]
+    },
+    {
+      "text": "Confianza",
+      "difficulty": 2,
+      "hints": ["Seguridad", "Creer", "Equipo", "Espalda recta", "Fe"]
+    },
+    {
+      "text": "Euforia",
+      "difficulty": 2,
+      "hints": ["Gritar", "Saltar", "Victoria", "Intensa", "Estallar"]
+    },
+    {
+      "text": "Pánico",
+      "difficulty": 2,
+      "hints": ["Correr", "Multitud", "Sin control", "Alarma", "Congelarse"]
+    },
+    {
+      "text": "Resentimiento",
+      "difficulty": 2,
+      "hints": ["Pasado", "Guardar", "Herida", "Amargura", "Reproche"]
+    },
+    {
+      "text": "Impaciencia",
+      "difficulty": 2,
+      "hints": ["Esperar", "Reloj", "Fila", "Golpear el pie", "Ya"]
+    },
+    {
+      "text": "Arrepentimiento",
+      "difficulty": 2,
+      "hints": ["Pasado", "Error", "Volver atrás", "Pesar", "Disculpa"]
+    },
+    {
+      "text": "Decepción",
+      "difficulty": 2,
+      "hints": ["Expectativa", "Caída", "Esperaba", "Suspiro", "Promesa"]
+    },
+    {
+      "text": "Melancolía",
+      "difficulty": 2,
+      "hints": ["Tarde gris", "Recuerdos", "Música lenta", "Ventana", "Tristeza dulce"]
+    },
+    {
+      "text": "Entusiasmo",
+      "difficulty": 2,
+      "hints": ["Energía", "Ganas", "Proyecto", "Brillo", "Comenzar"]
+    },
+    {
+      "text": "Cansancio",
+      "difficulty": 2,
+      "hints": ["Sueño", "Bostezo", "Pesadez", "Descansar", "Fin de semana"]
+    },
+    {
+      "text": "Asco",
+      "difficulty": 2,
+      "hints": ["Náusea", "Cara", "Olor", "Fruncir", "Rechazo"]
+    },
+    {
+      "text": "Tranquilidad",
+      "difficulty": 2,
+      "hints": ["Sin prisa", "Domingo", "Silencio", "Paz", "Hamaca"]
+    },
+    {
+      "text": "Admiración",
+      "difficulty": 2,
+      "hints": ["Ídolo", "Respeto", "Aplauso", "Mirar", "Modelo"]
+    },
+    {
+      "text": "Rencor",
+      "difficulty": 2,
+      "hints": ["Guardar", "Pasado", "Herida", "Perdón", "Cuenta pendiente"]
+    },
+    {
+      "text": "Preocupación",
+      "difficulty": 2,
+      "hints": ["Pensar", "Insomnio", "Futuro", "Familia", "Frente arrugada"]
+    },
+    {
+      "text": "Paciencia",
+      "difficulty": 2,
+      "hints": ["Esperar", "Calma", "Virtud", "Tiempo", "Respirar hondo"]
+    },
+    {
+      "text": "Satisfacción",
+      "difficulty": 2,
+      "hints": ["Misión cumplida", "Sonrisa", "Final", "Logro", "Plenitud"]
+    },
+    {
+      "text": "Angustia",
+      "difficulty": 2,
+      "hints": ["Pecho", "Opresión", "Incertidumbre", "Espera", "Noticias"]
+    },
+    {
+      "text": "Obsesión",
+      "difficulty": 2,
+      "hints": ["Pensar siempre", "Manía", "Fijación", "Repetir", "Todo"]
+    },
+    {
+      "text": "Optimismo",
+      "difficulty": 2,
+      "hints": ["Vaso medio lleno", "Luz", "Futuro", "Sonreír", "Positivo"]
+    },
+    {
+      "text": "Diversión",
+      "difficulty": 2,
+      "hints": ["Juego", "Risas", "Amigos", "Pasar el rato", "Fiesta"]
+    }
+  ]
+}

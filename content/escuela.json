@@ -1,0 +1,207 @@
+{
+  "slug": "escuela",
+  "name": "escuela y oficina",
+  "sort_order": 19,
+  "words": [
+    {
+      "text": "Pizarrón",
+      "difficulty": 2,
+      "hints": ["Gis", "Maestro", "Escribir", "Verde", "Clase"]
+    },
+    {
+      "text": "Gis",
+      "difficulty": 2,
+      "hints": ["Polvo", "Blanco", "Pizarrón", "Escribir", "Barra"]
+    },
+    {
+      "text": "Borrador",
+      "difficulty": 2,
+      "hints": ["Borrar", "Pizarrón", "Errores", "Fieltro", "Polvo"]
+    },
+    {
+      "text": "Pupitre",
+      "difficulty": 2,
+      "hints": ["Sentarse", "Banca", "Escuela", "Rayado", "Alumno"]
+    },
+    {
+      "text": "Salón",
+      "difficulty": 2,
+      "hints": ["Clase", "Alumnos", "Mesabancos", "Maestro", "Grupo"]
+    },
+    {
+      "text": "Recreo",
+      "difficulty": 2,
+      "hints": ["Patio", "Descanso", "Timbre", "Lonche", "Jugar"]
+    },
+    {
+      "text": "Examen",
+      "difficulty": 2,
+      "hints": ["Nervios", "Estudiar", "Calificación", "Preguntas", "Hoja"]
+    },
+    {
+      "text": "Tarea",
+      "difficulty": 2,
+      "hints": ["Casa", "Entregar", "Pendiente", "Maestro", "Noche"]
+    },
+    {
+      "text": "Boleta",
+      "difficulty": 2,
+      "hints": ["Calificaciones", "Padres", "Firma", "Bimestre", "Promedio"]
+    },
+    {
+      "text": "Lonchera",
+      "difficulty": 2,
+      "hints": ["Almuerzo", "Escuela", "Termo", "Sándwich", "Mochila"]
+    },
+    {
+      "text": "Compás",
+      "difficulty": 2,
+      "hints": ["Círculos", "Punta", "Geometría", "Dibujo", "Aguja"]
+    },
+    {
+      "text": "Regla",
+      "difficulty": 2,
+      "hints": ["Medir", "Centímetros", "Línea recta", "Plástico", "Geometría"]
+    },
+    {
+      "text": "Sacapuntas",
+      "difficulty": 2,
+      "hints": ["Lápiz", "Filo", "Virutas", "Pequeño", "Afilar"]
+    },
+    {
+      "text": "Plumones",
+      "difficulty": 2,
+      "hints": ["Colores", "Tapa", "Pizarrón blanco", "Olor", "Marcar"]
+    },
+    {
+      "text": "Crayolas",
+      "difficulty": 2,
+      "hints": ["Colorear", "Cera", "Niños", "Caja", "Dibujo"]
+    },
+    {
+      "text": "Engrapadora",
+      "difficulty": 2,
+      "hints": ["Grapas", "Presionar", "Hojas", "Oficina", "Unir"]
+    },
+    {
+      "text": "Clip",
+      "difficulty": 2,
+      "hints": ["Papel", "Metal", "Sujetar", "Pequeño", "Alambre"]
+    },
+    {
+      "text": "Carpeta",
+      "difficulty": 2,
+      "hints": ["Documentos", "Argollas", "Archivo", "Oficina", "Organizar"]
+    },
+    {
+      "text": "Sello",
+      "difficulty": 2,
+      "hints": ["Tinta", "Documento", "Oficial", "Presionar", "Fecha"]
+    },
+    {
+      "text": "Agenda",
+      "difficulty": 2,
+      "hints": ["Citas", "Pendientes", "Fechas", "Planear", "Hojas"]
+    },
+    {
+      "text": "Calendario",
+      "difficulty": 2,
+      "hints": ["Días", "Meses", "Pared", "Fechas", "Año"]
+    },
+    {
+      "text": "Proyector",
+      "difficulty": 2,
+      "hints": ["Presentación", "Luz", "Pared", "Salón", "Cable"]
+    },
+    {
+      "text": "Junta",
+      "difficulty": 2,
+      "hints": ["Reunión", "Jefes", "Agenda", "Mesa", "Café"]
+    },
+    {
+      "text": "Sueldo",
+      "difficulty": 2,
+      "hints": ["Quincena", "Dinero", "Trabajo", "Nómina", "Banco"]
+    },
+    {
+      "text": "Jefe",
+      "difficulty": 2,
+      "hints": ["Mando", "Oficina", "Órdenes", "Reunión", "Equipo"]
+    },
+    {
+      "text": "Cubículo",
+      "difficulty": 2,
+      "hints": ["Oficina", "Divisiones", "Escritorio", "Pequeño", "Computadora"]
+    },
+    {
+      "text": "Sala de juntas",
+      "difficulty": 2,
+      "hints": ["Mesa larga", "Reunión", "Proyector", "Cristal", "Presentación"]
+    },
+    {
+      "text": "Currículum",
+      "difficulty": 2,
+      "hints": ["Experiencia", "Empleo", "Hoja", "Solicitar", "Datos"]
+    },
+    {
+      "text": "Entrevista",
+      "difficulty": 2,
+      "hints": ["Preguntas", "Trabajo", "Nervios", "Contratar", "Traje"]
+    },
+    {
+      "text": "Presentación",
+      "difficulty": 2,
+      "hints": ["Diapositivas", "Público", "Hablar", "Proyector", "Exposición"]
+    },
+    {
+      "text": "Horario",
+      "difficulty": 2,
+      "hints": ["Clases", "Entrada", "Semana", "Turnos", "Hoja"]
+    },
+    {
+      "text": "Credencial",
+      "difficulty": 2,
+      "hints": ["Foto", "Identificación", "Entrada", "Plástico", "Nombre"]
+    },
+    {
+      "text": "Director",
+      "difficulty": 2,
+      "hints": ["Escuela", "Oficina", "Autoridad", "Reglas", "Junta"]
+    },
+    {
+      "text": "Laboratorio",
+      "difficulty": 2,
+      "hints": ["Experimentos", "Bata", "Tubos", "Microscopio", "Ciencia"]
+    },
+    {
+      "text": "Cafetería",
+      "difficulty": 2,
+      "hints": ["Lonche", "Comida", "Fila", "Recreo", "Mesas"]
+    },
+    {
+      "text": "Mapa",
+      "difficulty": 2,
+      "hints": ["Países", "Rutas", "Ubicación", "Geografía", "Papel"]
+    },
+    {
+      "text": "Globo terráqueo",
+      "difficulty": 2,
+      "hints": ["Mundo", "Girar", "Países", "Esfera", "Geografía"]
+    },
+    {
+      "text": "Diccionario",
+      "difficulty": 2,
+      "hints": ["Palabras", "Significados", "Letras", "Buscar", "Libro"]
+    },
+    {
+      "text": "Enciclopedia",
+      "difficulty": 2,
+      "hints": ["Tomos", "Conocimiento", "Consulta", "Biblioteca", "Datos"]
+    },
+    {
+      "text": "Libreta",
+      "difficulty": 2,
+      "hints": ["Notas", "Anotar", "Hojas", "Pequeña", "Bolsillo"]
+    }
+  ]
+}

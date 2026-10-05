@@ -1,0 +1,257 @@
+{
+  "slug": "comida",
+  "name": "comida",
+  "sort_order": 1,
+  "words": [
+    {
+      "text": "Pizza",
+      "difficulty": 2,
+      "hints": ["Compartir", "Horno", "Rebanada", "Repartidor", "Domingo"]
+    },
+    {
+      "text": "Tacos",
+      "difficulty": 2,
+      "hints": ["Callejero", "Tortilla", "Salsa", "Trompo", "Cena"]
+    },
+    {
+      "text": "Sushi",
+      "difficulty": 2,
+      "hints": ["Crudo", "Palillos", "Soya", "Rollo", "Barra"]
+    },
+    {
+      "text": "Helado",
+      "difficulty": 2,
+      "hints": ["Postre", "Cono", "Frío", "Verano", "Sabores"]
+    },
+    {
+      "text": "Paella",
+      "difficulty": 2,
+      "hints": ["Fiesta", "Sartén", "Azafrán", "Mariscos", "Compartir"]
+    },
+    {
+      "text": "Empanada",
+      "difficulty": 2,
+      "hints": ["Horneado", "Relleno", "Masa", "Media luna", "Portátil"]
+    },
+    {
+      "text": "Ceviche",
+      "difficulty": 2,
+      "hints": ["Fresco", "Limón", "Pescado", "Costa", "Marinado"]
+    },
+    {
+      "text": "Hamburguesa",
+      "difficulty": 2,
+      "hints": ["Rápido", "Pan", "Combo", "Capas", "Papas"]
+    },
+    {
+      "text": "Ramen",
+      "difficulty": 2,
+      "hints": ["Caliente", "Caldo", "Tazón", "Huevo", "Invierno"]
+    },
+    {
+      "text": "Chocolate",
+      "difficulty": 2,
+      "hints": ["Dulce", "Cacao", "Barra", "Derretir", "Amargo"]
+    },
+    {
+      "text": "Guacamole",
+      "difficulty": 2,
+      "hints": ["Verde", "Aguacate", "Totopos", "Machacar", "Botana"]
+    },
+    {
+      "text": "Asado",
+      "difficulty": 2,
+      "hints": ["Carne", "Brasas", "Domingo", "Parrilla", "Humo"]
+    },
+    {
+      "text": "Lasaña",
+      "difficulty": 2,
+      "hints": ["Italiano", "Capas", "Horno", "Pasta", "Salsa"]
+    },
+    {
+      "text": "Burrito",
+      "difficulty": 2,
+      "hints": ["Enrollado", "Tortilla", "Harina", "Envuelto", "Portátil"]
+    },
+    {
+      "text": "Curry",
+      "difficulty": 2,
+      "hints": ["Especias", "Salsa", "Picante", "Aromático", "Arroz"]
+    },
+    {
+      "text": "Fideos",
+      "difficulty": 2,
+      "hints": ["Sopa", "Largos", "Hervir", "Pasta", "Tenedor"]
+    },
+    {
+      "text": "Croissant",
+      "difficulty": 2,
+      "hints": ["Panadería", "Mantequilla", "Hojaldre", "Desayuno", "Luna"]
+    },
+    {
+      "text": "Waffle",
+      "difficulty": 2,
+      "hints": ["Desayuno", "Cuadros", "Jarabe", "Plancha", "Fruta"]
+    },
+    {
+      "text": "Tamal",
+      "difficulty": 2,
+      "hints": ["Envuelto", "Hoja", "Masa", "Navidad", "Vapor"]
+    },
+    {
+      "text": "Pozole",
+      "difficulty": 2,
+      "hints": ["Tradicional", "Maíz", "Caldo", "Fiesta", "Rábano"]
+    },
+    {
+      "text": "Quesadilla",
+      "difficulty": 2,
+      "hints": ["Queso", "Comal", "Tortilla", "Doblada", "Antojito"]
+    },
+    {
+      "text": "Enchiladas",
+      "difficulty": 2,
+      "hints": ["Bañadas", "Salsa", "Rellenas", "Gratinar", "Plato"]
+    },
+    {
+      "text": "Chilaquiles",
+      "difficulty": 2,
+      "hints": ["Desayuno", "Totopos", "Salsa", "Crujiente", "Resaca"]
+    },
+    {
+      "text": "Elote",
+      "difficulty": 2,
+      "hints": ["Mazorca", "Mayonesa", "Esquina", "Palito", "Chile"]
+    },
+    {
+      "text": "Pan dulce",
+      "difficulty": 2,
+      "hints": ["Panadería", "Concha", "Charola", "Merienda", "Azúcar"]
+    },
+    {
+      "text": "Sopa",
+      "difficulty": 2,
+      "hints": ["Cuchara", "Caliente", "Plato hondo", "Entrada", "Caldo"]
+    },
+    {
+      "text": "Ensalada",
+      "difficulty": 2,
+      "hints": ["Lechuga", "Aderezo", "Ligero", "Verde", "Dieta"]
+    },
+    {
+      "text": "Pastel",
+      "difficulty": 2,
+      "hints": ["Velas", "Cumpleaños", "Betún", "Rebanada", "Soplar"]
+    },
+    {
+      "text": "Palomitas",
+      "difficulty": 2,
+      "hints": ["Cine", "Maíz", "Mantequilla", "Reventar", "Cubeta"]
+    },
+    {
+      "text": "Hot dog",
+      "difficulty": 2,
+      "hints": ["Salchicha", "Pan", "Mostaza", "Estadio", "Rápido"]
+    },
+    {
+      "text": "Pollo frito",
+      "difficulty": 2,
+      "hints": ["Crujiente", "Aceite", "Cubeta", "Dorado", "Muslo"]
+    },
+    {
+      "text": "Sándwich",
+      "difficulty": 2,
+      "hints": ["Rebanadas", "Jamón", "Lonche", "Capas", "Mitad"]
+    },
+    {
+      "text": "Galletas",
+      "difficulty": 2,
+      "hints": ["Horno", "Crujir", "Leche", "Chispas", "Lata"]
+    },
+    {
+      "text": "Dona",
+      "difficulty": 2,
+      "hints": ["Agujero", "Glaseado", "Redonda", "Frita", "Cafetería"]
+    },
+    {
+      "text": "Pay",
+      "difficulty": 2,
+      "hints": ["Masa", "Rebanada", "Relleno", "Limón", "Horno"]
+    },
+    {
+      "text": "Flan",
+      "difficulty": 2,
+      "hints": ["Caramelo", "Temblar", "Huevo", "Postre", "Cremoso"]
+    },
+    {
+      "text": "Nachos",
+      "difficulty": 2,
+      "hints": ["Queso derretido", "Botana", "Triángulos", "Picante", "Compartir"]
+    },
+    {
+      "text": "Churros",
+      "difficulty": 2,
+      "hints": ["Azúcar", "Canela", "Chocolate", "Feria", "Frito"]
+    },
+    {
+      "text": "Pasta",
+      "difficulty": 2,
+      "hints": ["Hervir", "Salsa", "Tenedor", "Harina", "Plato"]
+    },
+    {
+      "text": "Arroz",
+      "difficulty": 2,
+      "hints": ["Grano", "Blanco", "Guarnición", "Hervir", "Cultivo"]
+    },
+    {
+      "text": "Frijoles",
+      "difficulty": 2,
+      "hints": ["Olla", "Refritos", "Legumbre", "Guarnición", "Charros"]
+    },
+    {
+      "text": "Huevo",
+      "difficulty": 2,
+      "hints": ["Cascarón", "Desayuno", "Gallina", "Freír", "Yema"]
+    },
+    {
+      "text": "Papas fritas",
+      "difficulty": 2,
+      "hints": ["Sal", "Aceite", "Cátsup", "Bolsa", "Crujientes"]
+    },
+    {
+      "text": "Tostada",
+      "difficulty": 2,
+      "hints": ["Crujiente", "Plana", "Comal", "Frijoles", "Lechuga"]
+    },
+    {
+      "text": "Torta",
+      "difficulty": 2,
+      "hints": ["Bolillo", "Aguacate", "Almuerzo", "Jamón", "Ahogada"]
+    },
+    {
+      "text": "Barbacoa",
+      "difficulty": 2,
+      "hints": ["Domingo", "Pencas", "Hoyo", "Consomé", "Borrego"]
+    },
+    {
+      "text": "Mole",
+      "difficulty": 2,
+      "hints": ["Chocolate", "Chiles", "Espesa", "Pollo", "Fiesta"]
+    },
+    {
+      "text": "Crepas",
+      "difficulty": 2,
+      "hints": ["Delgadas", "Sartén", "Cajeta", "Enrollar", "Postre"]
+    },
+    {
+      "text": "Brownie",
+      "difficulty": 2,
+      "hints": ["Chocolate", "Cuadro", "Nueces", "Horneado", "Húmedo"]
+    },
+    {
+      "text": "Gelatina",
+      "difficulty": 2,
+      "hints": ["Temblar", "Molde", "Colores", "Fruta", "Frío"]
+    }
+  ]
+}

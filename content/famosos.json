@@ -1,0 +1,257 @@
+{
+  "slug": "famosos",
+  "name": "personajes",
+  "sort_order": 11,
+  "words": [
+    {
+      "text": "Superhéroe",
+      "difficulty": 2,
+      "hints": ["Justicia", "Capa", "Poderes", "Villano", "Máscara"]
+    },
+    {
+      "text": "Influencer",
+      "difficulty": 2,
+      "hints": ["Fama", "Seguidores", "Marcas", "Cámara", "Celular"]
+    },
+    {
+      "text": "Presidente",
+      "difficulty": 2,
+      "hints": ["Liderazgo", "País", "Discurso", "Elecciones", "Palacio"]
+    },
+    {
+      "text": "Astronauta",
+      "difficulty": 2,
+      "hints": ["Misión", "Traje", "Espacio", "Gravedad", "Cohete"]
+    },
+    {
+      "text": "Detective",
+      "difficulty": 2,
+      "hints": ["Enigma", "Lupa", "Pistas", "Caso", "Gabardina"]
+    },
+    {
+      "text": "Pirata",
+      "difficulty": 2,
+      "hints": ["Mar", "Parche", "Tesoro", "Loro", "Bandera negra"]
+    },
+    {
+      "text": "Mago",
+      "difficulty": 2,
+      "hints": ["Ilusión", "Varita", "Sombrero", "Truco", "Conejo"]
+    },
+    {
+      "text": "Vampiro",
+      "difficulty": 2,
+      "hints": ["Oscuridad", "Colmillos", "Noche", "Capa", "Ataúd"]
+    },
+    {
+      "text": "Gladiador",
+      "difficulty": 2,
+      "hints": ["Lucha", "Arena", "Espada", "Coliseo", "Escudo"]
+    },
+    {
+      "text": "Vikingo",
+      "difficulty": 2,
+      "hints": ["Guerrero", "Barco", "Casco con cuernos", "Hacha", "Norte"]
+    },
+    {
+      "text": "Ninja",
+      "difficulty": 2,
+      "hints": ["Sigilo", "Sombras", "Estrellas", "Negro", "Silencioso"]
+    },
+    {
+      "text": "Espía",
+      "difficulty": 2,
+      "hints": ["Secreto", "Misión", "Incógnito", "Agente", "Disfraz"]
+    },
+    {
+      "text": "Bruja",
+      "difficulty": 2,
+      "hints": ["Hechizo", "Escoba", "Caldero", "Sombrero", "Gato negro"]
+    },
+    {
+      "text": "Zombi",
+      "difficulty": 2,
+      "hints": ["Terror", "Cerebros", "Lento", "Muerto", "Mordida"]
+    },
+    {
+      "text": "Hada",
+      "difficulty": 2,
+      "hints": ["Magia", "Alas", "Polvo brillante", "Varita", "Bosque"]
+    },
+    {
+      "text": "Extraterrestre",
+      "difficulty": 2,
+      "hints": ["Desconocido", "Platillo", "Verde", "Otro planeta", "Contacto"]
+    },
+    {
+      "text": "Duende",
+      "difficulty": 2,
+      "hints": ["Pequeño", "Travieso", "Bosque", "Orejas puntiagudas", "Tesoro"]
+    },
+    {
+      "text": "Sirena",
+      "difficulty": 2,
+      "hints": ["Canto", "Cola", "Mar", "Mitad", "Rocas"]
+    },
+    {
+      "text": "Caballero",
+      "difficulty": 2,
+      "hints": ["Honor", "Armadura", "Espada", "Castillo", "Dama"]
+    },
+    {
+      "text": "Rey",
+      "difficulty": 2,
+      "hints": ["Trono", "Corona", "Reino", "Poder", "Cetro"]
+    },
+    {
+      "text": "Princesa",
+      "difficulty": 2,
+      "hints": ["Castillo", "Corona", "Príncipe", "Vestido", "Cuento"]
+    },
+    {
+      "text": "Dragón",
+      "difficulty": 2,
+      "hints": ["Fuego", "Escamas", "Tesoro", "Cueva", "Volar"]
+    },
+    {
+      "text": "Fantasma",
+      "difficulty": 2,
+      "hints": ["Cadenas", "Sábana", "Casa embrujada", "Noche", "Susto"]
+    },
+    {
+      "text": "Momia",
+      "difficulty": 2,
+      "hints": ["Vendas", "Pirámide", "Sarcófago", "Maldición", "Desierto"]
+    },
+    {
+      "text": "Hombre lobo",
+      "difficulty": 2,
+      "hints": ["Luna llena", "Aullido", "Transformación", "Pelo", "Noche"]
+    },
+    {
+      "text": "Ogro",
+      "difficulty": 2,
+      "hints": ["Pantano", "Verde", "Capas", "Grande", "Cuento"]
+    },
+    {
+      "text": "Unicornio",
+      "difficulty": 2,
+      "hints": ["Cuerno", "Arcoíris", "Brillos", "Blanco", "Mágico"]
+    },
+    {
+      "text": "Genio",
+      "difficulty": 2,
+      "hints": ["Lámpara", "Deseos", "Humo", "Tres", "Azul"]
+    },
+    {
+      "text": "Cavernícola",
+      "difficulty": 2,
+      "hints": ["Garrote", "Fuego", "Prehistoria", "Piel", "Mamut"]
+    },
+    {
+      "text": "Samurái",
+      "difficulty": 2,
+      "hints": ["Katana", "Honor", "Armadura", "Disciplina", "Oriente"]
+    },
+    {
+      "text": "Vaquero",
+      "difficulty": 2,
+      "hints": ["Caballo", "Sombrero", "Lazo", "Oeste", "Revólver"]
+    },
+    {
+      "text": "Santa Claus",
+      "difficulty": 2,
+      "hints": ["Regalos", "Trineo", "Barba", "Diciembre", "Chimenea"]
+    },
+    {
+      "text": "Drácula",
+      "difficulty": 2,
+      "hints": ["Transilvania", "Colmillos", "Capa", "Castillo", "Noche"]
+    },
+    {
+      "text": "Frankenstein",
+      "difficulty": 2,
+      "hints": ["Laboratorio", "Tornillos", "Monstruo", "Rayo", "Cosido"]
+    },
+    {
+      "text": "Sherlock Holmes",
+      "difficulty": 2,
+      "hints": ["Lupa", "Londres", "Deducción", "Pipa", "Misterio"]
+    },
+    {
+      "text": "Don Quijote",
+      "difficulty": 2,
+      "hints": ["Molinos", "Lanza", "Escudero", "Locura", "Libro"]
+    },
+    {
+      "text": "Cleopatra",
+      "difficulty": 2,
+      "hints": ["Egipto", "Reina", "Serpiente", "Faraona", "Belleza"]
+    },
+    {
+      "text": "Robin Hood",
+      "difficulty": 2,
+      "hints": ["Arco", "Bosque", "Ladrón", "Pobres", "Verde"]
+    },
+    {
+      "text": "Tarzán",
+      "difficulty": 2,
+      "hints": ["Selva", "Liana", "Grito", "Simios", "Taparrabo"]
+    },
+    {
+      "text": "Pinocho",
+      "difficulty": 2,
+      "hints": ["Mentira", "Nariz", "Madera", "Hilos", "Grillo"]
+    },
+    {
+      "text": "Caperucita Roja",
+      "difficulty": 2,
+      "hints": ["Bosque", "Abuela", "Canasta", "Capa", "Lobo"]
+    },
+    {
+      "text": "Cenicienta",
+      "difficulty": 2,
+      "hints": ["Zapatilla", "Medianoche", "Carroza", "Madrastra", "Baile"]
+    },
+    {
+      "text": "Blancanieves",
+      "difficulty": 2,
+      "hints": ["Manzana", "Enanos", "Espejo", "Bosque", "Madrastra"]
+    },
+    {
+      "text": "Peter Pan",
+      "difficulty": 2,
+      "hints": ["Niño", "Nunca jamás", "Volar", "Sombra", "Campanita"]
+    },
+    {
+      "text": "Batman",
+      "difficulty": 2,
+      "hints": ["Murciélago", "Ciudad", "Capa", "Millonario", "Cueva"]
+    },
+    {
+      "text": "Superman",
+      "difficulty": 2,
+      "hints": ["Volar", "Kriptonita", "Capa", "Periodista", "Azul"]
+    },
+    {
+      "text": "Spider-Man",
+      "difficulty": 2,
+      "hints": ["Telaraña", "Ciudad", "Máscara", "Adolescente", "Saltar"]
+    },
+    {
+      "text": "Harry Potter",
+      "difficulty": 2,
+      "hints": ["Cicatriz", "Varita", "Colegio", "Escoba", "Magia"]
+    },
+    {
+      "text": "Frida Kahlo",
+      "difficulty": 2,
+      "hints": ["Pintora", "Cejas", "Autorretrato", "Casa azul", "Flores"]
+    },
+    {
+      "text": "Cantinflas",
+      "difficulty": 2,
+      "hints": ["Comedia", "Bigote", "Cine", "Enredo", "Mexicano"]
+    }
+  ]
+}

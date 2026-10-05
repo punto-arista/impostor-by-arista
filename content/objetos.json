@@ -1,0 +1,257 @@
+{
+  "slug": "objetos",
+  "name": "objetos",
+  "sort_order": 4,
+  "words": [
+    {
+      "text": "Paraguas",
+      "difficulty": 2,
+      "hints": ["Protección", "Lluvia", "Mango", "Abrir", "Varillas"]
+    },
+    {
+      "text": "Espejo",
+      "difficulty": 2,
+      "hints": ["Imagen", "Reflejo", "Vidrio", "Baño", "Mirar"]
+    },
+    {
+      "text": "Bicicleta",
+      "difficulty": 2,
+      "hints": ["Ejercicio", "Pedales", "Cadena", "Dos ruedas", "Paseo"]
+    },
+    {
+      "text": "Reloj",
+      "difficulty": 2,
+      "hints": ["Tiempo", "Manecillas", "Muñeca", "Hora", "Puntual"]
+    },
+    {
+      "text": "Mochila",
+      "difficulty": 2,
+      "hints": ["Cargar", "Cierres", "Espalda", "Escuela", "Tirantes"]
+    },
+    {
+      "text": "Tijeras",
+      "difficulty": 2,
+      "hints": ["Filo", "Cortar", "Papel", "Dos hojas", "Manualidades"]
+    },
+    {
+      "text": "Lámpara",
+      "difficulty": 2,
+      "hints": ["Brillo", "Foco", "Noche", "Escritorio", "Interruptor"]
+    },
+    {
+      "text": "Guitarra",
+      "difficulty": 2,
+      "hints": ["Música", "Cuerdas", "Madera", "Trastes", "Serenata"]
+    },
+    {
+      "text": "Cámara",
+      "difficulty": 2,
+      "hints": ["Recuerdo", "Lente", "Foto", "Flash", "Disparador"]
+    },
+    {
+      "text": "Llave",
+      "difficulty": 2,
+      "hints": ["Abrir", "Cerradura", "Cerrajero", "Metal", "Puerta"]
+    },
+    {
+      "text": "Sombrilla",
+      "difficulty": 2,
+      "hints": ["Sol", "Playa", "Sombra", "Plegable", "Verano"]
+    },
+    {
+      "text": "Termo",
+      "difficulty": 2,
+      "hints": ["Bebida", "Aislante", "Tapa", "Caliente", "Excursión"]
+    },
+    {
+      "text": "Teléfono",
+      "difficulty": 2,
+      "hints": ["Comunicación", "Llamada", "Pantalla", "Contactos", "Timbre"]
+    },
+    {
+      "text": "Silla",
+      "difficulty": 2,
+      "hints": ["Descanso", "Patas", "Respaldo", "Sentarse", "Mesa"]
+    },
+    {
+      "text": "Cuchillo",
+      "difficulty": 2,
+      "hints": ["Cocina", "Filo", "Cortar", "Mango", "Cubiertos"]
+    },
+    {
+      "text": "Almohada",
+      "difficulty": 2,
+      "hints": ["Suave", "Cama", "Plumas", "Cabeza", "Dormir"]
+    },
+    {
+      "text": "Tenedor",
+      "difficulty": 2,
+      "hints": ["Comida", "Puntas", "Cubiertos", "Pinchar", "Plato"]
+    },
+    {
+      "text": "Peine",
+      "difficulty": 2,
+      "hints": ["Cabello", "Dientes", "Desenredar", "Raya", "Baño"]
+    },
+    {
+      "text": "Cepillo",
+      "difficulty": 2,
+      "hints": ["Higiene", "Cerdas", "Baño", "Mañana", "Mango"]
+    },
+    {
+      "text": "Maleta",
+      "difficulty": 2,
+      "hints": ["Aventura", "Ruedas", "Equipaje", "Viaje", "Cierre"]
+    },
+    {
+      "text": "Cartera",
+      "difficulty": 2,
+      "hints": ["Billetes", "Bolsillo", "Tarjetas", "Cuero", "Identificación"]
+    },
+    {
+      "text": "Lentes",
+      "difficulty": 2,
+      "hints": ["Ver", "Graduación", "Armazón", "Nariz", "Micas"]
+    },
+    {
+      "text": "Libro",
+      "difficulty": 2,
+      "hints": ["Páginas", "Leer", "Historia", "Portada", "Estante"]
+    },
+    {
+      "text": "Cuaderno",
+      "difficulty": 2,
+      "hints": ["Hojas", "Espiral", "Apuntes", "Escuela", "Tapa"]
+    },
+    {
+      "text": "Lápiz",
+      "difficulty": 2,
+      "hints": ["Grafito", "Borrador", "Escribir", "Punta", "Afilar"]
+    },
+    {
+      "text": "Moneda",
+      "difficulty": 2,
+      "hints": ["Cara o cruz", "Metal", "Cambio", "Alcancía", "Bolsillo"]
+    },
+    {
+      "text": "Control remoto",
+      "difficulty": 2,
+      "hints": ["Botones", "Sofá", "Pilas", "Canales", "Perdido"]
+    },
+    {
+      "text": "Televisión",
+      "difficulty": 2,
+      "hints": ["Pantalla", "Canales", "Sala", "Antena", "Programas"]
+    },
+    {
+      "text": "Refrigerador",
+      "difficulty": 2,
+      "hints": ["Frío", "Cocina", "Puerta", "Sobras", "Hielo"]
+    },
+    {
+      "text": "Microondas",
+      "difficulty": 2,
+      "hints": ["Calentar", "Plato giratorio", "Minutos", "Cocina", "Pitido"]
+    },
+    {
+      "text": "Cama",
+      "difficulty": 2,
+      "hints": ["Colchón", "Dormir", "Sábanas", "Habitación", "Descanso"]
+    },
+    {
+      "text": "Mesa",
+      "difficulty": 2,
+      "hints": ["Comer", "Patas", "Superficie", "Mantel", "Sillas"]
+    },
+    {
+      "text": "Taza",
+      "difficulty": 2,
+      "hints": ["Asa", "Café", "Cerámica", "Desayuno", "Caliente"]
+    },
+    {
+      "text": "Plato",
+      "difficulty": 2,
+      "hints": ["Redondo", "Cena", "Loza", "Lavar", "Comida"]
+    },
+    {
+      "text": "Cuchara",
+      "difficulty": 2,
+      "hints": ["Sopa", "Cubiertos", "Postre", "Metal", "Revolver"]
+    },
+    {
+      "text": "Escoba",
+      "difficulty": 2,
+      "hints": ["Barrer", "Polvo", "Palo", "Cerdas", "Bruja"]
+    },
+    {
+      "text": "Cubeta",
+      "difficulty": 2,
+      "hints": ["Agua", "Asa", "Plástico", "Trapeador", "Llenar"]
+    },
+    {
+      "text": "Martillo",
+      "difficulty": 2,
+      "hints": ["Golpear", "Clavos", "Mango", "Herramienta", "Carpintero"]
+    },
+    {
+      "text": "Candado",
+      "difficulty": 2,
+      "hints": ["Seguridad", "Cerrar", "Combinación", "Llave", "Reja"]
+    },
+    {
+      "text": "Cinturón",
+      "difficulty": 2,
+      "hints": ["Pantalón", "Hebilla", "Cintura", "Cuero", "Ajustar"]
+    },
+    {
+      "text": "Anillo",
+      "difficulty": 2,
+      "hints": ["Dedo", "Compromiso", "Oro", "Joya", "Círculo"]
+    },
+    {
+      "text": "Sartén",
+      "difficulty": 2,
+      "hints": ["Freír", "Cocina", "Mango", "Aceite", "Antiadherente"]
+    },
+    {
+      "text": "Cobija",
+      "difficulty": 2,
+      "hints": ["Frío", "Cama", "Abrigar", "Lana", "Sofá"]
+    },
+    {
+      "text": "Despertador",
+      "difficulty": 2,
+      "hints": ["Mañana", "Alarma", "Sonar", "Madrugar", "Mesita"]
+    },
+    {
+      "text": "Vela",
+      "difficulty": 2,
+      "hints": ["Cera", "Pabilo", "Cumpleaños", "Llama", "Luz"]
+    },
+    {
+      "text": "Globo",
+      "difficulty": 2,
+      "hints": ["Aire", "Fiesta", "Reventar", "Helio", "Inflar"]
+    },
+    {
+      "text": "Calculadora",
+      "difficulty": 2,
+      "hints": ["Números", "Sumar", "Teclas", "Operaciones", "Examen"]
+    },
+    {
+      "text": "Cargador",
+      "difficulty": 2,
+      "hints": ["Batería", "Cable", "Enchufe", "Energía", "Contacto"]
+    },
+    {
+      "text": "Pegamento",
+      "difficulty": 2,
+      "hints": ["Pegar", "Manualidades", "Tubo", "Pegajoso", "Unir"]
+    },
+    {
+      "text": "Regadera",
+      "difficulty": 2,
+      "hints": ["Baño", "Agua", "Chorro", "Mañana", "Jabón"]
+    }
+  ]
+}

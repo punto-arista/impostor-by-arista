@@ -1,0 +1,11 @@
+node_modules
+dist
+dev-dist
+.env
+.env.*
+!.env.example
+*.local
+*.tsbuildinfo
+ARQUITECTURA.md
+PLAN.md
+Mockup/

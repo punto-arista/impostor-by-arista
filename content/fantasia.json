@@ -1,0 +1,207 @@
+{
+  "slug": "fantasia",
+  "name": "fantasía y mitos",
+  "sort_order": 23,
+  "words": [
+    {
+      "text": "Centauro",
+      "difficulty": 2,
+      "hints": ["Mitad hombre", "Caballo", "Arco", "Bosque", "Griego"]
+    },
+    {
+      "text": "Minotauro",
+      "difficulty": 2,
+      "hints": ["Laberinto", "Toro", "Cuernos", "Teseo", "Creta"]
+    },
+    {
+      "text": "Medusa",
+      "difficulty": 2,
+      "hints": ["Serpientes", "Mirada", "Piedra", "Perseo", "Pelo"]
+    },
+    {
+      "text": "Cíclope",
+      "difficulty": 2,
+      "hints": ["Un ojo", "Gigante", "Isla", "Ulises", "Cueva"]
+    },
+    {
+      "text": "Fénix",
+      "difficulty": 2,
+      "hints": ["Renacer", "Cenizas", "Fuego", "Ave", "Inmortal"]
+    },
+    {
+      "text": "Grifo",
+      "difficulty": 2,
+      "hints": ["Águila", "León", "Alas", "Híbrido", "Tesoro"]
+    },
+    {
+      "text": "Pegaso",
+      "difficulty": 2,
+      "hints": ["Caballo alado", "Blanco", "Cielo", "Constelación", "Alas"]
+    },
+    {
+      "text": "Hidra",
+      "difficulty": 2,
+      "hints": ["Cabezas", "Serpiente", "Hércules", "Pantano", "Cortar"]
+    },
+    {
+      "text": "Kraken",
+      "difficulty": 2,
+      "hints": ["Tentáculos", "Barcos", "Profundidad", "Calamar", "Leyenda"]
+    },
+    {
+      "text": "Yeti",
+      "difficulty": 2,
+      "hints": ["Nieve", "Himalaya", "Huellas", "Abominable", "Peludo"]
+    },
+    {
+      "text": "Chupacabras",
+      "difficulty": 2,
+      "hints": ["Ganado", "Leyenda", "Noche", "Rancho", "Criatura"]
+    },
+    {
+      "text": "La Llorona",
+      "difficulty": 2,
+      "hints": ["Río", "Lamento", "Noche", "Fantasma", "Niños"]
+    },
+    {
+      "text": "Nahual",
+      "difficulty": 2,
+      "hints": ["Transformación", "Animal", "Brujo", "Prehispánico", "Noche"]
+    },
+    {
+      "text": "Gnomo",
+      "difficulty": 2,
+      "hints": ["Jardín", "Barba", "Gorro rojo", "Pequeño", "Bosque"]
+    },
+    {
+      "text": "Elfo",
+      "difficulty": 2,
+      "hints": ["Orejas", "Arco", "Bosque", "Inmortal", "Ligero"]
+    },
+    {
+      "text": "Troll",
+      "difficulty": 2,
+      "hints": ["Puente", "Grande", "Feo", "Garrote", "Montaña"]
+    },
+    {
+      "text": "Orco",
+      "difficulty": 2,
+      "hints": ["Guerra", "Verde", "Brutal", "Ejército", "Colmillos"]
+    },
+    {
+      "text": "Hechicero",
+      "difficulty": 2,
+      "hints": ["Magia", "Conjuro", "Libro", "Túnica", "Poderoso"]
+    },
+    {
+      "text": "Poción",
+      "difficulty": 2,
+      "hints": ["Frasco", "Burbujeo", "Caldero", "Bebida", "Efecto"]
+    },
+    {
+      "text": "Varita mágica",
+      "difficulty": 2,
+      "hints": ["Hechizo", "Punta", "Brillos", "Mago", "Palo"]
+    },
+    {
+      "text": "Bola de cristal",
+      "difficulty": 2,
+      "hints": ["Futuro", "Adivina", "Gitana", "Humo", "Visión"]
+    },
+    {
+      "text": "Alfombra voladora",
+      "difficulty": 2,
+      "hints": ["Volar", "Tela", "Desierto", "Tapete", "Cuento"]
+    },
+    {
+      "text": "Excalibur",
+      "difficulty": 2,
+      "hints": ["Espada", "Roca", "Rey", "Lago", "Leyenda"]
+    },
+    {
+      "text": "Atlántida",
+      "difficulty": 2,
+      "hints": ["Hundida", "Isla", "Civilización", "Mar", "Platón"]
+    },
+    {
+      "text": "El Dorado",
+      "difficulty": 2,
+      "hints": ["Oro", "Ciudad perdida", "Explorador", "Selva", "Tesoro"]
+    },
+    {
+      "text": "Olimpo",
+      "difficulty": 2,
+      "hints": ["Dioses", "Monte", "Griego", "Nubes", "Cumbre"]
+    },
+    {
+      "text": "Zeus",
+      "difficulty": 2,
+      "hints": ["Rayo", "Trueno", "Padre", "Dios", "Cielo"]
+    },
+    {
+      "text": "Poseidón",
+      "difficulty": 2,
+      "hints": ["Tridente", "Mar", "Olas", "Hermano", "Dios"]
+    },
+    {
+      "text": "Hades",
+      "difficulty": 2,
+      "hints": ["Inframundo", "Muertos", "Dios", "Oscuridad", "Llamas"]
+    },
+    {
+      "text": "Thor",
+      "difficulty": 2,
+      "hints": ["Martillo", "Trueno", "Vikingo", "Dios", "Rubio"]
+    },
+    {
+      "text": "Odín",
+      "difficulty": 2,
+      "hints": ["Un ojo", "Cuervos", "Padre", "Dios", "Nórdico"]
+    },
+    {
+      "text": "Anubis",
+      "difficulty": 2,
+      "hints": ["Chacal", "Egipto", "Muertos", "Dios", "Momificación"]
+    },
+    {
+      "text": "Caballo de Troya",
+      "difficulty": 2,
+      "hints": ["Engaño", "Madera", "Guerra", "Regalo", "Soldados"]
+    },
+    {
+      "text": "Caja de Pandora",
+      "difficulty": 2,
+      "hints": ["Males", "Curiosidad", "Abrir", "Esperanza", "Mito"]
+    },
+    {
+      "text": "Ícaro",
+      "difficulty": 2,
+      "hints": ["Alas", "Cera", "Sol", "Caída", "Padre"]
+    },
+    {
+      "text": "Rey Midas",
+      "difficulty": 2,
+      "hints": ["Oro", "Tocar", "Avaricia", "Deseo", "Mito"]
+    },
+    {
+      "text": "Cerbero",
+      "difficulty": 2,
+      "hints": ["Tres cabezas", "Perro", "Guardián", "Inframundo", "Puerta"]
+    },
+    {
+      "text": "Basilisco",
+      "difficulty": 2,
+      "hints": ["Mirada", "Serpiente", "Rey", "Gallo", "Veneno"]
+    },
+    {
+      "text": "Merlín",
+      "difficulty": 2,
+      "hints": ["Mago", "Rey", "Sombrero", "Barba", "Leyenda"]
+    },
+    {
+      "text": "Atenea",
+      "difficulty": 2,
+      "hints": ["Sabiduría", "Búho", "Lanza", "Diosa", "Estrategia"]
+    }
+  ]
+}

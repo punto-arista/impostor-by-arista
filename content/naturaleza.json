@@ -1,0 +1,257 @@
+{
+  "slug": "naturaleza",
+  "name": "naturaleza",
+  "sort_order": 9,
+  "words": [
+    {
+      "text": "Huracán",
+      "difficulty": 2,
+      "hints": ["Viento", "Ojo", "Costa", "Categoría", "Alerta"]
+    },
+    {
+      "text": "Cascada",
+      "difficulty": 2,
+      "hints": ["Agua", "Caída", "Rocas", "Espuma", "Selva"]
+    },
+    {
+      "text": "Glaciar",
+      "difficulty": 2,
+      "hints": ["Frío", "Hielo", "Polo", "Derretirse", "Lento"]
+    },
+    {
+      "text": "Arcoíris",
+      "difficulty": 2,
+      "hints": ["Colores", "Lluvia", "Sol", "Arco", "Tesoro"]
+    },
+    {
+      "text": "Terremoto",
+      "difficulty": 2,
+      "hints": ["Movimiento", "Temblor", "Placas", "Escala", "Grietas"]
+    },
+    {
+      "text": "Bosque",
+      "difficulty": 2,
+      "hints": ["Verde", "Árboles", "Sombra", "Sendero", "Musgo"]
+    },
+    {
+      "text": "Nube",
+      "difficulty": 2,
+      "hints": ["Cielo", "Algodón", "Vapor", "Lluvia", "Flotar"]
+    },
+    {
+      "text": "Marea",
+      "difficulty": 2,
+      "hints": ["Orilla", "Luna", "Subir", "Mar", "Arena"]
+    },
+    {
+      "text": "Volcán",
+      "difficulty": 2,
+      "hints": ["Caliente", "Lava", "Cráter", "Erupción", "Humo"]
+    },
+    {
+      "text": "Nieve",
+      "difficulty": 2,
+      "hints": ["Blanco", "Copos", "Invierno", "Muñeco", "Frío"]
+    },
+    {
+      "text": "Cometa",
+      "difficulty": 2,
+      "hints": ["Espacio", "Cola", "Brillante", "Órbita", "Raro"]
+    },
+    {
+      "text": "Eclipse",
+      "difficulty": 2,
+      "hints": ["Sombra", "Sol", "Luna", "Raro", "Oscurecer"]
+    },
+    {
+      "text": "Río",
+      "difficulty": 2,
+      "hints": ["Corriente", "Cauce", "Agua dulce", "Puente", "Desembocar"]
+    },
+    {
+      "text": "Océano",
+      "difficulty": 2,
+      "hints": ["Profundo", "Inmenso", "Sal", "Barcos", "Azul"]
+    },
+    {
+      "text": "Lago",
+      "difficulty": 2,
+      "hints": ["Quieto", "Orilla", "Pesca", "Calma", "Reflejo"]
+    },
+    {
+      "text": "Tormenta",
+      "difficulty": 2,
+      "hints": ["Lluvia", "Truenos", "Nubes", "Paraguas", "Refugio"]
+    },
+    {
+      "text": "Relámpago",
+      "difficulty": 2,
+      "hints": ["Luz", "Rápido", "Cielo", "Trueno", "Destello"]
+    },
+    {
+      "text": "Estrella",
+      "difficulty": 2,
+      "hints": ["Brillo", "Noche", "Lejana", "Deseo", "Constelación"]
+    },
+    {
+      "text": "Luna",
+      "difficulty": 2,
+      "hints": ["Noche", "Fases", "Cráteres", "Marea", "Llena"]
+    },
+    {
+      "text": "Sequía",
+      "difficulty": 2,
+      "hints": ["Seco", "Escasez", "Calor", "Cosecha", "Grietas"]
+    },
+    {
+      "text": "Niebla",
+      "difficulty": 2,
+      "hints": ["Visibilidad", "Neblina", "Madrugada", "Gris", "Carretera"]
+    },
+    {
+      "text": "Rocío",
+      "difficulty": 2,
+      "hints": ["Mañana", "Gotas", "Hojas", "Fresco", "Pasto"]
+    },
+    {
+      "text": "Aurora boreal",
+      "difficulty": 2,
+      "hints": ["Colores", "Cielo", "Polo", "Noche", "Luces"]
+    },
+    {
+      "text": "Tsunami",
+      "difficulty": 2,
+      "hints": ["Ola gigante", "Costa", "Alerta", "Sismo", "Evacuar"]
+    },
+    {
+      "text": "Avalancha",
+      "difficulty": 2,
+      "hints": ["Nieve", "Montaña", "Derrumbe", "Rápido", "Peligro"]
+    },
+    {
+      "text": "Incendio forestal",
+      "difficulty": 2,
+      "hints": ["Humo", "Llamas", "Bomberos", "Cenizas", "Verano"]
+    },
+    {
+      "text": "Lluvia",
+      "difficulty": 2,
+      "hints": ["Gotas", "Paraguas", "Charcos", "Nubes", "Otoño"]
+    },
+    {
+      "text": "Granizo",
+      "difficulty": 2,
+      "hints": ["Hielo", "Techo", "Golpes", "Tormenta", "Bolitas"]
+    },
+    {
+      "text": "Pantano",
+      "difficulty": 2,
+      "hints": ["Lodo", "Estancado", "Humedad", "Mosquitos", "Verdoso"]
+    },
+    {
+      "text": "Arrecife",
+      "difficulty": 2,
+      "hints": ["Coral", "Peces", "Mar", "Colores", "Snorkel"]
+    },
+    {
+      "text": "Pradera",
+      "difficulty": 2,
+      "hints": ["Pasto", "Horizonte", "Plana", "Viento", "Verde"]
+    },
+    {
+      "text": "Valle",
+      "difficulty": 2,
+      "hints": ["Montañas", "Plano", "Río", "Cultivos", "Entre"]
+    },
+    {
+      "text": "Cañón",
+      "difficulty": 2,
+      "hints": ["Profundo", "Roca", "Erosión", "Mirador", "Colorado"]
+    },
+    {
+      "text": "Géiser",
+      "difficulty": 2,
+      "hints": ["Vapor", "Chorro", "Termal", "Volcánico", "Caliente"]
+    },
+    {
+      "text": "Oasis",
+      "difficulty": 2,
+      "hints": ["Desierto", "Palmeras", "Agua", "Alivio", "Espejismo"]
+    },
+    {
+      "text": "Duna",
+      "difficulty": 2,
+      "hints": ["Arena", "Viento", "Dorada", "Ondulada", "Camellos"]
+    },
+    {
+      "text": "Atardecer",
+      "difficulty": 2,
+      "hints": ["Naranja", "Playa", "Foto", "Cielo", "Despedida"]
+    },
+    {
+      "text": "Amanecer",
+      "difficulty": 2,
+      "hints": ["Temprano", "Gallo", "Luz", "Horizonte", "Despertar"]
+    },
+    {
+      "text": "Otoño",
+      "difficulty": 2,
+      "hints": ["Hojas", "Secas", "Fresco", "Dorado", "Septiembre"]
+    },
+    {
+      "text": "Primavera",
+      "difficulty": 2,
+      "hints": ["Flores", "Colores", "Renacer", "Abejas", "Mayo"]
+    },
+    {
+      "text": "Flor",
+      "difficulty": 2,
+      "hints": ["Pétalos", "Aroma", "Jardín", "Regalo", "Polen"]
+    },
+    {
+      "text": "Semilla",
+      "difficulty": 2,
+      "hints": ["Tierra", "Germinar", "Pequeña", "Siembra", "Futuro"]
+    },
+    {
+      "text": "Raíz",
+      "difficulty": 2,
+      "hints": ["Subterránea", "Tierra", "Sostener", "Árbol", "Agua"]
+    },
+    {
+      "text": "Árbol",
+      "difficulty": 2,
+      "hints": ["Tronco", "Sombra", "Ramas", "Hojas", "Años"]
+    },
+    {
+      "text": "Hongo",
+      "difficulty": 2,
+      "hints": ["Humedad", "Sombrero", "Esporas", "Bosque", "Seta"]
+    },
+    {
+      "text": "Fósil",
+      "difficulty": 2,
+      "hints": ["Antiguo", "Roca", "Huella", "Millones", "Museo"]
+    },
+    {
+      "text": "Tornado",
+      "difficulty": 2,
+      "hints": ["Embudo", "Remolino", "Viento", "Destrucción", "Llanura"]
+    },
+    {
+      "text": "Sol",
+      "difficulty": 2,
+      "hints": ["Calor", "Día", "Luz", "Amarillo", "Bronceado"]
+    },
+    {
+      "text": "Brisa",
+      "difficulty": 2,
+      "hints": ["Suave", "Fresca", "Mar", "Cabello", "Verano"]
+    },
+    {
+      "text": "Manglar",
+      "difficulty": 2,
+      "hints": ["Raíces", "Costa", "Pantanoso", "Salado", "Lagunas"]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "slug": "vehiculos",
+  "name": "vehículos",
+  "sort_order": 14,
+  "words": [
+    {
+      "text": "Auto",
+      "difficulty": 2,
+      "hints": ["Carretera", "Volante", "Cuatro ruedas", "Gasolina", "Placas"]
+    },
+    {
+      "text": "Motocicleta",
+      "difficulty": 2,
+      "hints": ["Casco", "Dos ruedas", "Velocidad", "Escape", "Motor"]
+    },
+    {
+      "text": "Camión",
+      "difficulty": 2,
+      "hints": ["Carga", "Pesado", "Caja", "Tráiler", "Carretera"]
+    },
+    {
+      "text": "Autobús",
+      "difficulty": 2,
+      "hints": ["Pasajeros", "Ruta", "Parada", "Boleto", "Chofer"]
+    },
+    {
+      "text": "Tren",
+      "difficulty": 2,
+      "hints": ["Vías", "Estación", "Vagones", "Silbato", "Locomotora"]
+    },
+    {
+      "text": "Avión",
+      "difficulty": 2,
+      "hints": ["Altura", "Alas", "Pista", "Turbinas", "Despegue"]
+    },
+    {
+      "text": "Barco",
+      "difficulty": 2,
+      "hints": ["Navegar", "Ancla", "Cubierta", "Capitán", "Mar"]
+    },
+    {
+      "text": "Helicóptero",
+      "difficulty": 2,
+      "hints": ["Hélice", "Aterrizar", "Rescate", "Ruido", "Vertical"]
+    },
+    {
+      "text": "Submarino",
+      "difficulty": 2,
+      "hints": ["Profundidad", "Periscopio", "Sumergirse", "Sonar", "Amarillo"]
+    },
+    {
+      "text": "Globo aerostático",
+      "difficulty": 2,
+      "hints": ["Flotar", "Canasta", "Calor", "Altura", "Paisaje"]
+    },
+    {
+      "text": "Tractor",
+      "difficulty": 2,
+      "hints": ["Campo", "Arado", "Llantas grandes", "Cosecha", "Granja"]
+    },
+    {
+      "text": "Ambulancia",
+      "difficulty": 2,
+      "hints": ["Urgencia", "Sirena", "Camilla", "Paramédicos", "Hospital"]
+    },
+    {
+      "text": "Patrulla",
+      "difficulty": 2,
+      "hints": ["Ley", "Sirena", "Torreta", "Policía", "Vigilar"]
+    },
+    {
+      "text": "Limusina",
+      "difficulty": 2,
+      "hints": ["Lujo", "Larga", "Bodas", "Elegante", "Chofer"]
+    },
+    {
+      "text": "Cohete",
+      "difficulty": 2,
+      "hints": ["Espacio", "Despegue", "Combustible", "Cuenta regresiva", "Órbita"]
+    },
+    {
+      "text": "Velero",
+      "difficulty": 2,
+      "hints": ["Viento", "Velas", "Mástil", "Regata", "Lago"]
+    },
+    {
+      "text": "Camioneta",
+      "difficulty": 2,
+      "hints": ["Trabajo", "Caja abierta", "Familia", "Cargar", "Terracería"]
+    },
+    {
+      "text": "Tranvía",
+      "difficulty": 2,
+      "hints": ["Ciudad", "Rieles", "Cables", "Centro", "Lento"]
+    },
+    {
+      "text": "Monopatín",
+      "difficulty": 2,
+      "hints": ["Ruedas", "Manubrio", "Eléctrico", "Empujar", "Plegable"]
+    },
+    {
+      "text": "Patineta",
+      "difficulty": 2,
+      "hints": ["Trucos", "Tabla", "Rampa", "Equilibrio", "Calle"]
+    },
+    {
+      "text": "Taxi",
+      "difficulty": 2,
+      "hints": ["Medidor", "Amarillo", "Tarifa", "Pasajero", "Parada"]
+    },
+    {
+      "text": "Metrobús",
+      "difficulty": 2,
+      "hints": ["Carril confinado", "Estación", "Ciudad", "Hora pico", "Tarjeta"]
+    },
+    {
+      "text": "Tráiler",
+      "difficulty": 2,
+      "hints": ["Remolque", "Carretera", "Carga", "Largo", "Caja"]
+    },
+    {
+      "text": "Grúa",
+      "difficulty": 2,
+      "hints": ["Remolcar", "Accidente", "Cable", "Levantar", "Descompuesto"]
+    },
+    {
+      "text": "Camión de bomberos",
+      "difficulty": 2,
+      "hints": ["Sirena", "Escalera", "Manguera", "Rojo", "Emergencia"]
+    },
+    {
+      "text": "Cuatrimoto",
+      "difficulty": 2,
+      "hints": ["Cuatro llantas", "Lodo", "Aventura", "Terracería", "Manubrio"]
+    },
+    {
+      "text": "Lancha",
+      "difficulty": 2,
+      "hints": ["Motor", "Lago", "Rápida", "Chaleco", "Muelle"]
+    },
+    {
+      "text": "Yate",
+      "difficulty": 2,
+      "hints": ["Lujo", "Mar", "Cubierta", "Marina", "Fiesta"]
+    },
+    {
+      "text": "Crucero",
+      "difficulty": 2,
+      "hints": ["Vacaciones", "Camarote", "Buffet", "Océano", "Puertos"]
+    },
+    {
+      "text": "Canoa",
+      "difficulty": 2,
+      "hints": ["Remo", "Río", "Tallada", "Estrecha", "Paseo"]
+    },
+    {
+      "text": "Kayak",
+      "difficulty": 2,
+      "hints": ["Remo doble", "Río", "Aventura", "Espuma", "Individual"]
+    },
+    {
+      "text": "Balsa",
+      "difficulty": 2,
+      "hints": ["Troncos", "Náufrago", "Flotar", "Río", "Improvisada"]
+    },
+    {
+      "text": "Avioneta",
+      "difficulty": 2,
+      "hints": ["Pequeña", "Hélice", "Pista", "Piloto", "Fumigar"]
+    },
+    {
+      "text": "Planeador",
+      "difficulty": 2,
+      "hints": ["Sin motor", "Corrientes", "Silencioso", "Alas", "Elevación"]
+    },
+    {
+      "text": "Paracaídas",
+      "difficulty": 2,
+      "hints": ["Salto", "Caída", "Tela", "Aterrizar", "Cuerdas"]
+    },
+    {
+      "text": "Teleférico",
+      "difficulty": 2,
+      "hints": ["Cables", "Cabina", "Altura", "Montaña", "Vista"]
+    },
+    {
+      "text": "Carruaje",
+      "difficulty": 2,
+      "hints": ["Caballos", "Antiguo", "Boda", "Paseo", "Ruedas de madera"]
+    },
+    {
+      "text": "Trineo",
+      "difficulty": 2,
+      "hints": ["Nieve", "Perros", "Navidad", "Deslizar", "Invierno"]
+    },
+    {
+      "text": "Triciclo",
+      "difficulty": 2,
+      "hints": ["Niños", "Tres ruedas", "Pedales", "Parque", "Manubrio"]
+    },
+    {
+      "text": "Scooter",
+      "difficulty": 2,
+      "hints": ["Plataforma", "Manubrio", "Ciudad", "Eléctrico", "Empujar"]
+    },
+    {
+      "text": "Autobús escolar",
+      "difficulty": 2,
+      "hints": ["Amarillo", "Niños", "Mañana", "Ruta", "Mochilas"]
+    },
+    {
+      "text": "Montacargas",
+      "difficulty": 2,
+      "hints": ["Bodega", "Tarimas", "Horquillas", "Almacén", "Elevar"]
+    },
+    {
+      "text": "Excavadora",
+      "difficulty": 2,
+      "hints": ["Obra", "Pala", "Tierra", "Brazo", "Oruga"]
+    },
+    {
+      "text": "Aplanadora",
+      "difficulty": 2,
+      "hints": ["Asfalto", "Rodillo", "Calle", "Pesada", "Obra"]
+    },
+    {
+      "text": "Silla de ruedas",
+      "difficulty": 2,
+      "hints": ["Movilidad", "Ruedas", "Rampa", "Empujar", "Hospital"]
+    },
+    {
+      "text": "Carrito de golf",
+      "difficulty": 2,
+      "hints": ["Eléctrico", "Campo", "Dos asientos", "Silencioso", "Hoyos"]
+    },
+    {
+      "text": "Camión de basura",
+      "difficulty": 2,
+      "hints": ["Mañana", "Compactar", "Campana", "Calle", "Desechos"]
+    },
+    {
+      "text": "Bicitaxi",
+      "difficulty": 2,
+      "hints": ["Pedalear", "Pueblo", "Pasajeros", "Toldo", "Turistas"]
+    },
+    {
+      "text": "Jet ski",
+      "difficulty": 2,
+      "hints": ["Mar", "Acelerar", "Salpicar", "Verano", "Olas"]
+    },
+    {
+      "text": "Combi",
+      "difficulty": 2,
+      "hints": ["Ruta", "Pasajeros", "Colonia", "Parada", "Transporte"]
+    }
+  ]
+}
