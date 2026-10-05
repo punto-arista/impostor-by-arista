@@ -22,7 +22,10 @@ export function Layout({ label, user, onLogout, onAdmin, allowUpdate = true, chi
       <div className="col">
         <header className="topbar">
           <div className="brand">
-            impostor<span>.</span>
+            <img className="brand-logo" src="/brand/arista-logo.png" alt="" width="28" height="23" />
+            <span className="brand-name">
+              impostor<span>.</span>
+            </span>
           </div>
           <div className={`topbar-right${onAdmin ? ' has-admin' : ''}`}>
             <div className="step">{label}</div>

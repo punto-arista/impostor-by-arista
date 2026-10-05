@@ -113,9 +113,25 @@ a {
   font-size: 20px;
   letter-spacing: -0.02em;
 }
-.brand span,
+.brand-name > span,
 .accent {
   color: var(--primary);
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.brand-logo {
+  display: block;
+  width: 28px;
+  height: auto;
+}
+.login-logo {
+  display: block;
+  width: 96px;
+  height: auto;
+  margin-bottom: 16px;
 }
 .topbar-right {
   display: flex;

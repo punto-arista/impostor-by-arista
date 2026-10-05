@@ -8,9 +8,9 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'prompt',
-      includeAssets: ['icons/favicon.svg', 'icons/apple-180.png'],
+      includeAssets: ['icons/favicon-48.png', 'icons/apple-180.png', 'brand/arista-logo.png'],
       manifest: {
-        name: 'impostor. by arista',
+        name: 'impostor. by arista.',
         short_name: 'impostor.',
         description: 'impostor: todos saben la palabra. menos uno.',
         lang: 'es',

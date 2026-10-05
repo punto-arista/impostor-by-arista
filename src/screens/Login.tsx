@@ -27,6 +27,7 @@ export function Login() {
     <Layout label="acceso">
       <form className="screen" onSubmit={submit}>
         <div className="body">
+          <img className="login-logo" src="/brand/arista-logo.png" alt="arista." width="96" height="80" />
           <div className="display t56">
             impostor<span className="accent">.</span>
           </div>

@@ -1,4 +1,4 @@
-# Configuración de Netlify para impostor. by arista
+# Configuración de Netlify para impostor. by arista.
 
 [build]
   command = "npm run build"

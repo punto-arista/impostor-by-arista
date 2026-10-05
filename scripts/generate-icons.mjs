@@ -1,63 +1,60 @@
-// Genera los íconos PNG de la PWA sin dependencias: el punto verde de la marca
-// ("impostor.") sobre el fondo oscuro. Reemplaza public/icons/* con tu diseño
-// cuando lo tengas; este script solo es un punto de partida.
-import { deflateSync } from 'node:zlib';
-import { writeFileSync, mkdirSync } from 'node:fs';
+// Genera los PNG del logo y los íconos de la PWA a partir del PNG original (brand/arista-logo-original.png):
+//
+//   public/brand/arista-logo.png   logo recortado, fondo transparente (se usa dentro de la app)
+//   public/icons/favicon-32.png    favicon (transparente)
+//   public/icons/192.png, 512.png  íconos "any" de la PWA
+//   public/icons/maskable-512.png  ícono "maskable" (el SO lo recorta: el logo va en la zona segura)
+//   public/icons/apple-180.png     ícono de iOS (pantalla de inicio)
+//
+// Uso: npm run icons   (requiere sharp, devDependency)
+import sharp from 'sharp';
+import { mkdirSync } from 'node:fs';
 
-const BG = [0x11, 0x15, 0x12];
-const FG = [0x74, 0xd4, 0x67];
+const SRC = 'brand/arista-logo-original.png';
 
-const crcTable = Array.from({ length: 256 }, (_, n) => {
-  let c = n;
-  for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
-  return c >>> 0;
-});
-const crc32 = (buf) => {
-  let c = 0xffffffff;
-  for (const b of buf) c = crcTable[(c ^ b) & 0xff] ^ (c >>> 8);
-  return (c ^ 0xffffffff) >>> 0;
-};
-const chunk = (type, data) => {
-  const len = Buffer.alloc(4); len.writeUInt32BE(data.length);
-  const td = Buffer.concat([Buffer.from(type), data]);
-  const crc = Buffer.alloc(4); crc.writeUInt32BE(crc32(td));
-  return Buffer.concat([len, td, crc]);
-};
+// Fondo claro de los íconos de la PWA: iOS/Android pintan de negro cualquier transparencia.
+const BG = '#F2F1EC';
 
-function png(size, dotRatio) {
-  const raw = Buffer.alloc((size * 3 + 1) * size);
-  const r = size * dotRatio, c = size / 2;
-  for (let y = 0; y < size; y++) {
-    raw[y * (size * 3 + 1)] = 0;
-    for (let x = 0; x < size; x++) {
-      // 4x4 supersampling para bordes suaves
-      let hit = 0;
-      for (let sy = 0; sy < 4; sy++) for (let sx = 0; sx < 4; sx++) {
-        const dx = x + (sx + 0.5) / 4 - c, dy = y + (sy + 0.5) / 4 - c;
-        if (dx * dx + dy * dy <= r * r) hit++;
-      }
-      const t = hit / 16, o = y * (size * 3 + 1) + 1 + x * 3;
-      for (let i = 0; i < 3; i++) raw[o + i] = Math.round(BG[i] + (FG[i] - BG[i]) * t);
-    }
-  }
-  const ihdr = Buffer.alloc(13);
-  ihdr.writeUInt32BE(size, 0); ihdr.writeUInt32BE(size, 4); ihdr[8] = 8; ihdr[9] = 2;
-  return Buffer.concat([
-    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
-    chunk('IHDR', ihdr), chunk('IDAT', deflateSync(raw)), chunk('IEND', Buffer.alloc(0)),
-  ]);
+mkdirSync('public/brand', { recursive: true });
+mkdirSync('public/icons', { recursive: true });
+
+// Recorta el margen transparente del original (conserva la sombra suave del borde).
+const trimmed = await sharp(SRC).trim({ threshold: 1 }).png().toBuffer();
+const { width: tw, height: th } = await sharp(trimmed).metadata();
+const aspect = th / tw;
+
+await sharp(trimmed).resize({ width: 512, kernel: 'lanczos3' }).png({ compressionLevel: 9 }).toFile('public/brand/arista-logo.png');
+
+/** Logo reducido a `width` px de ancho, con transparencia. */
+const logo = (width) => sharp(trimmed).resize({ width, kernel: 'lanczos3' }).png().toBuffer();
+
+// Favicon: cuadrado transparente con el logo centrado.
+{
+  const size = 48;
+  const input = await logo(size);
+  await sharp({ create: { width: size, height: size, channels: 4, background: { r: 0, g: 0, b: 0, alpha: 0 } } })
+    .composite([{ input, gravity: 'centre' }])
+    .png({ compressionLevel: 9 })
+    .toFile('public/icons/favicon-48.png');
 }
 
-mkdirSync('public/icons', { recursive: true });
-const out = [
-  ['192.png', 192, 0.2],
-  ['512.png', 512, 0.2],
-  ['maskable-512.png', 512, 0.14], // zona segura: el SO recorta hasta ~20% por lado
-  ['apple-180.png', 180, 0.2],
-];
-for (const [name, size, ratio] of out) writeFileSync(`public/icons/${name}`, png(size, ratio));
+/** Cuadrado `size` con fondo sólido y el logo centrado ocupando `scale` del ancho. */
+async function tile(file, size, scale) {
+  const input = await logo(Math.round(size * scale));
+  await sharp({ create: { width: size, height: size, channels: 4, background: BG } })
+    .composite([{ input, gravity: 'centre' }])
+    .removeAlpha()
+    .png({ compressionLevel: 9 })
+    .toFile(file);
+}
 
-writeFileSync('public/icons/favicon.svg',
-`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#111512"/><circle cx="32" cy="32" r="12.8" fill="#74D467"/></svg>
-`);
-console.log('íconos generados en public/icons');
+// Maskable: el SO puede recortar hasta un círculo de ~80 % del lado; la diagonal del logo debe caber.
+const diag = (s) => 0.5 * Math.sqrt(s ** 2 + (s * aspect) ** 2);
+if (diag(0.58) >= 0.4) throw new Error('el logo maskable se saldría de la zona segura');
+
+await tile('public/icons/192.png', 192, 0.7);
+await tile('public/icons/512.png', 512, 0.7);
+await tile('public/icons/maskable-512.png', 512, 0.58);
+await tile('public/icons/apple-180.png', 180, 0.66);
+
+console.log('✓ logo e íconos generados en public/brand y public/icons');

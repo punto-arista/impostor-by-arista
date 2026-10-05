@@ -21,7 +21,7 @@ export function Install({ onSkip }: { onSkip: () => void }) {
             impostor<span className="accent">.</span>
           </div>
           <div className="rule" />
-          <div className="display t20 accent">pantalla completa. sin barras. sin internet.</div>
+          <div className="display t20 accent">pantalla completa. sin barras.</div>
 
           {ios && (
             <>
