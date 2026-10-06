@@ -22,7 +22,7 @@ export function Layout({ label, user, onLogout, onAdmin, allowUpdate = true, chi
       <div className="col">
         <header className="topbar">
           <div className="brand">
-            <img className="brand-logo" src="/brand/arista-logo.png" alt="" width="28" height="23" />
+            <img className="brand-logo" src="/brand/impostor-logo.png" alt="" width="28" height="28" />
             <span className="brand-name">
               impostor<span>.</span>
             </span>
